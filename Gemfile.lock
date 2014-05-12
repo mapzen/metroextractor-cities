@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.1)
+    rainbow (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json (= 1.8.1)
+  rainbow (= 2.0.0)
