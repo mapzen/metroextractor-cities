@@ -572,6 +572,14 @@
                         "right": "-3.935"
                     }
                 },
+                "grand-avignon": {
+                    "bbox": {
+                        "top": "44.100",
+                        "left": "4.596",
+                        "bottom": "43.792",
+                        "right": "5.091"
+                    }
+                },
                 "hamburg": {
                     "bbox": {
                         "top": "53.833",
