@@ -13,5 +13,5 @@ Update cities.json, run `rake` to validate your syntax, and submit a pull reques
 
 License and Authors
 -------------------
-License: GPL
-Authors: grant@mapzen.com
+* license: GPL
+* authors: grant@mapzen.com
