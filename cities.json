@@ -860,6 +860,14 @@
                         "right": "4.784"
                     }
                 },
+                "saint-jean-bonnefonds": {
+                    "bbox": {
+                        "top": "45.4840",
+                        "left": "4.4099",
+                        "bottom": "45.4303",
+                        "right": "4.5044"
+                    }
+                },
                 "sarajevo": {
                     "bbox": {
                         "top": "43.987",
