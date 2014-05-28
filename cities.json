@@ -1424,6 +1424,14 @@
                         "right": "-119.506"
                     }
                 },
+                "springfield-mo": {
+                    "bbox": {
+                        "top": "-93.417",
+                        "left": "37.271",
+                        "bottom": "37.092",
+                        "right": "-93.207"
+                    }
+                }
                 "st-louis": {
                     "bbox": {
                         "top": "39.151",
