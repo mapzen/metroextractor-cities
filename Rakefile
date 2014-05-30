@@ -33,7 +33,7 @@ task :build do
     puts 'Building cities.geojson'.color(:blue)
     sh <<-EOH
       bin/json2geojson.rb
-      git diff --exit-code >/dev/null 2>&1
+      git diff --exit-code
       if [ $? != 0 ]
       then
         echo 'Changes found, committing and pushing'
