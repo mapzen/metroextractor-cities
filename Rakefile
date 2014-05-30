@@ -26,6 +26,16 @@ task :build do
     puts 'Syntax Error!'.color(:red)
     exit 1
   end
+
+  # Produce new cities.geojson
+  #
+  puts ENV['BUILDHOST']
+  puts 'Building  cities.geojson'.color(:blue)
+  sh 'bin/json2geojson.rb'
+  sh "git config user.email 'circle@circleci'"
+  sh "git config user.name 'circle'"
+  sh "git commit -am 'cities.geojson update'"
+  sh 'git push origin master'
 end
 
 task default: 'build'
