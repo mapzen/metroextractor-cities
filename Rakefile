@@ -42,7 +42,7 @@ task :build do
         git commit -am 'cities.geojson update'
         git push origin master
       else
-        echo 'No changes found, we're done here'
+        echo "No changes found, we're done here"
       fi
     EOH
   end
