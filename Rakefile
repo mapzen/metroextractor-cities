@@ -30,7 +30,7 @@ task :build do
   # If json is valid, build geojson and commit/push
   #
   puts 'Building cities.geojson and committing/pushing...'.color(:blue)
-  sh './json2geojson.rb'
+  sh './bin/json2geojson.rb'
   sh "git commit -am 'cities.geojson update'"
   sh 'git push origin master'
 end
