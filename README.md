@@ -4,8 +4,9 @@ metroextractor-cities
 
 Description
 -----------
-cities.json defines bounding boxes for various metro areas, which are used by [chef-metroextractor](https://github.com/mapzen/chef-metroextractor)
+- cities.json defines bounding boxes for various metro areas, which are used by [chef-metroextractor](https://github.com/mapzen/chef-metroextractor)
 to produce weekly extracts.
+- run bin/json2geojson.rb to produce cities.geojson
 
 Pull Requests
 -------------
