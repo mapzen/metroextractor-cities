@@ -39,7 +39,7 @@ task :build do
         echo 'Changes found, committing and pushing'
         git config user.email 'circle@circleci'
         git config user.name 'circle'
-        git commit -am 'cities.geojson update'
+        git commit -am 'COMMITTED VIA CIRCLECI: cities.geojson update'
         git push origin master
       else
         echo "No changes found, we're done here"
