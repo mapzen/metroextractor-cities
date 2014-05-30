@@ -1,1 +1,4 @@
 tmp/
+.bundle/
+.ruby-version
+vendor/
