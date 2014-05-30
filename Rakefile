@@ -29,13 +29,14 @@ task :build do
 
   # Produce new cities.geojson
   #
-  puts ENV['CIRCLECI']
-  puts 'Building  cities.geojson'.color(:blue)
-  sh 'bin/json2geojson.rb'
-  sh "git config user.email 'circle@circleci'"
-  sh "git config user.name 'circle'"
-  sh "git commit -am 'cities.geojson update'"
-  sh 'git push origin master'
+  if ENV['CIRCLECI'] == true
+    puts 'Building  cities.geojson'.color(:blue)
+    sh 'bin/json2geojson.rb'
+    sh "git config user.email 'circle@circleci'"
+    sh "git config user.name 'circle'"
+    sh "git commit -am 'cities.geojson update'"
+    sh 'git push origin master'
+  end
 end
 
 task default: 'build'
