@@ -5,10 +5,15 @@ require 'rainbow/ext/string'
 
 desc 'Run integration tests'
 task :build do
+  # Prepare sandbox
+  #
+  sandbox = File.join(File.dirname(__FILE__), %w(tmp))
+  prepare_sandbox(sandbox)
+
   # Check ruby syntax
   #
   puts 'Running rubocop'.color(:blue)
-  sh "rubocop ."
+  sh "rubocop #{File.dirname(sandbox)}/tmp"
 
   # Validate cities.json
   #
@@ -17,7 +22,6 @@ task :build do
   begin
     JSON.load(File.read('cities.json'))
     puts 'Syntax OK'.color(:green)
-    exit 0
   rescue JSON::ParserError
     puts 'Syntax Error!'.color(:red)
     exit 1
@@ -26,9 +30,18 @@ task :build do
   # If json is valid, build geojson and commit/push
   #
   puts 'Building cities.geojson and committing/pushing...'.color(:blue)
-  sh "./json2geojson.rb"
+  sh './json2geojson.rb'
   sh "git commit -am 'cities.geojson update'"
-  sh "git push origin master"
+  sh 'git push origin master'
 end
 
 task default: 'build'
+
+def prepare_sandbox(sandbox)
+  files = %w(Rakefile *.md *.rb)
+
+  puts 'Preparing sandbox'.color(:blue)
+  rm_rf sandbox
+  mkdir_p sandbox
+  cp_r Dir.glob("{#{files.join(',')}}"), sandbox
+end
