@@ -31,7 +31,7 @@ task :build do
   #
   if ENV['CIRCLECI'] == 'true'
     puts 'Building  cities.geojson'.color(:blue)
-    sh "if [ -z $(git status --porcelain) ]; then exit 0; fi"
+    sh 'if [ -z $(git status --porcelain) ]; then exit 0; fi'
     sh 'bin/json2geojson.rb'
     sh "git config user.email 'circle@circleci'"
     sh "git config user.name 'circle'"
