@@ -29,7 +29,7 @@ task :build do
 
   # Produce new cities.geojson
   #
-  if ENV['CIRCLECI'] == true
+  if ENV['CIRCLECI'] == 'true'
     puts 'Building  cities.geojson'.color(:blue)
     sh 'bin/json2geojson.rb'
     sh "git config user.email 'circle@circleci'"
