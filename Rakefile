@@ -30,13 +30,18 @@ task :build do
   # Produce new cities.geojson
   #
   if ENV['CIRCLECI'] == 'true'
-    puts 'Building  cities.geojson'.color(:blue)
-    sh 'bin/json2geojson.rb'
-    sh 'git diff --exit-code; if [ $? = 0 ]; then exit 0; fi'
-    sh "git config user.email 'circle@circleci'"
-    sh "git config user.name 'circle'"
-    sh "git commit -am 'cities.geojson update'"
-    sh 'git push origin master'
+    puts 'Building cities.geojson and pushing any updates'.color(:blue)
+    sh <<-EOH
+      bin/json2geojson.rb
+      git diff --exit-code >/dev/null 2>&1
+      if [ $? != 0 ]
+      then
+        git config user.email 'circle@circleci'
+        git config user.name 'circle'
+        git commit -am 'cities.geojson update'
+        git push origin master
+      fi
+    EOH
   end
 end
 
