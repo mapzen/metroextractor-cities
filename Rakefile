@@ -29,10 +29,14 @@ task :build do
 
   # If json is valid, build geojson and commit/push
   #
-  puts 'Building cities.geojson and committing/pushing...'.color(:blue)
-  sh './bin/json2geojson.rb'
-  sh "git commit -am 'cities.geojson update'"
-  sh 'git push origin master'
+  if ENV['BUILD_HOST'] == true
+    puts 'Building cities.geojson and committing/pushing...'.color(:blue)
+    sh './bin/json2geojson.rb'
+    sh "git config user.email 'circle@circleci'"
+    sh "git config user.name 'Circle'"
+    sh "git commit -am 'cities.geojson update'"
+    sh 'git push origin master'
+  end
 end
 
 task default: 'build'
