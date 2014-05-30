@@ -26,9 +26,9 @@ task :build do
   # If json is valid, build geojson and commit/push
   #
   puts 'Building cities.geojson and committing/pushing...'.color(:blue)
-  ./json2geojson.rb
-  git commit -am 'cities.geojson update'
-  git push origin master
+  sh "./json2geojson.rb"
+  sh "git commit -am 'cities.geojson update'"
+  sh "git push origin master"
 end
 
 task default: 'build'
