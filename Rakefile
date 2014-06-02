@@ -34,6 +34,7 @@ task :build do
     sh <<-EOH
       BRANCH=$(git rev-parse --abbrev-ref HEAD)
       if [[ $BRANCH -eq 'master' ]]
+      then
         bin/json2geojson.rb
         git diff --exit-code
         if [ $? != 0 ]
