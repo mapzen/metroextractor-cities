@@ -32,17 +32,22 @@ task :build do
   if ENV['CIRCLECI'] == 'true'
     puts 'Building cities.geojson'.color(:blue)
     sh <<-EOH
-      bin/json2geojson.rb
-      git diff --exit-code
-      if [ $? != 0 ]
-      then
-        echo 'Changes found, committing and pushing'
-        git config user.email 'circle@circleci'
-        git config user.name 'circle'
-        git commit -am 'COMMITTED VIA CIRCLECI: cities.geojson update'
-        git push origin master
+      BRANCH=$(git rev-parse --abbrev-ref HEAD)
+      if [[ $BRANCH -eq 'master' ]]
+        bin/json2geojson.rb
+        git diff --exit-code
+        if [ $? != 0 ]
+        then
+          echo 'Changes found, committing and pushing'
+          git config user.email 'circle@circleci'
+          git config user.name 'circle'
+          git commit -am 'COMMITTED VIA CIRCLECI: cities.geojson update'
+          git push origin master
+        else
+          echo "No changes found, we're done here"
+        fi
       else
-        echo "No changes found, we're done here"
+        echo "Branch isn't master, not doing anything fancy"
       fi
     EOH
   end
