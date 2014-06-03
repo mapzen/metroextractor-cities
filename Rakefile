@@ -33,7 +33,7 @@ task :build do
     puts 'Building cities.geojson'.color(:blue)
     sh <<-EOH
       BRANCH=$(git rev-parse --abbrev-ref HEAD)
-      if [ ${BRANCH} -eq 'master' ]
+      if [ ${BRANCH} = 'master' ]
       then
         bin/json2geojson.rb
         git diff --exit-code
