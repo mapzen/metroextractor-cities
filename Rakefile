@@ -17,10 +17,21 @@ task :build do
 
   # Validate cities.json
   #
-  puts 'Validating json'.color(:blue)
+  puts 'Validating cities.json'.color(:blue)
 
   begin
     JSON.load(File.read('cities.json'))
+    puts 'Syntax OK'.color(:green)
+  rescue JSON::ParserError
+    puts 'Syntax Error!'.color(:red)
+    exit 1
+  end
+
+  # Validate cities.geojson
+  #
+  puts 'Validating cities.geojson'.color(:blue)
+  begin
+    JSON.load(File.read('cities.geojson'))
     puts 'Syntax OK'.color(:green)
   rescue JSON::ParserError
     puts 'Syntax Error!'.color(:red)
