@@ -6,11 +6,11 @@ Description
 -----------
 - cities.json defines bounding boxes for various metro areas, which are used by [chef-metroextractor](https://github.com/mapzen/chef-metroextractor)
 to produce weekly extracts.
-- run bin/json2geojson.rb to produce cities.geojson
 
 Pull Requests
 -------------
-Update cities.json, run `rake` to validate your syntax, and submit a pull request.
+- update cities.json and submit a pull request.
+- it is not necessary to update cities.geojson. This will be generated automatically after your pull request is merged.
 
 License and Authors
 -------------------
