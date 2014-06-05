@@ -979,6 +979,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "hiroshima"
+      },
+      "bbox": [
+        132.289,
+        34.233,
+        132.611,
+        34.548
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              132.289,
+              34.548
+            ],
+            [
+              132.611,
+              34.548
+            ],
+            [
+              132.611,
+              34.233
+            ],
+            [
+              132.289,
+              34.233
+            ],
+            [
+              132.289,
+              34.548
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "hong-kong"
       },
       "bbox": [
