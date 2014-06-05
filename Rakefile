@@ -41,10 +41,9 @@ task :build do
   # Produce new cities.geojson
   #
   if ENV['CIRCLECI'] == 'true'
-    puts 'Building cities.geojson'.color(:blue)
-    sh <<-EOH
-      if [ ${CIRCLE_BRANCH} = 'master' ]
-      then
+    if ENV['CIRCLE_BRANCH'] == 'master'
+      puts 'Building cities.geojson'.color(:blue)
+      sh <<-EOH
         bin/json2geojson.rb
         git diff --exit-code
         if [ $? != 0 ]
@@ -57,10 +56,8 @@ task :build do
         else
           echo "No changes found, we're done here"
         fi
-      else
-        echo "Branch isn't master, not doing anything fancy"
-      fi
-    EOH
+      EOH
+    end
   end
 end
 
