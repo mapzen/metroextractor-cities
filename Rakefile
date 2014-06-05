@@ -43,8 +43,7 @@ task :build do
   if ENV['CIRCLECI'] == 'true'
     puts 'Building cities.geojson'.color(:blue)
     sh <<-EOH
-      BRANCH=$(git rev-parse --abbrev-ref HEAD)
-      if [ ${BRANCH} = 'master' ]
+      if [ ${CIRCLE_BRANCH} = 'master' ]
       then
         bin/json2geojson.rb
         git diff --exit-code
