@@ -6751,6 +6751,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "ottawa"
+      },
+      "bbox": [
+        -76.361,
+        44.927,
+        -75.052,
+        45.598
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.361,
+              45.598
+            ],
+            [
+              -75.052,
+              45.598
+            ],
+            [
+              -75.052,
+              44.927
+            ],
+            [
+              -76.361,
+              44.927
+            ],
+            [
+              -76.361,
+              45.598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "philadelphia"
       },
       "bbox": [
