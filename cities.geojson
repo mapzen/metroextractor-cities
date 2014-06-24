@@ -4723,6 +4723,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "turin"
+      },
+      "bbox": [
+        7.504,
+        44.98,
+        7.775,
+        45.156
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.504,
+              45.156
+            ],
+            [
+              7.775,
+              45.156
+            ],
+            [
+              7.775,
+              44.98
+            ],
+            [
+              7.504,
+              44.98
+            ],
+            [
+              7.504,
+              45.156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "samara-tolyatti"
       },
       "bbox": [
