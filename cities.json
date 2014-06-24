@@ -1,29 +1,11 @@
 {
     "regions": {
-        "senegal": {
+        "africa": {
             "bbox": {
-              "top": "16.713",
-              "left": "-17.720",
-              "bottom": "12.177",
-              "right": "-11.345"
-            },
-            "cities": {
-                "dakar": {
-                    "bbox": {
-                        "top": "14.863",
-                        "left": "-17.535",
-                        "bottom": "14.641",
-                        "right": "-17.216"
-                    }
-                }
-            }
-        },
-        "south_africa": {
-            "bbox": {
-                "top": "36.890",
-                "left": "2.889",
-                "bottom": "-26.563",
-                "right": "45.636"
+                "top": "37.630",
+                "left": "-17.910",
+                "bottom": "-35.180",
+                "right": "51.710"
             },
             "cities": {
                 "abuja": {
@@ -48,6 +30,14 @@
                         "left": "30.897",
                         "bottom": "29.761",
                         "right": "31.710"
+                    }
+                },
+                "dakar": {
+                    "bbox": {
+                        "top": "14.863",
+                        "left": "-17.535",
+                        "bottom": "14.641",
+                        "right": "-17.216"
                     }
                 },
                 "dar-es-salaam": {
