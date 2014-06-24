@@ -996,6 +996,14 @@
                         "right": "11.196"
                     }
                 },
+                "turin": {
+                    "bbox": {
+                        "top": "45.156",
+                        "left": "7.504",
+                        "bottom": "44.980",
+                        "right": "7.775"
+                    }
+                },
                 "samara-tolyatti": {
                     "bbox": {
                         "top": "54.037",
