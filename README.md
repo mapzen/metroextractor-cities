@@ -10,7 +10,7 @@ to produce weekly extracts.
 Pull Requests
 -------------
 - update cities.json and submit a pull request.
-- it is not necessary to update cities.geojson. This will be generated automatically after your pull request is merged.
+- it is not necessary to update cities.geojson, as it will be generated automatically after your pull request is merged.
 
 License and Authors
 -------------------
