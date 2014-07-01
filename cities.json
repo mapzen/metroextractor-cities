@@ -1780,12 +1780,36 @@
                         "right": "-75.337"
                     }
                 },
+                "cobija-bolivia": {
+                    "bbox": {
+                        "top": "-10.982",
+                        "left": "-68.814",
+                        "bottom": "-11.067",
+                        "right": "-68.711"
+                    }
+                },
+                "cochabamba-bolivia": {
+                    "bbox": {
+                        "top": "-16.904",
+                        "left": "-66.750",
+                        "bottom": "-17.793",
+                        "right": "-65.674"
+                    }
+                },
                 "curitiba-brazil": {
                     "bbox": {
                         "top": "-25.071",
                         "left": "-49.703",
                         "bottom": "-25.799",
                         "right": "-48.799"
+                    }
+                },
+                "lapaz-bolivia": {
+                    "bbox": {
+                        "top": "-16.391",
+                        "left": "-68.335",
+                        "bottom": "-16.688",
+                        "right": "-67.993"
                     }
                 },
                 "lima": {
@@ -1804,12 +1828,28 @@
                         "right": "-86.152"
                     }
                 },
+                "oruro-bolivia": {
+                    "bbox": {
+                        "top": "-17.869",
+                        "left": "-67.219",
+                        "bottom": "-18.049",
+                        "right": "-67.004"
+                    }
+                },
                 "porto-alegre": {
                     "bbox": {
                         "top": "-29.471",
                         "left": "-52.159",
                         "bottom": "-30.638",
                         "right": "-50.371"
+                    }
+                },
+                "potosi-bolivia": {
+                    "bbox": {
+                        "top": "-19.527",
+                        "left": "-65.832",
+                        "bottom": "-19.636",
+                        "right": "-65.683"
                     }
                 },
                 "quito-ecuador": {
@@ -1836,12 +1876,44 @@
                         "right": "-45.863"
                     }
                 },
+                "santacruz-bolivia": {
+                    "bbox": {
+                        "top": "-17.570",
+                        "left": "-63.430",
+                        "bottom": "-18.019",
+                        "right": "-62.889"
+                    }
+                },
                 "santiago": {
                     "bbox": {
                         "top": "-33.151",
                         "left": "-71.043",
                         "bottom": "-33.824",
                         "right": "-70.353"
+                    }
+                },
+                "sucre-bolivia": {
+                    "bbox": {
+                        "top": "-18.977",
+                        "left": "-65.342",
+                        "bottom": "-19.080",
+                        "right": "-65.189"
+                    }
+                },
+                "tarija-bolivia": {
+                    "bbox": {
+                        "top": "-21.454",
+                        "left": "-64.843",
+                        "bottom": "-21.632",
+                        "right": "-64.622"
+                    }
+                },
+                "trinidad-bolivia": {
+                    "bbox": {
+                        "top": "-14.768",
+                        "left": "-64.989",
+                        "bottom": "-14.887",
+                        "right": "-64.825"
                     }
                 },
                 "trinidad-tobago": {
