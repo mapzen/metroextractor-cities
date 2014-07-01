@@ -8350,6 +8350,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "managua"
+      },
+      "bbox": [
+        -86.374,
+        12.053,
+        -86.152,
+        12.182
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -86.374,
+              12.182
+            ],
+            [
+              -86.152,
+              12.182
+            ],
+            [
+              -86.152,
+              12.053
+            ],
+            [
+              -86.374,
+              12.053
+            ],
+            [
+              -86.374,
+              12.182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "porto-alegre"
       },
       "bbox": [
