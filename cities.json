@@ -16,6 +16,14 @@
                         "right": "7.717"
                     }
                 },
+                 "addis-abeba": {
+                    "bbox": {
+                        "top": "9.077",
+                        "left": "38.651",
+                        "bottom": "8.919",
+                        "right": "38.920"
+                    }
+                },
                 "bejaia": {
                     "bbox": {
                         "top": "36.890",
