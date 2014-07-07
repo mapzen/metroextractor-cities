@@ -1603,6 +1603,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "rangoon"
+      },
+      "bbox": [
+        95.996,
+        16.728,
+        96.343,
+        17.076
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95.996,
+              17.076
+            ],
+            [
+              96.343,
+              17.076
+            ],
+            [
+              96.343,
+              16.728
+            ],
+            [
+              95.996,
+              16.728
+            ],
+            [
+              95.996,
+              17.076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "samarkand"
       },
       "bbox": [
