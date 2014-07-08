@@ -1057,6 +1057,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "hangzhou"
+      },
+      "bbox": [
+        120.1,
+        30.23,
+        120.1851,
+        30.2963
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.1,
+              30.2963
+            ],
+            [
+              120.1851,
+              30.2963
+            ],
+            [
+              120.1851,
+              30.23
+            ],
+            [
+              120.1,
+              30.23
+            ],
+            [
+              120.1,
+              30.2963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "hiroshima"
       },
       "bbox": [
