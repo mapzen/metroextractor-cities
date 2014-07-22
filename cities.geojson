@@ -3514,6 +3514,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "ljubljana"
+      },
+      "bbox": [
+        14.0,
+        45.0,
+        14.0,
+        46.0
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.0,
+              46.0
+            ],
+            [
+              14.0,
+              46.0
+            ],
+            [
+              14.0,
+              45.0
+            ],
+            [
+              14.0,
+              45.0
+            ],
+            [
+              14.0,
+              46.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "lyon"
       },
       "bbox": [
