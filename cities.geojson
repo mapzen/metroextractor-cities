@@ -4138,6 +4138,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nice"
+      },
+      "bbox": [
+        7.182,
+        43.636,
+        7.311,
+        43.756
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.182,
+              43.756
+            ],
+            [
+              7.311,
+              43.756
+            ],
+            [
+              7.311,
+              43.636
+            ],
+            [
+              7.182,
+              43.636
+            ],
+            [
+              7.182,
+              43.756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nuremberg"
       },
       "bbox": [
