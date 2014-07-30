@@ -394,6 +394,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mauritius"
+      },
+      "bbox": [
+        57.261,
+        -20.547,
+        57.83,
+        -19.83
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.261,
+              -19.83
+            ],
+            [
+              57.83,
+              -19.83
+            ],
+            [
+              57.83,
+              -20.547
+            ],
+            [
+              57.261,
+              -20.547
+            ],
+            [
+              57.261,
+              -19.83
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mogadishu"
       },
       "bbox": [
