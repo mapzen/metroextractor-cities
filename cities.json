@@ -5,7 +5,7 @@
                 "top": "37.630",
                 "left": "-17.910",
                 "bottom": "-35.180",
-                "right": "51.710"
+                "right": "63.647"
             },
             "cities": {
                 "abuja": {
@@ -87,6 +87,14 @@
                         "bottom": "6.320",
                         "right": "3.834"
                     }
+                },
+                "mauritius": {
+                  "bbox": {
+                        "top": "-19.830",
+                        "left": "57.261",
+                        "bottom": "-20.547",
+                        "right": "57.830"
+                  }  
                 },
                 "mogadishu": {
                     "bbox": {
