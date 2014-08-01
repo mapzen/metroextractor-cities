@@ -676,6 +676,14 @@
                         "right": "-3.935"
                     }
                 },
+                "granada": {
+                    "bbox": {
+                        "top": "37.241",
+                        "left": "-3.703",
+                        "bottom": "37.108",
+                        "right": "-3.506"
+                    }
+                },
                 "grand-avignon": {
                     "bbox": {
                         "top": "44.100",
