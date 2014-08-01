@@ -5503,6 +5503,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "doha"
+      },
+      "bbox": [
+        51.24,
+        24.951,
+        51.801,
+        25.637
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.24,
+              25.637
+            ],
+            [
+              51.801,
+              25.637
+            ],
+            [
+              51.801,
+              24.951
+            ],
+            [
+              51.24,
+              24.951
+            ],
+            [
+              51.24,
+              25.637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "dubai-abu-dhabi"
       },
       "bbox": [
