@@ -1846,10 +1846,10 @@
         },
         "south_america": {
             "bbox": {
-                "top": "11.442",
-                "left": "-78.853",
+                "top": "13.000",
+                "left": "-86.000",
                 "bottom": "-57.000",
-                "right": "-42.850"
+                "right": "-33.000"
             },
             "cities": {
                 "bogota": {
