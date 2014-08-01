@@ -823,6 +823,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bishkek"
+      },
+      "bbox": [
+        74.425,
+        42.6894,
+        74.7624,
+        42.9857
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.425,
+              42.9857
+            ],
+            [
+              74.7624,
+              42.9857
+            ],
+            [
+              74.7624,
+              42.6894
+            ],
+            [
+              74.425,
+              42.6894
+            ],
+            [
+              74.425,
+              42.9857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "chelyabinsk"
       },
       "bbox": [
