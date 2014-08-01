@@ -3163,6 +3163,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "granada"
+      },
+      "bbox": [
+        -3.703,
+        37.108,
+        -3.506,
+        37.241
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.703,
+              37.241
+            ],
+            [
+              -3.506,
+              37.241
+            ],
+            [
+              -3.506,
+              37.108
+            ],
+            [
+              -3.703,
+              37.108
+            ],
+            [
+              -3.703,
+              37.241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "grand-avignon"
       },
       "bbox": [
