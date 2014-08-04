@@ -258,6 +258,14 @@
                         "right": "69.134"
                     }
                 },
+                "fukuoka": {
+                    "bbox": {
+                        "top": "33.7642",
+                        "left": "130.0561",
+                        "bottom": "33.4754",
+                        "right": "130.6438"
+                    }
+                },
                 "hangzhou": {
                     "bbox": {
                         "top": "30.2963",
@@ -330,14 +338,6 @@
                         "right": "75.425"
                     }
                 },
-                "nazareth": {
-                    "bbox": {
-                        "top": "32.895",
-                        "left": "35.077",
-                        "bottom": "32.502",
-                        "right": "35.497"
-                    }
-                },
                 "manila": {
                     "bbox": {
                         "top": "14.900",
@@ -354,12 +354,28 @@
                         "right": "73.516"
                     }
                 },
+                "nazareth": {
+                    "bbox": {
+                        "top": "32.895",
+                        "left": "35.077",
+                        "bottom": "32.502",
+                        "right": "35.497"
+                    }
+                },
                 "new-delhi": {
                     "bbox": {
                         "top": "28.969",
                         "left": "76.692",
                         "bottom": "28.183",
                         "right": "77.733"
+                    }
+                },
+                "north-kyushu": {
+                    "bbox": {
+                        "top": "33.9094",
+                        "left": "129.2720",
+                        "bottom": "32.6118",
+                        "right": "132.0542"
                     }
                 },
                 "osaka-kyoto": {
