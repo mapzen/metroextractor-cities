@@ -1674,7 +1674,7 @@
                 },
                 "san-antonio-texas": {
                     "bbox": {
-                        "top": "29.671,
+                        "top": "29.671",
                         "left": "-98.924",
                         "bottom": "29.194",
                         "right": "-98.085"
