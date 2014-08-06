@@ -7921,6 +7921,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "san-antonio-texas"
+      },
+      "bbox": [
+        -98.924,
+        29.194,
+        -98.085,
+        29.671
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.924,
+              29.671
+            ],
+            [
+              -98.085,
+              29.671
+            ],
+            [
+              -98.085,
+              29.194
+            ],
+            [
+              -98.924,
+              29.194
+            ],
+            [
+              -98.924,
+              29.671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "san-diego-tijuana"
       },
       "bbox": [
