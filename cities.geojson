@@ -5191,6 +5191,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "thessaloniki"
+      },
+      "bbox": [
+        22.9023,
+        40.5865,
+        22.9911,
+        40.6559
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.9023,
+              40.6559
+            ],
+            [
+              22.9911,
+              40.6559
+            ],
+            [
+              22.9911,
+              40.5865
+            ],
+            [
+              22.9023,
+              40.5865
+            ],
+            [
+              22.9023,
+              40.6559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "toulouse"
       },
       "bbox": [
