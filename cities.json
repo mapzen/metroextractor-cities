@@ -1092,6 +1092,14 @@
                         "right": "24.310"
                     }
                 },
+                "thessaloniki": {
+                    "bbox": {
+                        "top": "40.6559",
+                        "left": "22.9023",
+                        "bottom": "40.5865",
+                        "right": "22.9911"
+                    }
+                },
                 "toulouse": {
                     "bbox": {
                         "top": "43.838",
