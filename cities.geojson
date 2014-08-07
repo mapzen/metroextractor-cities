@@ -2773,6 +2773,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "cadiz"
+      },
+      "bbox": [
+        -6.4,
+        36.35,
+        -6.0,
+        36.8
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4,
+              36.8
+            ],
+            [
+              -6.0,
+              36.8
+            ],
+            [
+              -6.0,
+              36.35
+            ],
+            [
+              -6.4,
+              36.35
+            ],
+            [
+              -6.4,
+              36.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "cagliari"
       },
       "bbox": [
