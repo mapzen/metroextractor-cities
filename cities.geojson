@@ -6790,6 +6790,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "hamptonroads"
+      },
+      "bbox": [
+        -76.663,
+        36.718,
+        -75.918,
+        37.208
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.663,
+              37.208
+            ],
+            [
+              -75.918,
+              37.208
+            ],
+            [
+              -75.918,
+              36.718
+            ],
+            [
+              -76.663,
+              36.718
+            ],
+            [
+              -76.663,
+              37.208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "honolulu"
       },
       "bbox": [
