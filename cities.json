@@ -1440,6 +1440,14 @@
                         "right": "-120.880"
                     }
                 },
+                "hamptonroads": {
+                    "bbox": {
+                        "top": "37.208",
+                        "left": "-76.663",
+                        "bottom": "36.718",
+                        "right": "-75.918"
+                    }
+                },
                 "honolulu": {
                     "bbox": {
                         "top": "21.781",
