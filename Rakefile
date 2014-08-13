@@ -25,8 +25,7 @@ task :build do
     JSON.load(json_file)
     puts 'Syntax OK'.color(:green)
   rescue JSON::ParserError
-    puts 'Syntax Error!'.color(:red)
-    exit 1
+    abort 'Syntax Error!'.color(:red)
   end
 
   # Validate cities.geojson
@@ -36,8 +35,7 @@ task :build do
     JSON.load(geojson_file)
     puts 'Syntax OK'.color(:green)
   rescue JSON::ParserError
-    puts 'Syntax Error!'.color(:red)
-    exit 1
+    abort 'Syntax Error!'.color(:red)
   end
 
   puts 'Validating cities.geojson bbox\'s'.color(:blue)
