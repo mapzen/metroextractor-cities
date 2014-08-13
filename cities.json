@@ -628,6 +628,14 @@
                         "right": "-2.189"
                     }
                 },
+                "cheshire": {
+                    "bbox": {
+                        "top": "53.396",
+                        "left": "-3.204",
+                        "bottom": "52.925",
+                        "right": "-1.912"
+                    }
+                },
                 "copenhagen": {
                     "bbox": {
                         "top": "55.950",
