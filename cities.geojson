@@ -2929,6 +2929,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "cheshire"
+      },
+      "bbox": [
+        -3.204,
+        52.925,
+        -1.912,
+        53.396
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.204,
+              53.396
+            ],
+            [
+              -1.912,
+              53.396
+            ],
+            [
+              -1.912,
+              52.925
+            ],
+            [
+              -3.204,
+              52.925
+            ],
+            [
+              -3.204,
+              53.396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "copenhagen"
       },
       "bbox": [
