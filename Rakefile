@@ -5,6 +5,9 @@ require 'rainbow/ext/string'
 
 desc 'Run integration tests'
 task :build do
+  json_file    = File.read('cities.json')
+  geojson_file = File.read('cities.geojson')
+
   # Prepare sandbox
   #
   sandbox = File.join(File.dirname(__FILE__), %w(tmp))
@@ -18,9 +21,8 @@ task :build do
   # Validate cities.json
   #
   puts 'Validating cities.json'.color(:blue)
-
   begin
-    JSON.load(File.read('cities.json'))
+    JSON.load(json_file)
     puts 'Syntax OK'.color(:green)
   rescue JSON::ParserError
     puts 'Syntax Error!'.color(:red)
@@ -29,13 +31,30 @@ task :build do
 
   # Validate cities.geojson
   #
-  puts 'Validating cities.geojson'.color(:blue)
+  puts 'Validating cities.geojson syntax'.color(:blue)
   begin
-    JSON.load(File.read('cities.geojson'))
+    JSON.load(geojson_file)
     puts 'Syntax OK'.color(:green)
   rescue JSON::ParserError
     puts 'Syntax Error!'.color(:red)
     exit 1
+  end
+
+  puts 'Validating cities.geojson bbox\'s'.color(:blue)
+  json = JSON.parse(json_file)
+  json['regions'].each do |region, a|
+    a['cities'].each do |city, b|
+      top     = b['bbox']['top'].to_f
+      left    = b['bbox']['left'].to_f
+      bottom  = b['bbox']['bottom'].to_f
+      right   = b['bbox']['right'].to_f
+
+      if left >= right
+        abort "Failure! Left coordinate (#{left}) is >= to right coordinate (#{right}) for city #{city}.".color(:red)
+      elsif bottom >= top
+        abort "Failure! Bottom coordinate (#{bottom}) is >= to top coordinate (#{top})for city #{city}.".color(:red)
+      end
+    end
   end
 
   # Produce new cities.geojson
