@@ -8,7 +8,7 @@ namespace :test do
   task :json do
     json_file = File.read('cities.json')
 
-    puts 'Validating cities.json'.color(:blue)
+    puts 'Validating cities.json syntax'.color(:blue)
     begin
       JSON.load(json_file)
       puts 'Syntax OK'.color(:green)
