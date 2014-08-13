@@ -5,3 +5,4 @@ test:
   override:
     - bundle exec rake test
     - bundle exec rake build_geojson
+    - bundle exec rake test:geojson

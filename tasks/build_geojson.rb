@@ -22,6 +22,8 @@ task :build_geojson do
           echo "No changes found, we're done here"
         fi
       EOH
+
+      Rake::Task['test:geojson'].invoke
     end
   end
 end
