@@ -1496,20 +1496,20 @@
                         "right": "-119.514"
                     }
                 },
-                "las-vegas": {
-                    "bbox": {
-                        "top": "36.615",
-                        "left": "-115.581",
-                        "bottom": "35.757",
-                        "right": "-114.211"
-                    }
-                },
                 "kansas-city-lawrence-topeka": {
                     "bbox": {
                         "top": "39.419",
                         "left": "-95.946",
                         "bottom": "38.599",
                         "right": "-94.048"
+                    }
+                },
+                "las-vegas": {
+                    "bbox": {
+                        "top": "36.615",
+                        "left": "-115.581",
+                        "bottom": "35.757",
+                        "right": "-114.211"
                     }
                 },
                 "lexington": {
