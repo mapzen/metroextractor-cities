@@ -8701,6 +8701,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "lincoln-ne"
+      },
+      "bbox": [
+        -96.867,
+        40.66,
+        -96.455,
+        40.948
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.867,
+              40.948
+            ],
+            [
+              -96.455,
+              40.948
+            ],
+            [
+              -96.455,
+              40.66
+            ],
+            [
+              -96.867,
+              40.66
+            ],
+            [
+              -96.867,
+              40.948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "auckland"
       },
       "bbox": [
