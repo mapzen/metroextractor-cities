@@ -1440,6 +1440,14 @@
                         "right": "-85.300"
                     }
                 },
+                "greensboro-nc": {
+                    "bbox": {
+                        "top": "36.218",
+                        "left": "-80.034",
+                        "bottom": "35.927",
+                        "right": "-79.595"
+                    }
+                },
                 "grassvalley": {
                     "bbox": {
                         "top": "39.320",
