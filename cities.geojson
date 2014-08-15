@@ -6790,6 +6790,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "greensboro-nc"
+      },
+      "bbox": [
+        -80.034,
+        35.927,
+        -79.595,
+        36.218
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.034,
+              36.218
+            ],
+            [
+              -79.595,
+              36.218
+            ],
+            [
+              -79.595,
+              35.927
+            ],
+            [
+              -80.034,
+              35.927
+            ],
+            [
+              -80.034,
+              36.218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "grassvalley"
       },
       "bbox": [
