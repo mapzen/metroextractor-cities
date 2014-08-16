@@ -1392,6 +1392,14 @@
                         "right": "-82.479"
                     }
                 },
+                "colorado-springs": {
+                    "bbox": {
+                        "top": "39.001",
+                        "left": "-104.906",
+                        "bottom": "38.711",
+                        "right": "-104.64"
+                    }
+                },
                 "dallas": {
                     "bbox": {
                         "top": "33.431",
@@ -1438,6 +1446,14 @@
                         "left": "-87.747",
                         "bottom": "37.759",
                         "right": "-87.237"
+                    }
+                },
+                "ft-collins": {
+                    "bbox": {
+                        "top": "40.618",
+                        "left": "-105.144",
+                        "bottom": "40.478",
+                        "right": "-104.987"
                     }
                 },
                 "grand-rapids-holland-muskegon": {
