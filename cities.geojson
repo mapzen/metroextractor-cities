@@ -8896,6 +8896,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "washington-county-or"
+      },
+      "bbox": [
+        -123.521,
+        45.096,
+        -122.11,
+        45.897
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.521,
+              45.897
+            ],
+            [
+              -122.11,
+              45.897
+            ],
+            [
+              -122.11,
+              45.096
+            ],
+            [
+              -123.521,
+              45.096
+            ],
+            [
+              -123.521,
+              45.897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "auckland"
       },
       "bbox": [
