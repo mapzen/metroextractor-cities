@@ -4528,6 +4528,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nis"
+      },
+      "bbox": [
+        21.82,
+        43.287,
+        21.9744,
+        43.359
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.82,
+              43.359
+            ],
+            [
+              21.9744,
+              43.359
+            ],
+            [
+              21.9744,
+              43.287
+            ],
+            [
+              21.82,
+              43.287
+            ],
+            [
+              21.82,
+              43.359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nuremberg"
       },
       "bbox": [
