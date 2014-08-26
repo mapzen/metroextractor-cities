@@ -2305,6 +2305,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "ulaanbaatar"
+      },
+      "bbox": [
+        106.344,
+        47.696,
+        107.43,
+        48.285
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.344,
+              48.285
+            ],
+            [
+              107.43,
+              48.285
+            ],
+            [
+              107.43,
+              47.696
+            ],
+            [
+              106.344,
+              47.696
+            ],
+            [
+              106.344,
+              48.285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "amsterdam"
       },
       "bbox": [
