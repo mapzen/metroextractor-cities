@@ -972,6 +972,14 @@
                         "right": "21.9744"
                     }
                 }, 
+                "nizhniy-novgorod": {
+                    "bbox": {
+                        "top": "56.400",
+                        "left": "43.718",
+                        "bottom": "56.193",
+                        "right": "44.135"
+                    }
+                }, 
                 "nuremberg": {
                     "bbox": {
                         "top": "49.757",
