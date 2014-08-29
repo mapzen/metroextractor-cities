@@ -4606,6 +4606,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nizhniy-novgorod"
+      },
+      "bbox": [
+        43.718,
+        56.193,
+        44.135,
+        56.4
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.718,
+              56.4
+            ],
+            [
+              44.135,
+              56.4
+            ],
+            [
+              44.135,
+              56.193
+            ],
+            [
+              43.718,
+              56.193
+            ],
+            [
+              43.718,
+              56.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nuremberg"
       },
       "bbox": [
