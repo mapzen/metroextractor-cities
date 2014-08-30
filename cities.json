@@ -1352,6 +1352,14 @@
                         "right": "-97.234"
                     }
                 },
+                "bernalillo-county-nm": {
+                    "bbox": {
+                        "top": "35.220",
+                        "left": "-107.196",
+                        "bottom": "34.869",
+                        "right": "-106.150"
+                    }
+                },
                 "boston": {
                     "bbox": {
                         "top": "42.702",
