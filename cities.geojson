@@ -6361,6 +6361,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bernalillo-county-nm"
+      },
+      "bbox": [
+        -107.196,
+        34.869,
+        -106.15,
+        35.22
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.196,
+              35.22
+            ],
+            [
+              -106.15,
+              35.22
+            ],
+            [
+              -106.15,
+              34.869
+            ],
+            [
+              -107.196,
+              34.869
+            ],
+            [
+              -107.196,
+              35.22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "boston"
       },
       "bbox": [
