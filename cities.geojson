@@ -6166,6 +6166,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mecca"
+      },
+      "bbox": [
+        39.688,
+        21.279,
+        40.005,
+        21.59
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.688,
+              21.59
+            ],
+            [
+              40.005,
+              21.59
+            ],
+            [
+              40.005,
+              21.279
+            ],
+            [
+              39.688,
+              21.279
+            ],
+            [
+              39.688,
+              21.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "riyadh"
       },
       "bbox": [
