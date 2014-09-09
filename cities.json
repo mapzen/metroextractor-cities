@@ -32,7 +32,7 @@
                         "right": "5.220"
                     }
                 },
-                "cape-town-south": {
+                "cape-town-south-africa": {
                     "bbox": {
                         "top": "-33.471",
                         "left": "18.302",
@@ -80,7 +80,7 @@
                         "right": "31.377"
                     }
                 },
-                "johannesburg-south": {
+                "johannesburg-south-africa": {
                     "bbox": {
                         "top": "-25.834",
                         "left": "27.537",
@@ -1640,7 +1640,7 @@
                         "right": "-88.992"
                     }
                 },
-                "managua-nicaragua-south-america": {
+                "managua-nicaragua": {
                     "bbox": {
                         "top": "12.182",
                         "left": "-86.374",
