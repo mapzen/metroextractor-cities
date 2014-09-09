@@ -298,6 +298,14 @@
                         "right": "115.125"
                     }
                 },
+                "hyderabad": {
+                    "bbox": {
+                        "top": "17.400",
+                        "left": "78.100",
+                        "bottom": "17.100",
+                        "right": "78.450"
+                    }
+                },
                 "islamabad": {
                     "bbox": {
                         "top": "34.347",
