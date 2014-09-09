@@ -418,7 +418,7 @@
                         "right": "126.142"
                     }
                 },
-                "rangoon": {
+                "rangoon-myanmar-asia": {
                     "bbox": {
                         "top": "17.729",
                         "left": "95.257",
@@ -426,7 +426,7 @@
                         "right": "97.337"
                     }
                 },
-                "samarkand": {
+                "samarkand-uzbekistan-asia": {
                     "bbox": {
                         "top": "40.067",
                         "left": "66.339",
@@ -434,7 +434,7 @@
                         "right": "67.844"
                     }
                 },
-                "seoul": {
+                "seoul-south-korea-asia": {
                     "bbox": {
                         "top": "37.980",
                         "left": "126.064",
@@ -442,7 +442,7 @@
                         "right": "127.525"
                     }
                 },
-                "siem-reap": {
+                "siem-reap-cambodia-asia": {
                     "bbox": {
                         "top": "13.735",
                         "left": "103.543",
@@ -450,7 +450,7 @@
                         "right": "104.479"
                     }
                 },
-                "shanghai": {
+                "shanghai-china-asi": {
                     "bbox": {
                         "top": "32.472",
                         "left": "118.887",
@@ -458,7 +458,7 @@
                         "right": "123.787"
                     }
                 },
-                "singapore": {
+                "singapore-asia": {
                     "bbox": {
                         "top": "1.823",
                         "left": "103.062",
@@ -466,20 +466,12 @@
                         "right": "104.545"
                     }
                 },
-                "taipei": {
+                "taipei-taiwan-asia": {
                     "bbox": {
                         "top": "25.386",
                         "left": "120.995",
                         "bottom": "24.779",
                         "right": "122.025"
-                    }
-                },
-                "tehran": {
-                    "bbox": {
-                        "top": "35.917",
-                        "left": "50.870",
-                        "bottom": "35.383",
-                        "right": "51.648"
                     }
                 },
                 "tokyo": {
@@ -1332,6 +1324,14 @@
                         "left": "46.227",
                         "bottom": "24.292",
                         "right": "47.202"
+                    }
+                },
+                "tehran": {
+                    "bbox": {
+                        "top": "35.917",
+                        "left": "50.870",
+                        "bottom": "35.383",
+                        "right": "51.648"
                     }
                 },
                 "tel-aviv": {
