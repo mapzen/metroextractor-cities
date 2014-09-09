@@ -40,7 +40,7 @@ namespace :test do
         elsif bottom < region_bottom
           abort "Failure! Bottom coordinate (#{bottom}) is < region bottom coordinate (#{region_bottom}) for city #{city} and region #{region}.".color(:red)
         elsif top > region_top
-          abort "Failure! Right coordinate (#{top}) is > region right coordinate (#{region_top}) for city #{city} and region #{region}.".color(:red)
+          abort "Failure! Top coordinate (#{top}) is > region top coordinate (#{region_top}) for city #{city} and region #{region}.".color(:red)
         elsif right > region_right
           abort "Failure! Right coordinate (#{right}) is > region right coordinate (#{region_right}) for city #{city} and region #{region}.".color(:red)
         end
