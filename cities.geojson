@@ -1369,6 +1369,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "hyderabad"
+      },
+      "bbox": [
+        78.1,
+        17.1,
+        78.45,
+        17.4
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.1,
+              17.4
+            ],
+            [
+              78.45,
+              17.4
+            ],
+            [
+              78.45,
+              17.1
+            ],
+            [
+              78.1,
+              17.1
+            ],
+            [
+              78.1,
+              17.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "islamabad"
       },
       "bbox": [
