@@ -1504,6 +1504,14 @@
                         "right": "-104.987"
                     }
                 },
+                "gainesville_florida": {
+                    "bbox": {
+                        "top": "29.945",
+                        "left": "-82.659",
+                        "bottom": "29.417",
+                        "right": "-82.049"
+                    }
+                },
                 "grand-rapids-holland-muskegon_michigan": {
                     "bbox": {
                         "top": "43.330",
