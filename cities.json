@@ -162,7 +162,7 @@
                         "right": "33.509"
                     }
                 },
-                "bangkok-asia": {
+                "bangkok-thailand-asia": {
                     "bbox": {
                         "top": "15.019",
                         "left": "99.569",
@@ -170,7 +170,7 @@
                         "right": "101.337"
                     }
                 },
-                "batticaloa-asia": {
+                "batticaloa-sri-lanka-asia": {
                     "bbox": {
                         "top": "7.994",
                         "left": "81.344",
@@ -178,7 +178,7 @@
                         "right": "81.981"
                     }
                 },
-                "beijing-asia": {
+                "beijing-china-asia": {
                     "bbox": {
                         "top": "40.426",
                         "left": "115.686",
@@ -186,7 +186,7 @@
                         "right": "117.119"
                     }
                 },
-                "bengaluru-asia": {
+                "bengaluru-india-asia": {
                     "bbox": {
                         "top": "13.230",
                         "left": "77.350",
@@ -194,7 +194,7 @@
                         "right": "77.850"
                     }
                 },
-                "bishkek-asia": {
+                "bishkek-kyrgyzstan-asia": {
                     "bbox": {
                         "top": "42.9857",
                         "left": "74.4250",
@@ -202,7 +202,7 @@
                         "right": "74.7624"
                     }
                 },
-                "chelyabinsk-asia": {
+                "chelyabinsk-russia-asia": {
                     "bbox": {
                         "top": "55.438",
                         "left": "60.714",
@@ -210,7 +210,7 @@
                         "right": "62.070"
                     }
                 },
-                "chengdu-asia": {
+                "chengdu-china-asia": {
                     "bbox": {
                         "top": "30.987",
                         "left": "103.564",
@@ -218,7 +218,7 @@
                         "right": "104.555"
                     }
                 },
-                "chennai-asia": {
+                "chennai-india-asia": {
                     "bbox": {
                         "top": "13.300",
                         "left": "79.900",
@@ -226,7 +226,7 @@
                         "right": "80.400"
                     }
                 },
-                "chongqing-asia": {
+                "chongqing-china-asia": {
                     "bbox": {
                         "top": "32.217",
                         "left": "105.283",
@@ -234,7 +234,7 @@
                         "right": "110.183"
                     }
                 },
-                "dharamshala-asia": {
+                "dharamshala-india-asia": {
                     "bbox": {
                         "top": "32.300",
                         "left": "76.123",
@@ -242,7 +242,7 @@
                         "right": "76.701"
                     }
                 },
-                "colombo-asia": {
+                "colombo-sri-lanka-asia": {
                     "bbox": {
                         "top": "7.236",
                         "left": "79.756",
@@ -250,7 +250,7 @@
                         "right": "80.385"
                     }
                 },
-                "dhaka-asia": {
+                "dhaka-bangladesh-asia": {
                     "bbox": {
                         "top": "24.006",
                         "left": "89.998",
@@ -258,7 +258,7 @@
                         "right": "90.838"
                     }
                 },
-                "dushanbe-asia": {
+                "dushanbe-tajikistan-asia": {
                     "bbox": {
                         "top": "38.829",
                         "left": "68.244",
@@ -266,7 +266,7 @@
                         "right": "69.134"
                     }
                 },
-                "fukuoka-asia": {
+                "fukuoka-japan-asia": {
                     "bbox": {
                         "top": "33.7642",
                         "left": "130.0561",
@@ -274,7 +274,7 @@
                         "right": "130.6438"
                     }
                 },
-                "hangzhou-asia": {
+                "hangzhou-china-asia": {
                     "bbox": {
                         "top": "30.2963",
                         "left": "120.1000",
@@ -282,7 +282,7 @@
                         "right": "120.1851"
                     }
                 },
-                "hiroshima-asia": {
+                "hiroshima-japan-asia": {
                     "bbox": {
                         "top": "34.548",
                         "left": "132.289",
@@ -290,7 +290,7 @@
                         "right": "132.611"
                     }
                 },
-                "hong-kong-asia": {
+                "hong-kong-china-asia": {
                     "bbox": {
                         "top": "23.488",
                         "left": "112.780",
@@ -298,7 +298,7 @@
                         "right": "115.125"
                     }
                 },
-                "hyderabad-asia": {
+                "hyderabad-india-asia": {
                     "bbox": {
                         "top": "17.400",
                         "left": "78.100",
@@ -306,7 +306,7 @@
                         "right": "78.450"
                     }
                 },
-                "islamabad-asia": {
+                "islamabad-pakistan-asia": {
                     "bbox": {
                         "top": "34.347",
                         "left": "72.286",
@@ -314,7 +314,7 @@
                         "right": "73.822"
                     }
                 },
-                "kathmandu-asia": {
+                "kathmandu-nepal-asia": {
                     "bbox": {
                         "top": "27.938",
                         "left": "85.019",
@@ -322,7 +322,7 @@
                         "right": "85.678"
                     }
                 },
-                "karachi-asia": {
+                "karachi-pakistan-asia": {
                     "bbox": {
                         "top": "25.593",
                         "left": "66.401",
@@ -330,7 +330,7 @@
                         "right": "68.576"
                     }
                 },
-                "kolkata-asia": {
+                "kolkata-india-asia": {
                     "bbox": {
                         "top": "23.106",
                         "left": "87.751",
@@ -338,7 +338,7 @@
                         "right": "89.119"
                     }
                 },
-                "kuala-lumpur-asia": {
+                "kuala-lumpur-malaysia-asia": {
                     "bbox": {
                         "top": "3.407",
                         "left": "101.425",
@@ -346,7 +346,7 @@
                         "right": "101.994"
                     }
                 },
-                "lahore-asia": {
+                "lahore-pakistan-asia": {
                     "bbox": {
                         "top": "32.201",
                         "left": "73.381",
@@ -354,7 +354,7 @@
                         "right": "75.425"
                     }
                 },
-                "manila-asia": {
+                "manila-phillipines-asia": {
                     "bbox": {
                         "top": "14.900",
                         "left": "120.885",
@@ -362,7 +362,7 @@
                         "right": "121.200"
                     }
                 },
-                "mumbai-asia": {
+                "mumbai-india-asia": {
                     "bbox": {
                         "top": "19.500",
                         "left": "72.415",
@@ -370,7 +370,7 @@
                         "right": "73.516"
                     }
                 },
-                "nazareth-asia": {
+                "nazareth-israel-asia": {
                     "bbox": {
                         "top": "32.895",
                         "left": "35.077",
@@ -378,7 +378,7 @@
                         "right": "35.497"
                     }
                 },
-                "new-delhi-asia": {
+                "new-delhi-india-asia": {
                     "bbox": {
                         "top": "28.969",
                         "left": "76.692",
