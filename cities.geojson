@@ -7102,6 +7102,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "gainesville_florida"
+      },
+      "bbox": [
+        -82.659,
+        29.417,
+        -82.049,
+        29.945
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.659,
+              29.945
+            ],
+            [
+              -82.049,
+              29.945
+            ],
+            [
+              -82.049,
+              29.417
+            ],
+            [
+              -82.659,
+              29.417
+            ],
+            [
+              -82.659,
+              29.945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "grand-rapids-holland-muskegon_michigan"
       },
       "bbox": [
