@@ -780,6 +780,14 @@
                         "right": "8.816"
                     }
                 },
+                "kharkiv": {
+                    "bbox": {
+                        "top": "50.105",
+                        "left": "36.106",
+                        "bottom": "49.878",
+                        "right": "36.455"
+                    }
+                },
                 "kirovograd": {
                     "bbox": {
                         "top": "48.760",
