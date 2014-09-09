@@ -3670,6 +3670,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "kharkiv"
+      },
+      "bbox": [
+        36.106,
+        49.878,
+        36.455,
+        50.105
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.106,
+              50.105
+            ],
+            [
+              36.455,
+              50.105
+            ],
+            [
+              36.455,
+              49.878
+            ],
+            [
+              36.106,
+              49.878
+            ],
+            [
+              36.106,
+              50.105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kirovograd"
       },
       "bbox": [
