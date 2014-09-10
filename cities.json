@@ -836,6 +836,14 @@
                         "right": "20.275"
                     }
                 },
+                "krasnokutsk_ukraine": {
+                    "bbox": {
+                        "top": "50.085",
+                        "left": "35.097",
+                        "bottom": "50.027",
+                        "right": "35.198"
+                    }
+                },
                 "kyiv_ukraine": {
                     "bbox": {
                         "top": "50.740",
