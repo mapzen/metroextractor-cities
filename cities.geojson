@@ -3943,6 +3943,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "krasnokutsk_ukraine"
+      },
+      "bbox": [
+        35.097,
+        50.027,
+        35.198,
+        50.085
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.097,
+              50.085
+            ],
+            [
+              35.198,
+              50.085
+            ],
+            [
+              35.198,
+              50.027
+            ],
+            [
+              35.097,
+              50.027
+            ],
+            [
+              35.097,
+              50.085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kyiv_ukraine"
       },
       "bbox": [
