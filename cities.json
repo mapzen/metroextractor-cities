@@ -540,12 +540,12 @@
                 }
             }
         },
-        "europe": {
+        "western_europe": {
             "bbox": {
-                "top": "64.297",
-                "left": "-22.826",
-                "bottom": "36.000",
-                "right": "51.918"
+                "top": "58.960",
+                "left": "-10.630",
+                "bottom": "43.000",
+                "right": "15.250"
             },
             "cities": {
                 "amsterdam_netherlands": {
@@ -556,22 +556,6 @@
                         "right": "5.347"
                     }
                 },
-                "athens_greece": {
-                    "bbox": {
-                        "top": "38.365",
-                        "left": "22.949",
-                        "bottom": "37.514",
-                        "right": "24.421"
-                    }
-                },
-                "asti_italy": {
-                    "bbox": {
-                        "top": "44.996",
-                        "left": "8.087",
-                        "bottom": "44.841",
-                        "right": "8.318"
-                    }
-                },
                 "avignon_france": {
                     "bbox": {
                         "top": "43.996",
@@ -580,28 +564,12 @@
                         "right": "4.927"
                     }
                 },
-                "barcelona_spain": {
-                    "bbox": {
-                        "top": "41.687",
-                        "left": "1.734",
-                        "bottom": "41.075",
-                        "right": "2.496"
-                    }
-                },
                 "berlin_germany": {
                     "bbox": {
                         "top": "52.994",
                         "left": "12.260",
                         "bottom": "51.849",
                         "right": "14.699"
-                    }
-                },
-                "bilbao_spain": {
-                    "bbox": {
-                        "top": "43.500",
-                        "left": "-3.363",
-                        "bottom": "43.043",
-                        "right": "-2.555"
                     }
                 },
                 "birmingham_england": {
@@ -620,14 +588,6 @@
                         "right": "-0.162"
                     }
                 },
-                "brno_czech-republic": {
-                    "bbox": {
-                        "top": "49.357",
-                        "left": "16.268",
-                        "bottom": "48.951",
-                        "right": "16.940"
-                    }
-                },
                 "brussels_belgium": {
                     "bbox": {
                     "top": "51.053",
@@ -635,46 +595,6 @@
                     "bottom": "50.645",
                     "right": "4.761"
                   }
-                },
-                "bucharest_romania": {
-                    "bbox": {
-                        "top": "44.729",
-                        "left": "25.542",
-                        "bottom": "44.141",
-                        "right": "26.756"
-                    }
-                },
-                "budapest_hungary": {
-                    "bbox": {
-                        "top": "47.861",
-                        "left": "18.347",
-                        "bottom": "47.025",
-                        "right": "19.780"
-                    }
-                },
-                "cadiz_spain": {
-                    "bbox": {
-                        "top": "36.800",
-                        "left": "-6.400",
-                        "bottom": "36.350",
-                        "right": "-6.000"
-                    }
-                },
-                "cagliari_italy": {
-                    "bbox": {
-                        "top": "39.321",
-                        "left": "8.908",
-                        "bottom": "39.130",
-                        "right": "9.421"
-                    }
-                },
-                "cantabria_spain": {
-                    "bbox": {
-                        "top": "43.523",
-                        "left": "-4.859",
-                        "bottom": "42.753",
-                        "right": "-3.134"
-                    }
                 },
                 "cardiff-newport-bristol-bath_england": {
                     "bbox": {
@@ -716,14 +636,6 @@
                         "right": "-2.835"
                     }
                 },
-                "florence_italy": {
-                    "bbox": {
-                        "top": "43.983",
-                        "left": "10.982",
-                        "bottom": "43.601",
-                        "right": "11.504"
-                    }
-                },
                 "frankfurt_germany": {
                     "bbox": {
                         "top": "50.447",
@@ -732,44 +644,12 @@
                         "right": "9.442"
                     }
                 },
-                "gdansk_poland": {
-                    "bbox": {
-                        "top": "54.870",
-                        "left": "18.174",
-                        "bottom": "54.007",
-                        "right": "19.113"
-                    }
-                },
-                "genoa_italy": {
-                    "bbox": {
-                        "top": "44.561",
-                        "left": "8.444",
-                        "bottom": "44.291",
-                        "right": "9.114"
-                    }
-                },
-                "gijon_spain": {
-                    "bbox": {
-                        "top": "43.800",
-                        "left": "-6.481",
-                        "bottom": "43.054",
-                        "right": "-4.987"
-                    }
-                },
                 "glasgow_scotland": {
                     "bbox": {
                         "top": "56.034",
                         "left": "-4.613",
                         "bottom": "55.668",
                         "right": "-3.935"
-                    }
-                },
-                "granada_spain": {
-                    "bbox": {
-                        "top": "37.241",
-                        "left": "-3.703",
-                        "bottom": "37.108",
-                        "right": "-3.506"
                     }
                 },
                 "grand-avignon_france": {
@@ -788,22 +668,6 @@
                         "right": "10.678"
                     }
                 },
-                "helsinki_finland": {
-                    "bbox": {
-                        "top": "60.357",
-                        "left": "24.428",
-                        "bottom": "60.052",
-                        "right": "25.381"
-                    }
-                },
-                "istanbul_turkey": {
-                    "bbox": {
-                        "top": "41.421",
-                        "left": "28.313",
-                        "bottom": "40.738",
-                        "right": "29.678"
-                    }
-                },
                 "karlsruhe_germany": {
                     "bbox": {
                         "top": "49.246",
@@ -812,44 +676,12 @@
                         "right": "8.816"
                     }
                 },
-                "kharkiv_ukraine": {
+                "la-rochelle_france": {
                     "bbox": {
-                        "top": "50.105",
-                        "left": "36.106",
-                        "bottom": "49.878",
-                        "right": "36.455"
-                    }
-                },
-                "kirovograd_ukraine": {
-                    "bbox": {
-                        "top": "48.760",
-                        "left": "31.923",
-                        "bottom": "48.281",
-                        "right": "32.623"
-                    }
-                },
-                "krakow_poland": {
-                    "bbox": {
-                        "top": "50.240",
-                        "left": "19.594",
-                        "bottom": "49.850",
-                        "right": "20.275"
-                    }
-                },
-                "krasnokutsk_ukraine": {
-                    "bbox": {
-                        "top": "50.085",
-                        "left": "35.097",
-                        "bottom": "50.027",
-                        "right": "35.198"
-                    }
-                },
-                "kyiv_ukraine": {
-                    "bbox": {
-                        "top": "50.740",
-                        "left": "30.078",
-                        "bottom": "50.086",
-                        "right": "30.970"
+                        "top": "46.2063",
+                        "left": "-1.2818",
+                        "bottom": "46.1223",
+                        "right": "-1.0672"
                     }
                 },
                 "leeds_england": {
@@ -868,38 +700,6 @@
                         "right": "3.389"
                     }
                 },
-                "la-rochelle_france": {
-                    "bbox": {
-                        "top": "46.2063",
-                        "left": "-1.2818",
-                        "bottom": "46.1223",
-                        "right": "-1.0672"
-                    }
-                },
-                "lisbon_portugal": {
-                    "bbox": {
-                        "top": "39.150",
-                        "left": "-9.634",
-                        "bottom": "38.358",
-                        "right": "-8.458"
-                    }
-                },
-                "ljubljana_slovenia": {
-                    "bbox": {
-                        "top": "46.147",
-                        "left": "14.400",
-                        "bottom": "45.973",
-                        "right": "14.760"
-                    }
-                },
-                "lyon_france": {
-                    "bbox": {
-                        "top": "46.191",
-                        "left": "4.136",
-                        "bottom": "45.305",
-                        "right": "5.517"
-                    }
-                },
                 "london_england": {
                     "bbox": {
                         "top": "51.984",
@@ -908,28 +708,12 @@
                         "right": "0.895"
                     }
                 },
-                "lucca_italy": {
+                "lyon_france": {
                     "bbox": {
-                        "top": "43.961",
-                        "left": "10.361",
-                        "bottom":  "43.757",
-                        "right": "10.575"
-                    }
-                },
-                "lviv_ukraine": {
-                    "bbox": {
-                        "top": "50.148",
-                        "left": "23.587",
-                        "bottom": "49.573",
-                        "right": "24.433"
-                    }
-                },
-                "madrid_spain": {
-                    "bbox": {
-                        "top": "41.030",
-                        "left": "-4.293",
-                        "bottom": "39.800",
-                        "right": "-3.057"
+                        "top": "46.191",
+                        "left": "4.136",
+                        "bottom": "45.305",
+                        "right": "5.517"
                     }
                 },
                 "manchester_england": {
@@ -948,20 +732,12 @@
                         "right": "5.776"
                     }
                 },
-                "matera_italy": {
+                "nuremberg_germany": {
                     "bbox": {
-                        "top": "40.766",
-                        "left": "16.412",
-                        "bottom": "40.567",
-                        "right": "16.731"
-                    }
-                },
-                "milan_italy": {
-                    "bbox": {
-                        "top": "45.694",
-                        "left": "8.860",
-                        "bottom": "45.246",
-                        "right": "9.470"
+                        "top": "49.757",
+                        "left": "10.697",
+                        "bottom": "49.219",
+                        "right": "11.339"
                     }
                 },
                 "monaco_france": {
@@ -1012,108 +788,12 @@
                         "right": "7.311"
                     }
                 },
-                "nis_serbia": {
-                    "bbox": {
-                        "top": "43.359",
-                        "left": "21.820",
-                        "bottom": "43.287",
-                        "right": "21.9744"
-                    }
-                }, 
-                "nuremberg_germany": {
-                    "bbox": {
-                        "top": "49.757",
-                        "left": "10.697",
-                        "bottom": "49.219",
-                        "right": "11.339"
-                    }
-                },
-                "odessa_ukraine": {
-                    "bbox": {
-                        "top": "46.731",
-                        "left": "30.154",
-                        "bottom": "46.227",
-                        "right": "30.935"
-                    }
-                },
-                "oslo_norway": {
-                    "bbox": {
-                        "top": "60.424",
-                        "left": "9.691",
-                        "bottom": "58.938",
-                        "right": "11.493"
-                    }
-                },
-                "palermo_italy": {
-                    "bbox": {
-                        "top": "38.295",
-                        "left": "12.912",
-                        "bottom": "37.771",
-                        "right": "13.845"
-                    }
-                },
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
                         "left": "1.851",
                         "bottom": "48.531",
                         "right": "2.911"
-                    }
-                },
-                "pistoia_italy": {
-                    "bbox": {
-                        "top": "44.102",
-                        "left": "10.805",
-                        "bottom": "43.871",
-                        "right": "11.017"
-                    }
-                },
-                "porto_italy": {
-                    "bbox": {
-                        "top": "41.399",
-                        "left": "-8.795",
-                        "bottom": "40.981",
-                        "right": "-8.358"
-                    }
-                },
-                "poznan_poland": {
-                    "bbox": {
-                        "top": "52.509",
-                        "left": "16.732",
-                        "bottom": "52.292",
-                        "right": "17.072"
-                    }
-                },
-                "prague_czech-republic": {
-                    "bbox": {
-                        "top": "50.408",
-                        "left": "13.842",
-                        "bottom": "49.763",
-                        "right": "15.012"
-                    }
-                },
-                "reykjavik_iceland": {
-                    "bbox": {
-                        "top": "64.297",
-                        "left": "-22.826",
-                        "bottom": "63.771",
-                        "right": "-21.140"
-                    }
-                },
-                "riga_latvia": {
-                    "bbox": {
-                        "top": "57.300",
-                        "left": "23.469",
-                        "bottom": "56.579",
-                        "right": "24.789"
-                    }
-                },
-                "rome_italy": {
-                    "bbox": {
-                        "top": "42.130",
-                        "left": "12.109",
-                        "bottom": "41.578",
-                        "right": "12.845"
                     }
                 },
                 "rotterdam_netherlands": {
@@ -1132,20 +812,166 @@
                         "right": "4.504"
                     }
                 },
+                "strasbourg_france": {
+                    "bbox": {
+                        "top": "48.722",
+                        "left": "7.449",
+                        "bottom": "48.371",
+                        "right": "8.078"
+                    }
+                },
+                "toulouse_france": {
+                    "bbox": {
+                        "top": "43.838",
+                        "left": "1.062",
+                        "bottom": "43.327",
+                        "right": "1.779"
+                    }
+                }
+            }
+        },
+        "eastern_europe": {
+            "bbox": {
+                "top": "60.360",
+                "left": "-11.030",
+                "bottom": "35.840",
+                "right": "38.890"
+            },
+            "cities": {
+                "brno_czech-republic": {
+                    "bbox": {
+                        "top": "49.357",
+                        "left": "16.268",
+                        "bottom": "48.951",
+                        "right": "16.940"
+                    }
+                },
+                "bucharest_romania": {
+                    "bbox": {
+                        "top": "44.729",
+                        "left": "25.542",
+                        "bottom": "44.141",
+                        "right": "26.756"
+                    }
+                },
+                "budapest_hungary": {
+                    "bbox": {
+                        "top": "47.861",
+                        "left": "18.347",
+                        "bottom": "47.025",
+                        "right": "19.780"
+                    }
+                },
+                "gdansk_poland": {
+                    "bbox": {
+                        "top": "54.870",
+                        "left": "18.174",
+                        "bottom": "54.007",
+                        "right": "19.113"
+                    }
+                },
+                "istanbul_turkey": {
+                    "bbox": {
+                        "top": "41.421",
+                        "left": "28.313",
+                        "bottom": "40.738",
+                        "right": "29.678"
+                    }
+                },
+                "kharkiv_ukraine": {
+                    "bbox": {
+                        "top": "50.105",
+                        "left": "36.106",
+                        "bottom": "49.878",
+                        "right": "36.455"
+                    }
+                },
+                "kirovograd_ukraine": {
+                    "bbox": {
+                        "top": "48.760",
+                        "left": "31.923",
+                        "bottom": "48.281",
+                        "right": "32.623"
+                    }
+                },
+                "krakow_poland": {
+                    "bbox": {
+                        "top": "50.240",
+                        "left": "19.594",
+                        "bottom": "49.850",
+                        "right": "20.275"
+                    }
+                },
+                "krasnokutsk_ukraine": {
+                    "bbox": {
+                        "top": "50.085",
+                        "left": "35.097",
+                        "bottom": "50.027",
+                        "right": "35.198"
+                    }
+                },
+                "kyiv_ukraine": {
+                    "bbox": {
+                        "top": "50.740",
+                        "left": "30.078",
+                        "bottom": "50.086",
+                        "right": "30.970"
+                    }
+                },
+                "ljubljana_slovenia": {
+                    "bbox": {
+                        "top": "46.147",
+                        "left": "14.400",
+                        "bottom": "45.973",
+                        "right": "14.760"
+                    }
+                },
+                "lviv_ukraine": {
+                    "bbox": {
+                        "top": "50.148",
+                        "left": "23.587",
+                        "bottom": "49.573",
+                        "right": "24.433"
+                    }
+                },
+                "nis_serbia": {
+                    "bbox": {
+                        "top": "43.359",
+                        "left": "21.820",
+                        "bottom": "43.287",
+                        "right": "21.9744"
+                    }
+                }, 
+                "odessa_ukraine": {
+                    "bbox": {
+                        "top": "46.731",
+                        "left": "30.154",
+                        "bottom": "46.227",
+                        "right": "30.935"
+                    }
+                },
+                "poznan_poland": {
+                    "bbox": {
+                        "top": "52.509",
+                        "left": "16.732",
+                        "bottom": "52.292",
+                        "right": "17.072"
+                    }
+                },
+                "prague_czech-republic": {
+                    "bbox": {
+                        "top": "50.408",
+                        "left": "13.842",
+                        "bottom": "49.763",
+                        "right": "15.012"
+                    }
+                },
                 "sarajevo_bosnia": {
                     "bbox": {
                         "top": "43.987",
                         "left": "18.115",
                         "bottom": "43.702",
                         "right": "18.631"
-                    }
-                },
-                "seville_spain": {
-                    "bbox": {
-                        "top": "37.460",
-                        "left": "-6.050",
-                        "bottom": "37.320",
-                        "right": "-5.869"
                     }
                 },
                 "sofia_bulgaria": {
@@ -1156,20 +982,78 @@
                         "right": "23.830"
                     }
                 },
+                "riga_latvia": {
+                    "bbox": {
+                        "top": "57.300",
+                        "left": "23.469",
+                        "bottom": "56.579",
+                        "right": "24.789"
+                    }
+                },
+                "vienna-bratislava_austria": {
+                    "bbox": {
+                        "top": "48.609",
+                        "left": "15.763",
+                        "bottom": "47.496",
+                        "right": "17.841"
+                    }
+                },
+                "warsaw_poland": {
+                    "bbox": {
+                        "top": "52.623",
+                        "left": "20.341",
+                        "bottom": "51.845",
+                        "right": "21.692"
+                    }
+                },
+                "wroclaw_poland": {
+                    "bbox": {
+                        "top": "51.311",
+                        "left": "16.652",
+                        "bottom": "50.877",
+                        "right": "17.363"
+                    }
+                }
+            }
+        },
+        "northern_europe": {
+            "bbox": {
+                "top": "71.800",
+                "left": "-25.600",
+                "bottom": "55.200",
+                "right": "41.400"
+            },
+            "cities": {
+                "helsinki_finland": {
+                    "bbox": {
+                        "top": "60.357",
+                        "left": "24.428",
+                        "bottom": "60.052",
+                        "right": "25.381"
+                    }
+                },
+                "oslo_norway": {
+                    "bbox": {
+                        "top": "60.424",
+                        "left": "9.691",
+                        "bottom": "58.938",
+                        "right": "11.493"
+                    }
+                },
+                "reykjavik_iceland": {
+                    "bbox": {
+                        "top": "64.297",
+                        "left": "-22.826",
+                        "bottom": "63.771",
+                        "right": "-21.140"
+                    }
+                },
                 "stockholm_sweden": {
                     "bbox": {
                         "top": "59.908",
                         "left": "17.061",
                         "bottom": "58.850",
                         "right": "19.055"
-                    }
-                },
-                "strasbourg_france": {
-                    "bbox": {
-                        "top": "48.722",
-                        "left": "7.449",
-                        "bottom": "48.371",
-                        "right": "8.078"
                     }
                 },
                 "tampere_finland": {
@@ -1179,6 +1063,184 @@
                         "bottom": "61.325",
                         "right": "24.310"
                     }
+                }
+            }
+        },
+        "southern_europe": {
+            "bbox": {
+                "top": "46.200",
+                "left": "-9.800",
+                "bottom": "35.630",
+                "right": "24.570"
+            },
+            "cities": {
+                "athens_greece": {
+                    "bbox": {
+                        "top": "38.365",
+                        "left": "22.949",
+                        "bottom": "37.514",
+                        "right": "24.421"
+                    }
+                },
+                "asti_italy": {
+                    "bbox": {
+                        "top": "44.996",
+                        "left": "8.087",
+                        "bottom": "44.841",
+                        "right": "8.318"
+                    }
+                },
+                "barcelona_spain": {
+                    "bbox": {
+                        "top": "41.687",
+                        "left": "1.734",
+                        "bottom": "41.075",
+                        "right": "2.496"
+                    }
+                },
+                "bilbao_spain": {
+                    "bbox": {
+                        "top": "43.500",
+                        "left": "-3.363",
+                        "bottom": "43.043",
+                        "right": "-2.555"
+                    }
+                },
+                "cadiz_spain": {
+                    "bbox": {
+                        "top": "36.800",
+                        "left": "-6.400",
+                        "bottom": "36.350",
+                        "right": "-6.000"
+                    }
+                },
+                "cagliari_italy": {
+                    "bbox": {
+                        "top": "39.321",
+                        "left": "8.908",
+                        "bottom": "39.130",
+                        "right": "9.421"
+                    }
+                },
+                "cantabria_spain": {
+                    "bbox": {
+                        "top": "43.523",
+                        "left": "-4.859",
+                        "bottom": "42.753",
+                        "right": "-3.134"
+                    }
+                },
+                "florence_italy": {
+                    "bbox": {
+                        "top": "43.983",
+                        "left": "10.982",
+                        "bottom": "43.601",
+                        "right": "11.504"
+                    }
+                },
+                "genoa_italy": {
+                    "bbox": {
+                        "top": "44.561",
+                        "left": "8.444",
+                        "bottom": "44.291",
+                        "right": "9.114"
+                    }
+                },
+                "gijon_spain": {
+                    "bbox": {
+                        "top": "43.800",
+                        "left": "-6.481",
+                        "bottom": "43.054",
+                        "right": "-4.987"
+                    }
+                },
+                "granada_spain": {
+                    "bbox": {
+                        "top": "37.241",
+                        "left": "-3.703",
+                        "bottom": "37.108",
+                        "right": "-3.506"
+                    }
+                },
+                "lisbon_portugal": {
+                    "bbox": {
+                        "top": "39.150",
+                        "left": "-9.634",
+                        "bottom": "38.358",
+                        "right": "-8.458"
+                    }
+                },
+                "lucca_italy": {
+                    "bbox": {
+                        "top": "43.961",
+                        "left": "10.361",
+                        "bottom":  "43.757",
+                        "right": "10.575"
+                    }
+                },
+                "madrid_spain": {
+                    "bbox": {
+                        "top": "41.030",
+                        "left": "-4.293",
+                        "bottom": "39.800",
+                        "right": "-3.057"
+                    }
+                },
+                "matera_italy": {
+                    "bbox": {
+                        "top": "40.766",
+                        "left": "16.412",
+                        "bottom": "40.567",
+                        "right": "16.731"
+                    }
+                },
+                "milan_italy": {
+                    "bbox": {
+                        "top": "45.694",
+                        "left": "8.860",
+                        "bottom": "45.246",
+                        "right": "9.470"
+                    }
+                },
+                "palermo_italy": {
+                    "bbox": {
+                        "top": "38.295",
+                        "left": "12.912",
+                        "bottom": "37.771",
+                        "right": "13.845"
+                    }
+                },
+                "pistoia_italy": {
+                    "bbox": {
+                        "top": "44.102",
+                        "left": "10.805",
+                        "bottom": "43.871",
+                        "right": "11.017"
+                    }
+                },
+                "porto_italy": {
+                    "bbox": {
+                        "top": "41.399",
+                        "left": "-8.795",
+                        "bottom": "40.981",
+                        "right": "-8.358"
+                    }
+                },
+                "rome_italy": {
+                    "bbox": {
+                        "top": "42.130",
+                        "left": "12.109",
+                        "bottom": "41.578",
+                        "right": "12.845"
+                    }
+                },
+                "seville_spain": {
+                    "bbox": {
+                        "top": "37.460",
+                        "left": "-6.050",
+                        "bottom": "37.320",
+                        "right": "-5.869"
+                    }
                 },
                 "thessaloniki_greece": {
                     "bbox": {
@@ -1186,14 +1248,6 @@
                         "left": "22.902",
                         "bottom": "40.587",
                         "right": "22.991"
-                    }
-                },
-                "toulouse_france": {
-                    "bbox": {
-                        "top": "43.838",
-                        "left": "1.062",
-                        "bottom": "43.327",
-                        "right": "1.779"
                     }
                 },
                 "trento_italy": {
@@ -1212,36 +1266,12 @@
                         "right": "7.775"
                     }
                 },
-                "vienna-bratislava_austria": {
-                    "bbox": {
-                        "top": "48.609",
-                        "left": "15.763",
-                        "bottom": "47.496",
-                        "right": "17.841"
-                    }
-                },
                 "venice_italy": {
                     "bbox": {
                         "top": "45.811",
                         "left": "11.629",
                         "bottom": "45.123",
                         "right": "12.735"
-                    }
-                },
-                "warsaw_poland": {
-                    "bbox": {
-                        "top": "52.623",
-                        "left": "20.341",
-                        "bottom": "51.845",
-                        "right": "21.692"
-                    }
-                },
-                "wroclaw_poland": {
-                    "bbox": {
-                        "top": "51.311",
-                        "left": "16.652",
-                        "bottom": "50.877",
-                        "right": "17.363"
                     }
                 }
             }
