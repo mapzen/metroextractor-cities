@@ -17,9 +17,9 @@ namespace :test do
       region_right  = a['bbox']['right'].to_f
 
       if region_left >= region_right
-        abort "Failure! Left coordinate (#{region_left}) is >= to right coordinate (#{region_right}) for city #{region}.".color(:red)
+        abort "Failure! Left coordinate (#{region_left}) is >= to right coordinate (#{region_right}) for region #{region}.".color(:red)
       elsif region_bottom >= region_top
-        abort "Failure! Bottom coordinate (#{region_bottom}) is >= to top coordinate (#{region_top})for region #{region}.".color(:red)
+        abort "Failure! Bottom coordinate (#{region_bottom}) is >= to top coordinate (#{region_top}) for region #{region}.".color(:red)
       end
 
       a['cities'].each do |city, b|
