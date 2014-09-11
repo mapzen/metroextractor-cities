@@ -1750,6 +1750,14 @@
                         "right": "-85.778"
                     }
                 },
+                "nassau_bahamas": {
+                    "bbox": {
+                        "top": "25.092",
+                        "left": "-77.556",
+                        "bottom": "24.974",
+                        "right": "-77.253"
+                    }
+                },
                 "new-orleans_louisiana": {
                     "bbox": {
                         "top": "30.510",
