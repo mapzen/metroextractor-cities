@@ -8155,6 +8155,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nassau_bahamas"
+      },
+      "bbox": [
+        -77.556,
+        24.974,
+        -77.253,
+        25.092
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.556,
+              25.092
+            ],
+            [
+              -77.253,
+              25.092
+            ],
+            [
+              -77.253,
+              24.974
+            ],
+            [
+              -77.556,
+              24.974
+            ],
+            [
+              -77.556,
+              25.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "new-orleans_louisiana"
       },
       "bbox": [
