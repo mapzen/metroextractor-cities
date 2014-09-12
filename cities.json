@@ -9,7 +9,7 @@
             },
             "cities": {
                 "abuja_nigeria": {
-                    "bbox": {
+                    "bbox": {r
                         "top": "9.246",
                         "left": "7.248",
                         "bottom": "8.835",
@@ -980,6 +980,14 @@
                         "left": "22.870",
                         "bottom": "42.380",
                         "right": "23.830"
+                    }
+                },
+                "tallinn_estonia": {
+                    "bbox": {
+                        "top": "59.4918",
+                        "left": "24.5421",
+                        "bottom": "59.3220",
+                        "right": "24.9513"
                     }
                 },
                 "riga_latvia": {
