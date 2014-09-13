@@ -966,6 +966,14 @@
                         "right": "15.012"
                     }
                 },
+                "riga_latvia": {
+                    "bbox": {
+                        "top": "57.300",
+                        "left": "23.469",
+                        "bottom": "56.579",
+                        "right": "24.789"
+                    }
+                },
                 "sarajevo_bosnia": {
                     "bbox": {
                         "top": "43.987",
@@ -982,12 +990,12 @@
                         "right": "23.830"
                     }
                 },
-                "riga_latvia": {
+                "tallinn_estonia": {
                     "bbox": {
-                        "top": "57.300",
-                        "left": "23.469",
-                        "bottom": "56.579",
-                        "right": "24.789"
+                        "top": "59.492",
+                        "left": "24.542",
+                        "bottom": "59.322",
+                        "right": "24.951"
                     }
                 },
                 "vienna-bratislava_austria": {
