@@ -9,7 +9,7 @@
             },
             "cities": {
                 "abuja_nigeria": {
-                    "bbox": {r
+                    "bbox": {
                         "top": "9.246",
                         "left": "7.248",
                         "bottom": "8.835",
@@ -966,6 +966,14 @@
                         "right": "15.012"
                     }
                 },
+                "riga_latvia": {
+                    "bbox": {
+                        "top": "57.300",
+                        "left": "23.469",
+                        "bottom": "56.579",
+                        "right": "24.789"
+                    }
+                },
                 "sarajevo_bosnia": {
                     "bbox": {
                         "top": "43.987",
@@ -988,14 +996,6 @@
                         "left": "24.5421",
                         "bottom": "59.3220",
                         "right": "24.9513"
-                    }
-                },
-                "riga_latvia": {
-                    "bbox": {
-                        "top": "57.300",
-                        "left": "23.469",
-                        "bottom": "56.579",
-                        "right": "24.789"
                     }
                 },
                 "vienna-bratislava_austria": {
