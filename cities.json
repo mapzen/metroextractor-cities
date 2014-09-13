@@ -992,10 +992,10 @@
                 },
                 "tallinn_estonia": {
                     "bbox": {
-                        "top": "59.4918",
-                        "left": "24.5421",
-                        "bottom": "59.3220",
-                        "right": "24.9513"
+                        "top": "59.492",
+                        "left": "24.542",
+                        "bottom": "59.322",
+                        "right": "24.951"
                     }
                 },
                 "vienna-bratislava_austria": {
