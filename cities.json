@@ -204,10 +204,10 @@
                 },
                 "busan_south-korea": {
                     "bbox": {
-                        "top": "35.4743",
-                        "left": "129.4484",
-                        "right": "128.2466",
-                        "bottom": "34.9559"
+                        "top": "35.474",
+                        "left": "128.247",
+                        "right": "129.448",
+                        "bottom": "34.956"
                     }
                 },
                 "chelyabinsk_russia": {
@@ -292,10 +292,10 @@
                 },
                 "harbin_china": {
                     "bbox": {
-                        "top": "46.0502",
-                        "left": "127.07",
-                        "right": "126.3572",
-                        "bottom": "45.4221"
+                        "top": "46.050",
+                        "left": "125.688",
+                        "right": "130.240",
+                        "bottom": "44.062"
                     }
                 },
                 "hiroshima_japan": {
@@ -952,10 +952,10 @@
                 },
                 "minsk_belarus": {
                     "bbox": {
-                        "top": "54.1314",
-                        "left": "27.9614",
-                        "right": "27.1855",
-                        "bottom": "53.6583"
+                        "top": "54.131",
+                        "left": "27.961",
+                        "right": "28.064",
+                        "bottom": "53.658"
                     }
                 },
                 "nis_serbia": {
@@ -1140,9 +1140,9 @@
                 },
                 "brescia_italy": {
                     "bbox": {
-                        "top": "45.7981",
-                        "left": "10.639",
-                        "right": "9.8842",
+                        "top": "45.798",
+                        "left": "10.147",
+                        "right": "10.3",
                         "bottom": "45.236"
                     }
                 },
@@ -1244,10 +1244,10 @@
                 },
                 "naples_italy": {
                     "bbox": {
-                        "top": "41.3707",
-                        "left": "15.1062",
-                        "right": "13.7741",
-                        "bottom": "40.4031"
+                        "top": "40.916",
+                        "left": "14.139",
+                        "right": "14.354",
+                        "bottom": "40.792"
                     }
                 },
                 "palermo_italy": {
@@ -1350,10 +1350,10 @@
                 },
                 "baku_azerbaijan": {
                     "bbox": {
-                        "top": "41.3757",
-                        "left": "50.8387",
-                        "right": "48.7925",
-                        "bottom": "39.3195"
+                        "top": "40.487",
+                        "left": "49.654",
+                        "right": "50.056",
+                        "bottom": "40.304"
                     }
                 },
                 "damascus_syria": {
@@ -1390,10 +1390,10 @@
                 },
                 "izmir_turkey": {
                     "bbox": {
-                        "top": "38.9112",
-                        "left": "27.518",
-                        "right": "26.801",
-                        "bottom": "38.2535"
+                        "top": "38.545",
+                        "left": "26.855",
+                        "right": "27.304",
+                        "bottom": "38.290"
                     }
                 },
                 "kabul_afghanistan": {
@@ -1422,10 +1422,10 @@
                 },
                 "tashkent_uzbekistan": {
                     "bbox": {
-                        "top": "41.687",
-                        "left": "69.9052",
-                        "right": "68.9191",
-                        "bottom": "41.0473"
+                        "top": "41.399",
+                        "left": "69.097",
+                        "right": "69.412",
+                        "bottom": "41.143"
                     }
                 },
                 "tehran_iran": {
@@ -1459,15 +1459,15 @@
                 "top": "54.213",
                 "left": "-168.400",
                 "bottom": "5.9",
-                "right": "-69.620"
+                "right": "-65.000"
             },
             "cities": {
                 "albuquerque_new-mexico": {
                     "bbox": {
-                        "top": "36.220",
-                        "right": "-107.627",
-                        "left": "-105.7145",
-                        "bottom": "34.8690"
+                        "top": "35.218",
+                        "right": "-106.471",
+                        "left": "-106.882",
+                        "bottom": "34.947"
                     }
                 },
                 "atlanta_georgia": {
@@ -1776,10 +1776,10 @@
                 },
                 "monterrey_mexico": {
                     "bbox": {
-                        "top": "26.0473",
-                        "left": "-99.7513",
-                        "right": "-100.7803",
-                        "bottom": "25.1365"
+                        "top": "25.797",
+                        "left": "-100.422",
+                        "right": "-100.184",
+                        "bottom": "25.500"
                     }
                 },
                 "mexico-city_mexico": {
@@ -1872,10 +1872,10 @@
                 },
                 "panama-city_panama": {
                     "bbox": {
-                        "top": "9.2107",
-                        "left": "-79.0821",
-                        "right": "-79.7913",
-                        "bottom": "8.7064"
+                        "top": "9.260",
+                        "left": "-79.598",
+                        "right": "-79.272",
+                        "bottom": "8.907"
                     }
                 },
                 "philadelphia_pennsylvania": {
@@ -1960,10 +1960,10 @@
                 },
                 "salt-lake-city_utah": {
                     "bbox": {
-                        "top": "41.434",
-                        "right": "-112.493",
-                        "left": "-110.857",
-                        "bottom": "39.776"
+                        "top": "40.853",
+                        "right": "-111.739",
+                        "left": "-112.102",
+                        "bottom": "40.700"
                     }
                 },
                 "san-antonio_texas": {
@@ -2000,10 +2000,10 @@
                 },
                 "san-juan_puerto-rico": {
                     "bbox": {
-                        "top": "18.6247",
-                        "left": "-65.7485",
-                        "right": "-66.3528",
-                        "bottom": "18.1525"
+                        "top": "18.472",
+                        "left": "-66.125",
+                        "right": "-65.992",
+                        "bottom": "18.298"
                     }
                 },
                 "santa-barbara_california": {
@@ -2196,10 +2196,10 @@
             "cities": {
                 "belo-horizonte_brazil": {
                     "bbox": {
-                        "top": "-19.5837",
-                        "left": "-43.7471",
-                        "right": "-44.3302",
-                        "bottom": "-20.1668"
+                        "top": "-19.776",
+                        "left": "-44.063",
+                        "right": "-43.865",
+                        "bottom": "-20.029"
                     }
                 },
                 "bogota_colombia": {
@@ -2332,10 +2332,10 @@
                 },
                 "recife_brazil": {
                     "bbox": {
-                        "top": "-7.7318",
-                        "left": "-34.5272",
-                        "right": "-35.1576",
-                        "bottom": "-8.4253"
+                        "top": "-7.931",
+                        "left": "-35.008",
+                        "right": "-33.865",
+                        "bottom": "-8.156"
                     }
                 },
                 "rio-de-janeiro_brazil": {
@@ -2348,10 +2348,10 @@
                 },
                 "salvador_brazil": {
                     "bbox": {
-                        "top": "-12.4915",
-                        "left": "-37.8999",
-                        "right": "-38.7825",
-                        "bottom": "-13.2795"
+                        "top": "-12.492",
+                        "left": "-38.783",
+                        "right": "-37.900",
+                        "bottom": "-13.280"
                     }
                 },
                 "sao-paulo_brazil": {
