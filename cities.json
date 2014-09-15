@@ -1782,6 +1782,14 @@
                         "bottom": "25.500"
                     }
                 },
+                "memphis_tennessee": {
+                    "bbox": {
+                        "top": "35.655",
+                        "left": "-90.409",
+                        "bottom": "34.551",
+                        "right": " -89.011"
+                    }
+                },
                 "mexico-city_mexico": {
                     "bbox": {
                         "top": "19.921",
