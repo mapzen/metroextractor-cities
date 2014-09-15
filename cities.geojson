@@ -8311,6 +8311,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "memphis_tennessee"
+      },
+      "bbox": [
+        -90.409,
+        34.551,
+        -89.011,
+        35.655
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.409,
+              35.655
+            ],
+            [
+              -89.011,
+              35.655
+            ],
+            [
+              -89.011,
+              34.551
+            ],
+            [
+              -90.409,
+              34.551
+            ],
+            [
+              -90.409,
+              35.655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mexico-city_mexico"
       },
       "bbox": [
