@@ -556,96 +556,6 @@
                 }
             }
         },
-        "united_kingdom": {
-            "bbox": {
-                "top": "58.960",
-                "left": "-10.630",
-                "bottom": "43.000",
-                "right": "15.250"
-            },
-            "cities": {
-                "birmingham_england": {
-                    "bbox": {
-                        "top": "52.794",
-                        "left": "-2.536",
-                        "bottom": "52.214",
-                        "right": "-1.267"
-                    }
-                },
-                "cardiff-newport-bristol-bath_england": {
-                    "bbox": {
-                        "top": "51.730",
-                        "left": "-3.618",
-                        "bottom": "51.236",
-                        "right": "-2.189"
-                    }
-                },
-                "cheshire_england": {
-                    "bbox": {
-                        "top": "53.396",
-                        "left": "-3.204",
-                        "bottom": "52.925",
-                        "right": "-1.912"
-                    }
-                },
-                "colchester_england": {
-                    "bbox": {
-                        "top": "52.031",
-                        "left": "0.609",
-                        "bottom": "51.743",
-                        "right": "1.188"
-                    }
-                },
-                "edinburgh_scotland": {
-                    "bbox": {
-                        "top": "56.132",
-                        "left": "-3.585",
-                        "bottom": "55.783",
-                        "right": "-2.835"
-                    }
-                },
-                "glasgow_scotland": {
-                    "bbox": {
-                        "top": "56.034",
-                        "left": "-4.613",
-                        "bottom": "55.668",
-                        "right": "-3.935"
-                    }
-                },
-                "leeds_england": {
-                    "bbox": {
-                        "top": "53.921",
-                        "left": "-1.717",
-                        "bottom": "53.697",
-                        "right": "-1.330"
-                    }
-                },
-                "london_england": {
-                    "bbox": {
-                        "top": "51.984",
-                        "left": "-1.115",
-                        "bottom": "50.941",
-                        "right": "0.895"
-                    }
-                },
-                "manchester_england": {
-                    "bbox": {
-                        "top": "53.672",
-                        "left": "-2.588",
-                        "bottom": "53.237",
-                        "right": "-1.877"
-                    }
-                },
-                "newcastle_england": {
-                    "bbox": {
-                        "top": "55.163",
-                        "left": "-2.027",
-                        "bottom": "54.744",
-                        "right": "-1.261"
-                    }
-                }
-            }
-        },
         "western_europe": {
             "bbox": {
                 "top": "58.960",
@@ -678,6 +588,14 @@
                         "right": "14.699"
                     }
                 },
+                "birmingham_england": {
+                    "bbox": {
+                        "top": "52.794",
+                        "left": "-2.536",
+                        "bottom": "52.214",
+                        "right": "-1.267"
+                    }
+                },
                 "bordeaux_france": {
                     "bbox": {
                         "top": "45.065",
@@ -694,6 +612,22 @@
                     "right": "4.761"
                   }
                 },
+                "cardiff-newport-bristol-bath_england": {
+                    "bbox": {
+                        "top": "51.730",
+                        "left": "-3.618",
+                        "bottom": "51.236",
+                        "right": "-2.189"
+                    }
+                },
+                "cheshire_england": {
+                    "bbox": {
+                        "top": "53.396",
+                        "left": "-3.204",
+                        "bottom": "52.925",
+                        "right": "-1.912"
+                    }
+                },
                 "copenhagen_denmark": {
                     "bbox": {
                         "top": "55.950",
@@ -702,12 +636,36 @@
                         "right": "13.147"
                     }
                 },
+                "colchester_england": {
+                    "bbox": {
+                        "top": "52.031",
+                        "left": "0.609",
+                        "bottom": "51.743",
+                        "right": "1.188"
+                    }
+                },
+                "edinburgh_scotland": {
+                    "bbox": {
+                        "top": "56.132",
+                        "left": "-3.585",
+                        "bottom": "55.783",
+                        "right": "-2.835"
+                    }
+                },
                 "frankfurt_germany": {
                     "bbox": {
                         "top": "50.447",
                         "left": "7.811",
                         "bottom": "49.632",
                         "right": "9.442"
+                    }
+                },
+                "glasgow_scotland": {
+                    "bbox": {
+                        "top": "56.034",
+                        "left": "-4.613",
+                        "bottom": "55.668",
+                        "right": "-3.935"
                     }
                 },
                 "grand-avignon_france": {
@@ -742,6 +700,14 @@
                         "right": "-1.0672"
                     }
                 },
+                "leeds_england": {
+                    "bbox": {
+                        "top": "53.921",
+                        "left": "-1.717",
+                        "bottom": "53.697",
+                        "right": "-1.330"
+                    }
+                },
                 "lille_france": {
                     "bbox": {
                         "top": "50.800",
@@ -750,12 +716,28 @@
                         "right": "3.389"
                     }
                 },
+                "london_england": {
+                    "bbox": {
+                        "top": "51.984",
+                        "left": "-1.115",
+                        "bottom": "50.941",
+                        "right": "0.895"
+                    }
+                },
                 "lyon_france": {
                     "bbox": {
                         "top": "46.191",
                         "left": "4.136",
                         "bottom": "45.305",
                         "right": "5.517"
+                    }
+                },
+                "manchester_england": {
+                    "bbox": {
+                        "top": "53.672",
+                        "left": "-2.588",
+                        "bottom": "53.237",
+                        "right": "-1.877"
                     }
                 },
                 "marseille_france": {
@@ -804,6 +786,14 @@
                         "left": "-1.866",
                         "bottom": "47.035",
                         "right": "-1.191"
+                    }
+                },
+                "newcastle_england": {
+                    "bbox": {
+                        "top": "55.163",
+                        "left": "-2.027",
+                        "bottom": "54.744",
+                        "right": "-1.261"
                     }
                 },
                 "nice_france": {
