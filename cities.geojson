@@ -901,6 +901,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "busan_south-korea"
+      },
+      "bbox": [
+        128.247,
+        34.956,
+        129.448,
+        35.474
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.247,
+              35.474
+            ],
+            [
+              129.448,
+              35.474
+            ],
+            [
+              129.448,
+              34.956
+            ],
+            [
+              128.247,
+              34.956
+            ],
+            [
+              128.247,
+              35.474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "chelyabinsk_russia"
       },
       "bbox": [
@@ -1283,6 +1322,45 @@
             [
               120.1,
               30.2963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "harbin_china"
+      },
+      "bbox": [
+        125.688,
+        44.062,
+        130.24,
+        46.05
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.688,
+              46.05
+            ],
+            [
+              130.24,
+              46.05
+            ],
+            [
+              130.24,
+              44.062
+            ],
+            [
+              125.688,
+              44.062
+            ],
+            [
+              125.688,
+              46.05
             ]
           ]
         ]
@@ -4372,6 +4450,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "minsk_belarus"
+      },
+      "bbox": [
+        27.961,
+        53.658,
+        28.064,
+        54.131
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.961,
+              54.131
+            ],
+            [
+              28.064,
+              54.131
+            ],
+            [
+              28.064,
+              53.658
+            ],
+            [
+              27.961,
+              53.658
+            ],
+            [
+              27.961,
+              54.131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nis_serbia"
       },
       "bbox": [
@@ -5152,6 +5269,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "brescia_italy"
+      },
+      "bbox": [
+        10.147,
+        45.236,
+        10.3,
+        45.798
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.147,
+              45.798
+            ],
+            [
+              10.3,
+              45.798
+            ],
+            [
+              10.3,
+              45.236
+            ],
+            [
+              10.147,
+              45.236
+            ],
+            [
+              10.147,
+              45.798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "cadiz_spain"
       },
       "bbox": [
@@ -5620,6 +5776,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "naples_italy"
+      },
+      "bbox": [
+        14.139,
+        40.792,
+        14.354,
+        40.916
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.139,
+              40.916
+            ],
+            [
+              14.354,
+              40.916
+            ],
+            [
+              14.354,
+              40.792
+            ],
+            [
+              14.139,
+              40.792
+            ],
+            [
+              14.139,
+              40.916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "palermo_italy"
       },
       "bbox": [
@@ -6049,6 +6244,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "baku_azerbaijan"
+      },
+      "bbox": [
+        49.654,
+        40.304,
+        50.056,
+        40.487
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.654,
+              40.487
+            ],
+            [
+              50.056,
+              40.487
+            ],
+            [
+              50.056,
+              40.304
+            ],
+            [
+              49.654,
+              40.304
+            ],
+            [
+              49.654,
+              40.487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "damascus_syria"
       },
       "bbox": [
@@ -6205,6 +6439,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "izmir_turkey"
+      },
+      "bbox": [
+        26.855,
+        38.29,
+        27.304,
+        38.545
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.855,
+              38.545
+            ],
+            [
+              27.304,
+              38.545
+            ],
+            [
+              27.304,
+              38.29
+            ],
+            [
+              26.855,
+              38.29
+            ],
+            [
+              26.855,
+              38.545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kabul_afghanistan"
       },
       "bbox": [
@@ -6322,6 +6595,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "tashkent_uzbekistan"
+      },
+      "bbox": [
+        69.097,
+        41.143,
+        69.412,
+        41.399
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.097,
+              41.399
+            ],
+            [
+              69.412,
+              41.399
+            ],
+            [
+              69.412,
+              41.143
+            ],
+            [
+              69.097,
+              41.143
+            ],
+            [
+              69.097,
+              41.399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "tehran_iran"
       },
       "bbox": [
@@ -6431,6 +6743,45 @@
             [
               43.907,
               40.617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "albuquerque_new-mexico"
+      },
+      "bbox": [
+        -106.882,
+        34.947,
+        -106.471,
+        35.218
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.882,
+              35.218
+            ],
+            [
+              -106.471,
+              35.218
+            ],
+            [
+              -106.471,
+              34.947
+            ],
+            [
+              -106.882,
+              34.947
+            ],
+            [
+              -106.882,
+              35.218
             ]
           ]
         ]
@@ -7921,6 +8272,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "monterrey_mexico"
+      },
+      "bbox": [
+        -100.422,
+        25.5,
+        -100.184,
+        25.797
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.422,
+              25.797
+            ],
+            [
+              -100.184,
+              25.797
+            ],
+            [
+              -100.184,
+              25.5
+            ],
+            [
+              -100.422,
+              25.5
+            ],
+            [
+              -100.422,
+              25.797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mexico-city_mexico"
       },
       "bbox": [
@@ -8350,6 +8740,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "panama-city_panama"
+      },
+      "bbox": [
+        -79.598,
+        8.907,
+        -79.272,
+        9.26
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.598,
+              9.26
+            ],
+            [
+              -79.272,
+              9.26
+            ],
+            [
+              -79.272,
+              8.907
+            ],
+            [
+              -79.598,
+              8.907
+            ],
+            [
+              -79.598,
+              9.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "philadelphia_pennsylvania"
       },
       "bbox": [
@@ -8740,6 +9169,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "salt-lake-city_utah"
+      },
+      "bbox": [
+        -112.102,
+        40.7,
+        -111.739,
+        40.853
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.102,
+              40.853
+            ],
+            [
+              -111.739,
+              40.853
+            ],
+            [
+              -111.739,
+              40.7
+            ],
+            [
+              -112.102,
+              40.7
+            ],
+            [
+              -112.102,
+              40.853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "san-antonio_texas"
       },
       "bbox": [
@@ -8888,6 +9356,45 @@
             [
               -123.64,
               38.719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "san-juan_puerto-rico"
+      },
+      "bbox": [
+        -66.125,
+        18.298,
+        -65.992,
+        18.472
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.125,
+              18.472
+            ],
+            [
+              -65.992,
+              18.472
+            ],
+            [
+              -65.992,
+              18.298
+            ],
+            [
+              -66.125,
+              18.298
+            ],
+            [
+              -66.125,
+              18.472
             ]
           ]
         ]
@@ -9715,6 +10222,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "belo-horizonte_brazil"
+      },
+      "bbox": [
+        -44.063,
+        -20.029,
+        -43.865,
+        -19.776
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.063,
+              -19.776
+            ],
+            [
+              -43.865,
+              -19.776
+            ],
+            [
+              -43.865,
+              -20.029
+            ],
+            [
+              -44.063,
+              -20.029
+            ],
+            [
+              -44.063,
+              -19.776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "bogota_colombia"
       },
       "bbox": [
@@ -10339,6 +10885,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "recife_brazil"
+      },
+      "bbox": [
+        -35.008,
+        -8.156,
+        -33.865,
+        -7.931
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.008,
+              -7.931
+            ],
+            [
+              -33.865,
+              -7.931
+            ],
+            [
+              -33.865,
+              -8.156
+            ],
+            [
+              -35.008,
+              -8.156
+            ],
+            [
+              -35.008,
+              -7.931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "rio-de-janeiro_brazil"
       },
       "bbox": [
@@ -10370,6 +10955,45 @@
             [
               -43.86,
               -22.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "salvador_brazil"
+      },
+      "bbox": [
+        -38.783,
+        -13.28,
+        -37.9,
+        -12.492
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.783,
+              -12.492
+            ],
+            [
+              -37.9,
+              -12.492
+            ],
+            [
+              -37.9,
+              -13.28
+            ],
+            [
+              -38.783,
+              -13.28
+            ],
+            [
+              -38.783,
+              -12.492
             ]
           ]
         ]
