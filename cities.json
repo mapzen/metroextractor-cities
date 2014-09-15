@@ -202,6 +202,14 @@
                         "right": "74.7624"
                     }
                 },
+                "busan_south-korea": {
+                    "bbox": {
+                        "top": "35.4743",
+                        "left": "129.4484",
+                        "right": "128.2466",
+                        "bottom": "34.9559"
+                    }
+                },
                 "chelyabinsk_russia": {
                     "bbox": {
                         "top": "55.438",
@@ -280,6 +288,14 @@
                         "left": "120.1000",
                         "bottom": "30.2300",
                         "right": "120.1851"
+                    }
+                },
+                "harbin_china": {
+                    "bbox": {
+                        "top": "46.0502",
+                        "left": "127.07",
+                        "right": "126.3572",
+                        "bottom": "45.4221"
                     }
                 },
                 "hiroshima_japan": {
@@ -934,6 +950,14 @@
                         "right": "24.433"
                     }
                 },
+                "minsk_belarus": {
+                    "bbox": {
+                        "top": "54.1314",
+                        "left": "27.9614",
+                        "right": "27.1855",
+                        "bottom": "53.6583"
+                    }
+                },
                 "nis_serbia": {
                     "bbox": {
                         "top": "43.359",
@@ -1114,6 +1138,14 @@
                         "right": "-2.555"
                     }
                 },
+                "brescia_italy": {
+                    "bbox": {
+                        "top": "45.7981",
+                        "left": "10.639",
+                        "right": "9.8842",
+                        "bottom": "45.236"
+                    }
+                },
                 "cadiz_spain": {
                     "bbox": {
                         "top": "36.800",
@@ -1208,6 +1240,14 @@
                         "left": "8.860",
                         "bottom": "45.246",
                         "right": "9.470"
+                    }
+                },
+                "naples_italy": {
+                    "bbox": {
+                        "top": "41.3707",
+                        "left": "15.1062",
+                        "right": "13.7741",
+                        "bottom": "40.4031"
                     }
                 },
                 "palermo_italy": {
@@ -1308,6 +1348,14 @@
                         "right": "44.862"
                     }
                 },
+                "baku_azerbaijan": {
+                    "bbox": {
+                        "top": "41.3757",
+                        "left": "50.8387",
+                        "right": "48.7925",
+                        "bottom": "39.3195"
+                    }
+                },
                 "damascus_syria": {
                     "bbox": {
                         "top": "33.805",
@@ -1340,6 +1388,14 @@
                         "right": "34.667"
                     }
                 },
+                "izmir_turkey": {
+                    "bbox": {
+                        "top": "38.9112",
+                        "left": "27.518",
+                        "right": "26.801",
+                        "bottom": "38.2535"
+                    }
+                },
                 "kabul_afghanistan": {
                     "bbox": {
                         "top": "34.950",
@@ -1362,6 +1418,14 @@
                         "left": "46.227",
                         "bottom": "24.292",
                         "right": "47.202"
+                    }
+                },
+                "tashkent_uzbekistan": {
+                    "bbox": {
+                        "top": "41.687",
+                        "left": "69.9052",
+                        "right": "68.9191",
+                        "bottom": "41.0473"
                     }
                 },
                 "tehran_iran": {
@@ -1398,6 +1462,14 @@
                 "right": "-69.620"
             },
             "cities": {
+                "albuquerque_new-mexico": {
+                    "bbox": {
+                        "top": "36.220",
+                        "right": "-107.627",
+                        "left": "-105.7145",
+                        "bottom": "34.8690"
+                    }
+                },
                 "atlanta_georgia": {
                     "bbox": {
                         "top": "34.618",
@@ -1702,6 +1774,14 @@
                         "right": "-86.152"
                     }
                 },
+                "monterrey_mexico": {
+                    "bbox": {
+                        "top": "26.0473",
+                        "left": "-99.7513",
+                        "right": "-100.7803",
+                        "bottom": "25.1365"
+                    }
+                },
                 "mexico-city_mexico": {
                     "bbox": {
                         "top": "19.921",
@@ -1790,6 +1870,14 @@
                         "right": "-75.052"
                     }
                 },
+                "panama-city_panama": {
+                    "bbox": {
+                        "top": "9.2107",
+                        "left": "-79.0821",
+                        "right": "-79.7913",
+                        "bottom": "8.7064"
+                    }
+                },
                 "philadelphia_pennsylvania": {
                     "bbox": {
                         "top": "40.308",
@@ -1870,6 +1958,14 @@
                         "right": "-120.995"
                     }
                 },
+                "salt-lake-city_utah": {
+                    "bbox": {
+                        "top": "41.434",
+                        "right": "-112.493",
+                        "left": "-110.857",
+                        "bottom": "39.776"
+                    }
+                },
                 "san-antonio_texas": {
                     "bbox": {
                         "top": "29.671",
@@ -1900,6 +1996,14 @@
                         "left": "-123.640",
                         "bottom": "36.791",
                         "right": "-121.025"
+                    }
+                },
+                "san-juan_puerto-rico": {
+                    "bbox": {
+                        "top": "18.6247",
+                        "left": "-65.7485",
+                        "right": "-66.3528",
+                        "bottom": "18.1525"
                     }
                 },
                 "santa-barbara_california": {
@@ -2090,6 +2194,14 @@
                 "right": "-33.000"
             },
             "cities": {
+                "belo-horizonte_brazil": {
+                    "bbox": {
+                        "top": "-19.5837",
+                        "left": "-43.7471",
+                        "right": "-44.3302",
+                        "bottom": "-20.1668"
+                    }
+                },
                 "bogota_colombia": {
                     "bbox": {
                         "top": "5.022",
@@ -2218,12 +2330,28 @@
                         "right": "-78.100"
                     }
                 },
+                "recife_brazil": {
+                    "bbox": {
+                        "top": "-7.7318",
+                        "left": "-34.5272",
+                        "right": "-35.1576",
+                        "bottom": "-8.4253"
+                    }
+                },
                 "rio-de-janeiro_brazil": {
                     "bbox": {
                         "top": "-22.378",
                         "left": "-43.860",
                         "bottom": "-23.216",
                         "right": "-42.751"
+                    }
+                },
+                "salvador_brazil": {
+                    "bbox": {
+                        "top": "-12.4915",
+                        "left": "-37.8999",
+                        "right": "-38.7825",
+                        "bottom": "-13.2795"
                     }
                 },
                 "sao-paulo_brazil": {
