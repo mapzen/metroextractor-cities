@@ -3007,6 +3007,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "dresden_germany"
+      },
+      "bbox": [
+        13.586,
+        50.978,
+        13.972,
+        51.18
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.586,
+              51.18
+            ],
+            [
+              13.972,
+              51.18
+            ],
+            [
+              13.972,
+              50.978
+            ],
+            [
+              13.586,
+              50.978
+            ],
+            [
+              13.586,
+              51.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "edinburgh_scotland"
       },
       "bbox": [
