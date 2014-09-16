@@ -644,6 +644,14 @@
                         "right": "1.188"
                     }
                 },
+                "dresden_germany": {
+                    "bbox": {
+                        "top": "51.180",
+                        "left": "13.586",
+                        "bottom": "50.978",
+                        "right": "13.972"
+                    }  
+                },
                 "edinburgh_scotland": {
                     "bbox": {
                         "top": "56.132",
