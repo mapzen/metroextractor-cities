@@ -13,6 +13,6 @@ namespace :test do
         abort line.color(:yellow)
       end
     end
-    puts 'Whitespace OK'.color(:green)
+    puts 'OK'.color(:green)
   end
 end

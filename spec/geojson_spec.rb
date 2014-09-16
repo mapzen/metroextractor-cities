@@ -11,7 +11,7 @@ namespace :test do
     puts 'Validating cities.geojson syntax'.color(:blue)
     begin
       JSON.load(geojson_file)
-      puts 'Syntax OK'.color(:green)
+      puts 'OK'.color(:green)
     rescue JSON::ParserError
       abort 'Syntax Error!'.color(:red)
     end

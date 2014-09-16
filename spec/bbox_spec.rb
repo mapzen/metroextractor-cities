@@ -46,6 +46,6 @@ namespace :test do
         end
       end
     end
-    puts 'Syntax OK'.color(:green)
+    puts 'OK'.color(:green)
   end
 end

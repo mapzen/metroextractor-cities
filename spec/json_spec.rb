@@ -11,7 +11,7 @@ namespace :test do
     puts 'Validating cities.json syntax'.color(:blue)
     begin
       JSON.load(json_file)
-      puts 'JSON syntax OK'.color(:green)
+      puts 'OK'.color(:green)
     rescue JSON::ParserError
       abort 'JSON syntax error!'.color(:red)
     end
