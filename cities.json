@@ -1929,9 +1929,9 @@
                 "portland_oregon": {
                     "bbox": {
                         "top": "45.897",
-                        "left": "-123.211",
+                        "left": "-123.521",
                         "bottom": "45.096",
-                        "right": "-122.113"
+                        "right": "-122.110"
                     }
                 },
                 "portland_maine": {
@@ -2100,14 +2100,6 @@
                         "left": "-124.063",
                         "bottom": "48.054",
                         "right": "-122.568"
-                    }
-                },
-                 "washington-county_oregon": {
-                    "bbox": {
-                        "top": "45.897",
-                        "left": "-123.521",
-                        "bottom": "45.096",
-                        "right": "-122.110"
                     }
                 }
             }
