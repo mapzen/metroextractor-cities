@@ -652,6 +652,14 @@
                         "right": "13.972"
                     }  
                 },
+                "duesseldorf_germany": {
+                    "bbox": {
+                        "top": "51.361",
+                        "left": "6.622",
+                        "bottom": "51.116",
+                        "right": "7.009"
+                    }
+                },
                 "edinburgh_scotland": {
                     "bbox": {
                         "top": "56.132",
@@ -714,6 +722,14 @@
                         "left": "-1.717",
                         "bottom": "53.697",
                         "right": "-1.330"
+                    }
+                },
+                "leipzig_germany": {
+                    "bbox": {
+                        "top": "51.459",
+                        "left": "12.179",
+                        "bottom": "51.227",
+                        "right": "12.600"
                     }
                 },
                 "lille_france": {
