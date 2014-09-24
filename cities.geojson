@@ -3046,6 +3046,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "duesseldorf_germany"
+      },
+      "bbox": [
+        6.622,
+        51.116,
+        7.009,
+        51.361
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.622,
+              51.361
+            ],
+            [
+              7.009,
+              51.361
+            ],
+            [
+              7.009,
+              51.116
+            ],
+            [
+              6.622,
+              51.116
+            ],
+            [
+              6.622,
+              51.361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "edinburgh_scotland"
       },
       "bbox": [
@@ -3350,6 +3389,45 @@
             [
               -1.717,
               53.921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leipzig_germany"
+      },
+      "bbox": [
+        12.179,
+        51.227,
+        12.6,
+        51.459
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.179,
+              51.459
+            ],
+            [
+              12.6,
+              51.459
+            ],
+            [
+              12.6,
+              51.227
+            ],
+            [
+              12.179,
+              51.227
+            ],
+            [
+              12.179,
+              51.459
             ]
           ]
         ]
