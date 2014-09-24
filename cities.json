@@ -1162,14 +1162,6 @@
                         "right": "-6.000"
                     }
                 },
-                "valencia_spain": {
-                    "bbox": {
-                        "top": "39.5040",
-                        "left": "-0.4357",
-                        "bottom": "39.4203",
-                        "right": "-0.2850"
-                    }
-                },
                 "cagliari_italy": {
                     "bbox": {
                         "top": "39.321",
@@ -1328,6 +1320,14 @@
                         "left": "7.504",
                         "bottom": "44.980",
                         "right": "7.775"
+                    }
+                },
+                "valencia_spain": {
+                    "bbox": {
+                        "top": "39.5040",
+                        "left": "-0.4357",
+                        "bottom": "39.4203",
+                        "right": "-0.2850"
                     }
                 },
                 "venice_italy": {
