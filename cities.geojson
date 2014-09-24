@@ -6166,6 +6166,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "valencia_spain"
+      },
+      "bbox": [
+        -0.4357,
+        39.4203,
+        -0.285,
+        39.504
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4357,
+              39.504
+            ],
+            [
+              -0.285,
+              39.504
+            ],
+            [
+              -0.285,
+              39.4203
+            ],
+            [
+              -0.4357,
+              39.4203
+            ],
+            [
+              -0.4357,
+              39.504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "venice_italy"
       },
       "bbox": [
