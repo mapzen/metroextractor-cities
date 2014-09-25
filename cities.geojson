@@ -433,6 +433,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "kinshasa_congo"
+      },
+      "bbox": [
+        15.176,
+        -4.509,
+        15.47,
+        -4.293
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.176,
+              -4.293
+            ],
+            [
+              15.47,
+              -4.293
+            ],
+            [
+              15.47,
+              -4.509
+            ],
+            [
+              15.176,
+              -4.509
+            ],
+            [
+              15.176,
+              -4.293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "lagos_nigeria"
       },
       "bbox": [
