@@ -6673,6 +6673,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "jeddah_saudi-arabia"
+      },
+      "bbox": [
+        39.029,
+        21.005,
+        39.393,
+        21.905
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.029,
+              21.905
+            ],
+            [
+              39.393,
+              21.905
+            ],
+            [
+              39.393,
+              21.005
+            ],
+            [
+              39.029,
+              21.005
+            ],
+            [
+              39.029,
+              21.905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kabul_afghanistan"
       },
       "bbox": [
