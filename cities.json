@@ -1436,6 +1436,14 @@
                         "bottom": "38.290"
                     }
                 },
+                "jeddah_saudi-arabia": {
+                    "bbox": {
+                        "top": "21.905",
+                        "left": "39.029",
+                        "right": "39.393",
+                        "bottom": "21.005"
+                    }
+                },
                 "kabul_afghanistan": {
                     "bbox": {
                         "top": "34.950",
