@@ -96,6 +96,14 @@
                         "right": "32.866"
                     }
                 },
+                "kinshasa_congo": {
+                    "bbox": {
+                        "top": "-4.293",
+                        "left": "15.176",
+                        "bottom": "-4.509",
+                        "right": "15.470"
+                    }
+                },
                 "lagos_nigeria": {
                     "bbox": {
                         "top": "6.910",
