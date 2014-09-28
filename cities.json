@@ -926,6 +926,14 @@
                         "right": "29.678"
                     }
                 },
+                "katowice_poland": {
+                    "bbox": {
+                        "top": "50.706",
+                        "left": "18.115",
+                        "bottom": "50.055",
+                        "right": "19.604"
+                    }
+                },
                 "kharkiv_ukraine": {
                     "bbox": {
                         "top": "50.105",
