@@ -4333,6 +4333,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "katowice_poland"
+      },
+      "bbox": [
+        18.115,
+        50.055,
+        19.604,
+        50.706
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.115,
+              50.706
+            ],
+            [
+              19.604,
+              50.706
+            ],
+            [
+              19.604,
+              50.055
+            ],
+            [
+              18.115,
+              50.055
+            ],
+            [
+              18.115,
+              50.706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kharkiv_ukraine"
       },
       "bbox": [
