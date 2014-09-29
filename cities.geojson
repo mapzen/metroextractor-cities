@@ -2656,6 +2656,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "vijayawada_india"
+      },
+      "bbox": [
+        80.321,
+        16.173,
+        80.831,
+        16.642
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.321,
+              16.642
+            ],
+            [
+              80.831,
+              16.642
+            ],
+            [
+              80.831,
+              16.173
+            ],
+            [
+              80.321,
+              16.173
+            ],
+            [
+              80.321,
+              16.642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "amsterdam_netherlands"
       },
       "bbox": [
