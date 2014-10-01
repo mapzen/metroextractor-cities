@@ -861,12 +861,28 @@
                         "right": "4.784"
                     }
                 },
+                "reading_england": {
+                    "bbox": {
+			            "top": "51.505",
+                        "left": "-1.086",
+			            "bottom": "51.404",
+                        "right": "-0.901"
+                    }
+                },
                 "saint-jean-bonnefonds_france": {
                     "bbox": {
                         "top": "45.484",
                         "left": "4.410",
                         "bottom": "45.430",
                         "right": "4.504"
+                    }
+                },
+                "slough_england": {
+                    "bbox": {
+                        "top": "51.544",
+                        "left": "-0.674",
+                        "bottom": "51.481",
+                        "right": "-0.514"
                     }
                 },
                 "strasbourg_france": {
