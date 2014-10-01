@@ -4060,6 +4060,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "reading_england"
+      },
+      "bbox": [
+        -1.086,
+        51.404,
+        -0.901,
+        51.505
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.086,
+              51.505
+            ],
+            [
+              -0.901,
+              51.505
+            ],
+            [
+              -0.901,
+              51.404
+            ],
+            [
+              -1.086,
+              51.404
+            ],
+            [
+              -1.086,
+              51.505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "saint-jean-bonnefonds_france"
       },
       "bbox": [
@@ -4091,6 +4130,45 @@
             [
               4.41,
               45.484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "slough_england"
+      },
+      "bbox": [
+        -0.674,
+        51.481,
+        -0.514,
+        51.544
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.674,
+              51.544
+            ],
+            [
+              -0.514,
+              51.544
+            ],
+            [
+              -0.514,
+              51.481
+            ],
+            [
+              -0.674,
+              51.481
+            ],
+            [
+              -0.674,
+              51.544
             ]
           ]
         ]
