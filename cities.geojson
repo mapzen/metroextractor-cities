@@ -9871,6 +9871,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "santa-monica_california"
+      },
+      "bbox": [
+        -118.551,
+        33.967,
+        -118.443,
+        34.051
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.551,
+              34.051
+            ],
+            [
+              -118.443,
+              34.051
+            ],
+            [
+              -118.443,
+              33.967
+            ],
+            [
+              -118.551,
+              33.967
+            ],
+            [
+              -118.551,
+              34.051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "santo-domingo_dominican-republic"
       },
       "bbox": [
