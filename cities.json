@@ -2103,6 +2103,14 @@
                         "right": "-119.080"
                     }
                 },
+                "santa-monica_california": {
+                    "bbox": {
+                        "top": "34.051",
+                        "left": "-118.551",
+                        "bottom": "33.967",
+                        "right": "-118.443"
+                    }
+                },
                 "santo-domingo_dominican-republic": {
                     "bbox": {
                         "top": "18.685",
