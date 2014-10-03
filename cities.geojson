@@ -7804,6 +7804,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "duluth_minnesota"
+      },
+      "bbox": [
+        -92.603,
+        46.575,
+        -91.234,
+        47.095
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.603,
+              47.095
+            ],
+            [
+              -91.234,
+              47.095
+            ],
+            [
+              -91.234,
+              46.575
+            ],
+            [
+              -92.603,
+              46.575
+            ],
+            [
+              -92.603,
+              47.095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "edmonton_canada"
       },
       "bbox": [
