@@ -1679,6 +1679,14 @@
                         "right": "-82.375"
                     }
                 },
+                "duluth_minnesota": {
+                    "bbox": {
+                        "top": "47.095",
+                        "left": "-92.603",
+                        "bottom": "46.575",
+                        "right": "-91.234"
+                    }
+                },
                 "edmonton_canada": {
                     "bbox": {
                         "top": "54.213",
