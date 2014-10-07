@@ -10066,6 +10066,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "syracuse_new-york"
+      },
+      "bbox": [
+        -76.375,
+        42.941,
+        -75.946,
+        43.219
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.375,
+              43.219
+            ],
+            [
+              -75.946,
+              43.219
+            ],
+            [
+              -75.946,
+              42.941
+            ],
+            [
+              -76.375,
+              42.941
+            ],
+            [
+              -76.375,
+              43.219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "tampa_florida"
       },
       "bbox": [
