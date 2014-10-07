@@ -2143,6 +2143,14 @@
                         "right": "-77.302"
                     }
                 },
+                "syracuse_new-york": {
+                    "bbox": {
+                        "top": "43.219",
+                        "left": "-76.375",
+                        "bottom": "42.941",
+                        "right": "-75.946"
+                    }
+                },
                 "tampa_florida": {
                     "bbox": {
                         "top": "28.376",
