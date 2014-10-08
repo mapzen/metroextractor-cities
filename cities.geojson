@@ -4255,6 +4255,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "zurich_switzerland"
+      },
+      "bbox": [
+        8.486,
+        47.352,
+        8.594,
+        47.393
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.486,
+              47.393
+            ],
+            [
+              8.594,
+              47.393
+            ],
+            [
+              8.594,
+              47.352
+            ],
+            [
+              8.486,
+              47.352
+            ],
+            [
+              8.486,
+              47.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "brno_czech-republic"
       },
       "bbox": [
