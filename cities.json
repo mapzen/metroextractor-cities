@@ -900,6 +900,14 @@
                         "bottom": "43.327",
                         "right": "1.779"
                     }
+                },
+                "zurich_switzerland": {
+                    "bbox": {
+                        "top": "47.393",
+                        "left": "8.486",
+                        "bottom": "47.352",
+                        "right": "8.594"
+                    }
                 }
             }
         },
