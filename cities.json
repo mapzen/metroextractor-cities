@@ -1591,6 +1591,14 @@
                         "right": "-106.150"
                     }
                 },
+                "bangor_maine": {
+                    "bbox": {
+                        "top": "44.864",
+                        "left": "-68.871",
+                        "bottom": "44.757",
+                        "right": "-68.643"
+                    }
+                },
                 "boston_massachusetts": {
                     "bbox": {
                         "top": "42.702",
