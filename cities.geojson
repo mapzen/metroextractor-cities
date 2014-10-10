@@ -4372,6 +4372,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "sibiu_romania"
+      },
+      "bbox": [
+        24.0,
+        45.69,
+        24.28,
+        45.84
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.0,
+              45.84
+            ],
+            [
+              24.28,
+              45.84
+            ],
+            [
+              24.28,
+              45.69
+            ],
+            [
+              24.0,
+              45.69
+            ],
+            [
+              24.0,
+              45.84
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "budapest_hungary"
       },
       "bbox": [
