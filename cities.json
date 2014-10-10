@@ -935,6 +935,14 @@
                         "right": "26.756"
                     }
                 },
+                "sibiu_romania": {
+                    "bbox": {
+                        "top": "45.840",
+                        "left": "24.000",
+                        "bottom": "45.690",
+                        "right": "24.280"
+                    }
+                },
                 "budapest_hungary": {
                     "bbox": {
                         "top": "47.861",
