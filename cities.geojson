@@ -7375,6 +7375,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bangor_maine"
+      },
+      "bbox": [
+        -68.871,
+        44.757,
+        -68.643,
+        44.864
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.871,
+              44.864
+            ],
+            [
+              -68.643,
+              44.864
+            ],
+            [
+              -68.643,
+              44.757
+            ],
+            [
+              -68.871,
+              44.757
+            ],
+            [
+              -68.871,
+              44.864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "boston_massachusetts"
       },
       "bbox": [
