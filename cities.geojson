@@ -82,6 +82,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "algiers_algeria"
+      },
+      "bbox": [
+        3.026,
+        36.744,
+        3.058,
+        36.762
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.026,
+              36.762
+            ],
+            [
+              3.058,
+              36.762
+            ],
+            [
+              3.058,
+              36.744
+            ],
+            [
+              3.026,
+              36.744
+            ],
+            [
+              3.026,
+              36.762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "bejaia_algeria"
       },
       "bbox": [
