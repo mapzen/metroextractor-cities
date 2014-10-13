@@ -32,6 +32,14 @@
                         "right": "3.058"
                     }
                 },
+                "annaba_algeria": {
+                    "bbox": {
+                        "top": "36.970",
+                        "left": "7.695",
+                        "bottom": "36.866",
+                        "right": "7.793"
+                    }
+                },
                 "bejaia_algeria": {
                     "bbox": {
                         "top": "36.890",
@@ -54,6 +62,14 @@
                         "left": "30.897",
                         "bottom": "29.761",
                         "right": "31.710"
+                    }
+                },
+                "constantine_algeria": {
+                    "bbox": {
+                        "top": "36.449",
+                        "left": "6.528",
+                        "bottom": "36.259",
+                        "right": "6.767"
                     }
                 },
                 "dakar_senegal": {
@@ -104,6 +120,14 @@
                         "right": "32.866"
                     }
                 },
+                "kigali_rwanda": {
+                    "bbox": {
+                        "top": "-1.698",
+                        "left": "29.910",
+                        "bottom": "-2.126",
+                        "right": "30.288"
+                    }
+                },
                 "kinshasa_congo": {
                     "bbox": {
                         "top": "-4.293",
@@ -144,12 +168,20 @@
                         "right": "37.056"
                     }
                 },
-                "kigali_rwanda": {
+                "oran_algeria": {
                     "bbox": {
-                        "top": "-1.698",
-                        "left": "29.910",
-                        "bottom": "-2.126",
-                        "right": "30.288"
+                        "top": "35.770",
+                        "left": "-0.730",
+                        "bottom": "35.645",
+                        "right": "-0.553"
+                    }
+                },
+                "tindouf_algeria": {
+                    "bbox": {
+                        "top": "28.923",
+                        "left": "-8.667",
+                        "bottom": "25.569",
+                        "right": "-3.980"
                     }
                 }
             }
