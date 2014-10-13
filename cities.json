@@ -24,6 +24,14 @@
                         "right": "38.920"
                     }
                 },
+                "algiers_algeria": {
+                    "bbox": {
+                        "top": "36.762",
+                        "left": "3.026",
+                        "bottom": "36.744",
+                        "right": "3.058"
+                    }
+                },
                 "bejaia_algeria": {
                     "bbox": {
                         "top": "36.890",
