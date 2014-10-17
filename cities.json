@@ -959,6 +959,14 @@
                 "right": "38.890"
             },
             "cities": {
+                "brasov_romania": {
+                    "bbox": {
+                        "top": "45.746",
+                        "left": "25.380",
+                        "bottom": "44.300",
+                        "right": "25.800"
+                    }
+                },
                 "brno_czech-republic": {
                     "bbox": {
                         "top": "49.357",
@@ -975,14 +983,6 @@
                         "right": "26.756"
                     }
                 },
-                "sibiu_romania": {
-                    "bbox": {
-                        "top": "45.840",
-                        "left": "24.000",
-                        "bottom": "45.690",
-                        "right": "24.280"
-                    }
-                },
                 "budapest_hungary": {
                     "bbox": {
                         "top": "47.861",
@@ -991,12 +991,36 @@
                         "right": "19.780"
                     }
                 },
+                "cluj_romania": {
+                    "bbox": {
+                        "top": "46.830",
+                        "left": "23.454",
+                        "bottom": "46.680",
+                        "right": "23.755"
+                    }
+                },
+                "constanta_romania": {
+                    "bbox": {
+                        "top": "44.385",
+                        "left": "28.150",
+                        "bottom": "43.757",
+                        "right": "28.750"
+                    }
+                },
                 "gdansk_poland": {
                     "bbox": {
                         "top": "54.870",
                         "left": "18.174",
                         "bottom": "54.007",
                         "right": "19.113"
+                    }
+                },
+                "iasi_romania": {
+                    "bbox": {
+                        "top": "47.235",
+                        "left": "27.375",
+                        "bottom": "47.023",
+                        "right": "27.750"
                     }
                 },
                 "istanbul_turkey": {
@@ -1127,6 +1151,14 @@
                         "right": "18.631"
                     }
                 },
+                "sibiu_romania": {
+                    "bbox": {
+                        "top": "45.840",
+                        "left": "24.000",
+                        "bottom": "45.690",
+                        "right": "24.280"
+                    }
+                },
                 "sofia_bulgaria": {
                     "bbox": {
                         "top": "43.040",
@@ -1141,6 +1173,14 @@
                         "left": "24.542",
                         "bottom": "59.322",
                         "right": "24.951"
+                    }
+                },
+                "timisoara_romania": {
+                    "bbox": {
+                        "top": "45.842",
+                        "left": "21.085",
+                        "bottom": "45.673",
+                        "right": "21.385"
                     }
                 },
                 "vienna-bratislava_austria": {
