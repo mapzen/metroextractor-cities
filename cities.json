@@ -1927,12 +1927,12 @@
                         "right": "-86.152"
                     }
                 },
-                "monterrey_mexico": {
+                "mcallen_texas" : {
                     "bbox": {
-                        "top": "25.797",
-                        "left": "-100.422",
-                        "right": "-100.184",
-                        "bottom": "25.500"
+                        "top": "26.819",
+                        "left": "-98.494",
+                        "bottom": "25.864",
+                        "right": "-97.218"
                     }
                 },
                 "memphis_tennessee": {
@@ -1981,6 +1981,14 @@
                         "left": "-88.363",
                         "bottom": "30.496",
                         "right": "-87.832"
+                    }
+                },
+                "monterrey_mexico": {
+                    "bbox": {
+                        "top": "25.797",
+                        "left": "-100.422",
+                        "right": "-100.184",
+                        "bottom": "25.500"
                     }
                 },
                 "montreal_canada": {
@@ -2229,14 +2237,6 @@
                         "left": "-87.508",
                         "bottom": "39.367",
                         "right": "-87.280"
-                    }
-                },
-                "texas_south" : {
-                    "bbox": {
-                        "top": "26.8191",
-                        "left": "-98.494",
-                        "bottom": "25.8643",
-                        "right": "-97.218"
                     }
                 },
                 "toronto_canada": {
