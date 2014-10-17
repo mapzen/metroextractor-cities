@@ -2231,6 +2231,14 @@
                         "right": "-87.280"
                     }
                 },
+                "texas_south" : {
+                    "bbox": {
+                        "top": "26.8191",
+                        "left": "-98.494",
+                        "bottom": "25.8643",
+                        "right": "-97.218"
+                    }
+                },
                 "toronto_canada": {
                     "bbox": {
                         "top": "44.182",
