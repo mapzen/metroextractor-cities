@@ -10651,6 +10651,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "walt-disney-world_florida"
+      },
+      "bbox": [
+        -81.64,
+        28.243,
+        -81.507,
+        28.442
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.64,
+              28.442
+            ],
+            [
+              -81.507,
+              28.442
+            ],
+            [
+              -81.507,
+              28.243
+            ],
+            [
+              -81.64,
+              28.243
+            ],
+            [
+              -81.64,
+              28.442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "adelaide_australia"
       },
       "bbox": [
