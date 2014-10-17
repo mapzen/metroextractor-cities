@@ -2262,6 +2262,14 @@
                         "bottom": "48.054",
                         "right": "-122.568"
                     }
+                },
+                "walt-disney-world_florida":{
+                    "bbox":{
+                        "top":"28.442",
+                        "left":"-81.640",
+                        "bottom":"28.243",
+                        "right":"-81.507"
+                    }
                 }
             }
         },
