@@ -975,12 +975,28 @@
                         "right": "26.756"
                     }
                 },
+                "brasov_romania": {
+                    "bbox": {
+                        "top": "45.746",
+                        "left": "25.380",
+                        "bottom": "45.300",
+                        "right": "25.800"
+                    }
+                },
                 "sibiu_romania": {
                     "bbox": {
                         "top": "45.840",
                         "left": "24.000",
                         "bottom": "45.690",
                         "right": "24.280"
+                    }
+                },
+                "timisoara_romania": {
+                    "bbox": {
+                        "top": "45.842",
+                        "left": "21.085",
+                        "bottom": "45.673",
+                        "right": "21.385"
                     }
                 },
                 "budapest_hungary": {
