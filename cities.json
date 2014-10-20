@@ -1347,6 +1347,14 @@
                         "right": "-8.458"
                     }
                 },
+                "porto_portugal": {
+                    "bbox": {
+                        "top": "41.399",
+                        "left": "-8.795",
+                        "bottom": "40.981",
+                        "right": "-8.358"
+                    }
+                },
                 "lucca_italy": {
                     "bbox": {
                         "top": "43.961",
@@ -1401,14 +1409,6 @@
                         "left": "10.805",
                         "bottom": "43.871",
                         "right": "11.017"
-                    }
-                },
-                "porto_italy": {
-                    "bbox": {
-                        "top": "41.399",
-                        "left": "-8.795",
-                        "bottom": "40.981",
-                        "right": "-8.358"
                     }
                 },
                 "rome_italy": {
