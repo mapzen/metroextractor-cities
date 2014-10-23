@@ -6868,6 +6868,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "vigo_spain"
+      },
+      "bbox": [
+        -8.827,
+        42.169,
+        -8.609,
+        42.307
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.827,
+              42.307
+            ],
+            [
+              -8.609,
+              42.307
+            ],
+            [
+              -8.609,
+              42.169
+            ],
+            [
+              -8.827,
+              42.169
+            ],
+            [
+              -8.827,
+              42.307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "as-suwayda_syria"
       },
       "bbox": [
