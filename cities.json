@@ -629,6 +629,14 @@
                         "right": "5.347"
                     }
                 },
+                "antwerp_belgium": {
+                    "bbox": {
+                        "top": "51.377",
+                        "left": "4.241",
+                        "bottom": "51.143",
+                        "right": "4.498"
+                    }
+                },
                 "avignon_france": {
                     "bbox": {
                         "top": "43.996",
