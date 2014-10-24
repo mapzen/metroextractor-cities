@@ -4411,6 +4411,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "southampton_england"
+      },
+      "bbox": [
+        -1.479,
+        50.877,
+        -1.322,
+        50.956
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.479,
+              50.956
+            ],
+            [
+              -1.322,
+              50.956
+            ],
+            [
+              -1.322,
+              50.877
+            ],
+            [
+              -1.479,
+              50.877
+            ],
+            [
+              -1.479,
+              50.956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "strasbourg_france"
       },
       "bbox": [
