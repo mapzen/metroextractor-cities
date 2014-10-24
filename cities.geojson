@@ -2929,6 +2929,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "antwerp_belgium"
+      },
+      "bbox": [
+        4.241,
+        51.143,
+        4.498,
+        51.377
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.241,
+              51.377
+            ],
+            [
+              4.498,
+              51.377
+            ],
+            [
+              4.498,
+              51.143
+            ],
+            [
+              4.241,
+              51.143
+            ],
+            [
+              4.241,
+              51.377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "avignon_france"
       },
       "bbox": [
