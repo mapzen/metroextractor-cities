@@ -999,6 +999,14 @@
                         "right": "25.800"
                     }
                 },
+                "iasi_romania": {
+                    "bbox": {
+                        "top": "47.227",
+                        "left": "27.477",
+                        "bottom": "47.085",
+                        "right": "27.697"
+                    }
+                },
                 "sibiu_romania": {
                     "bbox": {
                         "top": "45.840",
