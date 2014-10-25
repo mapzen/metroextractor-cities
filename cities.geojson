@@ -4684,6 +4684,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "iasi_romania"
+      },
+      "bbox": [
+        27.477,
+        47.085,
+        27.697,
+        47.227
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.477,
+              47.227
+            ],
+            [
+              27.697,
+              47.227
+            ],
+            [
+              27.697,
+              47.085
+            ],
+            [
+              27.477,
+              47.085
+            ],
+            [
+              27.477,
+              47.227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "sibiu_romania"
       },
       "bbox": [
