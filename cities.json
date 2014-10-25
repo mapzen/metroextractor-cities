@@ -1647,12 +1647,20 @@
                 "right": "-65.000"
             },
             "cities": {
+                "albany_new-york": {
+                    "bbox": {
+                        "top": "42.722",
+                        "left": "-73.898",
+                        "bottom": "42.614",
+                        "right": "-73.725"
+                    }
+                },
                 "albuquerque_new-mexico": {
                     "bbox": {
                         "top": "35.218",
-                        "right": "-106.471",
                         "left": "-106.882",
-                        "bottom": "34.947"
+                        "bottom": "34.947",
+                        "right": "-106.471"
                     }
                 },
                 "atlanta_georgia": {
