@@ -7648,6 +7648,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "albany_new-york"
+      },
+      "bbox": [
+        -73.898,
+        42.614,
+        -73.725,
+        42.722
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.898,
+              42.722
+            ],
+            [
+              -73.725,
+              42.722
+            ],
+            [
+              -73.725,
+              42.614
+            ],
+            [
+              -73.898,
+              42.614
+            ],
+            [
+              -73.898,
+              42.722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "albuquerque_new-mexico"
       },
       "bbox": [
