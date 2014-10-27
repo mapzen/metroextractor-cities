@@ -2403,10 +2403,10 @@
                 },
                 "perth_australia": {
                     "bbox": {
-                        "top": "-31.847",
-                        "left": "115.716",
-                        "bottom": "-32.112",
-                        "right": "116.038"
+                        "top": "-31.705",
+                        "left": "115.439",
+                        "bottom": "-32.499",
+                        "right": "116.208"
                     }
                 },
                 "sydney_australia": {
