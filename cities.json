@@ -1753,10 +1753,10 @@
         },
         "north_america": {
             "bbox": {
-                "top": "54.213",
+                "top": "64.000",
                 "left": "-168.400",
                 "bottom": "5.900",
-                "right": "-65.000"
+                "right": "-52.000"
             },
             "cities": {
                 "albany_new-york": {
@@ -1836,7 +1836,7 @@
                         "top": "46.300",
                         "left": "-63.203",
                         "bottom": "46.220",
-                        "right": "-63.065 "
+                        "right": "-63.065"
                     }
                 },
                 "chattanooga_tennessee": {
@@ -2004,7 +2004,7 @@
                         "top": "44.809",
                         "left": "-63.744",
                         "bottom": "44.574",
-                        "right": "-63.410 "
+                        "right": "-63.410"
                     }
                 },
                 "hamilton_canada": {
@@ -2655,8 +2655,8 @@
             "bbox": {
                 "top": "13.000",
                 "left": "-86.000",
-                "bottom": "-57.000",
-                "right": "-33.000"
+                "bottom": "-58.000",
+                "right": "-25.000"
             },
             "cities": {
                 "asuncion_paraguay": {
