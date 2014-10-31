@@ -5230,6 +5230,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "chisinau_moldova"
+      },
+      "bbox": [
+        28.745,
+        46.92,
+        28.972,
+        47.079
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.745,
+              47.079
+            ],
+            [
+              28.972,
+              47.079
+            ],
+            [
+              28.972,
+              46.92
+            ],
+            [
+              28.745,
+              46.92
+            ],
+            [
+              28.745,
+              47.079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "iasi_romania"
       },
       "bbox": [
