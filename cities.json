@@ -1111,6 +1111,14 @@
                         "right": "25.800"
                     }
                 },
+                "chisinau_moldova": {
+                    "bbox": {
+                        "top": "47.079",
+                        "left": "28.745",
+                        "bottom": "46.920",
+                        "right": "28.972"
+                    }
+                },
                 "iasi_romania": {
                     "bbox": {
                         "top": "47.227",
