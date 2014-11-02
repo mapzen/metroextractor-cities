@@ -1069,6 +1069,14 @@
                         "right": "1.779"
                     }
                 },
+                "winterthur_switzerland": {
+                    "bbox": {
+                        "top": "47.535",
+                        "left": "8.672",
+                        "bottom": "47.475",
+                        "right": "8.797"
+                    }
+                }
                 "zurich_switzerland": {
                     "bbox": {
                         "top": "47.393",
