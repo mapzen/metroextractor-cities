@@ -31,7 +31,7 @@ bundle exec rake
 
 Passing tests will look similar to the following:
 
-```
+```bash
 Preparing sandbox
 rm -rf /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
 mkdir -p /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
