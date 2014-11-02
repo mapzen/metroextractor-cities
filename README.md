@@ -24,8 +24,10 @@ Running Tests
 -------------
 You will need to have a Ruby 2.x environment, then simply:
 
-`bundle install`
-`bundle exec rake`
+```
+bundle install
+bundle exec rake
+```
 
 License and Authors
 -------------------
