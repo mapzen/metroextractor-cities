@@ -29,6 +29,29 @@ bundle install
 bundle exec rake
 ```
 
+Passing tests will look similar to the following:
+
+```
+Preparing sandbox
+rm -rf /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
+mkdir -p /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
+cp -r Rakefile README.md spec/bbox_spec.rb spec/geojson_spec.rb spec/json_spec.rb spec/ruby_spec.rb spec/whitespace_spec.rb tasks/build_geojson.rb tasks/default.rb tasks/test.rb /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
+Running rubocop
+rubocop /Users/grant/repos/mapzen/metroextractor-cities/spec/tmp
+Inspecting 9 files
+.........
+
+9 files inspected, no offenses detected
+Validating cities.json bbox's
+OK
+Validating cities.json syntax
+OK
+Checking cities.json for invalid whitespace
+OK
+Validating cities.geojson syntax
+OK
+```
+
 License and Authors
 -------------------
 * license: GPL
