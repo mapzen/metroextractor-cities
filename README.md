@@ -18,7 +18,9 @@ You need to perform the following tasks for us to accept a pull request:
   * that the bounding boxes for cities all fall within their encompassing upper level bounding box (e.g. north_america)
 * the top/left/bottom/right bbox parameters should be carried out to the thousandths (three digits to the right of the decimal)
 
-If you're unable to run the test suite locally, you can submit a pull requests, but if the specs fail there will be a delay in getting your request resolved.
+If you're unable to run the test suite locally, you can submit a pull request, but if the specs fail there will be a delay in getting your request resolved.
+
+If in doubt, just submit an issue with your request rather than a pull request.
 
 Running Tests
 -------------
