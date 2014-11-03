@@ -5074,6 +5074,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "winterthur_switzerland"
+      },
+      "bbox": [
+        8.672,
+        47.475,
+        8.797,
+        47.535
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.672,
+              47.535
+            ],
+            [
+              8.797,
+              47.535
+            ],
+            [
+              8.797,
+              47.475
+            ],
+            [
+              8.672,
+              47.475
+            ],
+            [
+              8.672,
+              47.535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "zurich_switzerland"
       },
       "bbox": [
