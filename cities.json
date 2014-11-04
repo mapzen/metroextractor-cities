@@ -58,7 +58,7 @@
                 },
                 "antananarivo_madagascar": {
                     "bbox": {
-                        "top": "18.772",
+                        "top": "-18.772",
                         "left": "47.370",
                         "bottom": "-19.025",
                         "right": "47.679"
@@ -2693,10 +2693,10 @@
             "cities": {
                 "asuncion_paraguay": {
                     "bbox": {
-                        "top": "-25.074",
-                        "left": "-57.774",
-                        "right": "-25.485",
-                        "bottom": "-57.266"
+                        "top": "-25.052",
+                        "left": "-57.777",
+                        "right": "-57.268",
+                        "bottom": "-25.535"
                     }
                 },
                 "belo-horizonte_brazil": {
