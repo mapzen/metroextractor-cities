@@ -3865,6 +3865,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "duisburg_germany"
+      },
+      "bbox": [
+        6.626,
+        51.333,
+        6.83,
+        51.56
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.626,
+              51.56
+            ],
+            [
+              6.83,
+              51.56
+            ],
+            [
+              6.83,
+              51.333
+            ],
+            [
+              6.626,
+              51.333
+            ],
+            [
+              6.626,
+              51.56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "edinburgh_scotland"
       },
       "bbox": [
