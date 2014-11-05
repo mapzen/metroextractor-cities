@@ -821,6 +821,14 @@
                         "right": "7.009"
                     }
                 },
+                "duisburg_germany": {
+                    "bbox": {
+                        "top": "51.560",
+                        "left": "6.626",
+                        "bottom": "51.333",
+                        "right": "6.830"
+                    }
+                },
                 "edinburgh_scotland": {
                     "bbox": {
                         "top": "56.132",
