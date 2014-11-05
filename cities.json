@@ -1143,12 +1143,28 @@
                         "right": "28.972"
                     }
                 },
+                "cluj_romania": {
+                    "bbox": {
+                        "top": "46.830",
+                        "left": "23.454",
+                        "bottom": "46.680",
+                        "right": "23.755"
+                    }
+                },
+                "constanta_romania": {
+                    "bbox": {
+                        "top": "44.385",
+                        "left": "28.150",
+                        "bottom": "43.757",
+                        "right": "28.750"
+                    }
+                },
                 "iasi_romania": {
                     "bbox": {
-                        "top": "47.227",
-                        "left": "27.477",
-                        "bottom": "47.085",
-                        "right": "27.697"
+                        "top": "47.235",
+                        "left": "27.375",
+                        "bottom": "47.023",
+                        "right": "27.750"
                     }
                 },
                 "sibiu_romania": {
