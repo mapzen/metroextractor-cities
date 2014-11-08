@@ -3982,6 +3982,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "marburg_germany"
+      },
+      "bbox": [
+        8.599,
+        50.732,
+        8.863,
+        50.884
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.599,
+              50.884
+            ],
+            [
+              8.863,
+              50.884
+            ],
+            [
+              8.863,
+              50.732
+            ],
+            [
+              8.599,
+              50.732
+            ],
+            [
+              8.599,
+              50.884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "geneva_switzerland"
       },
       "bbox": [
