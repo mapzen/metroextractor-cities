@@ -845,6 +845,14 @@
                         "right": "9.442"
                     }
                 },
+                "marburg_germany": {
+                    "bbox": {
+                        "top": "50.884",
+                        "left": "8.599",
+                        "bottom": "50.732",
+                        "right": "8.863"
+                    }
+                },
                 "geneva_switzerland": {
                     "bbox": {
                         "top": "46.294",
