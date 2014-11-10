@@ -2225,10 +2225,10 @@
                 },
                 "managua_nicaragua": {
                     "bbox": {
-                        "top": "12.182",
-                        "left": "-86.374",
-                        "bottom": "12.053",
-                        "right": "-86.152"
+                        "top": "12.250",
+                        "left": "-86.451",
+                        "bottom": "11.826",
+                        "right": "-85.935"
                     }
                 },
                 "mcallen_texas" : {
