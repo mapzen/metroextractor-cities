@@ -5113,6 +5113,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "saint-etienne_france"
+      },
+      "bbox": [
+        4.329,
+        45.407,
+        4.463,
+        45.462
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.329,
+              45.462
+            ],
+            [
+              4.463,
+              45.462
+            ],
+            [
+              4.463,
+              45.407
+            ],
+            [
+              4.329,
+              45.407
+            ],
+            [
+              4.329,
+              45.462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "strasbourg_france"
       },
       "bbox": [
