@@ -1077,6 +1077,14 @@
                         "right": "-1.322"
                     }
                 },
+                "saint-etienne_france": {
+                    "bbox": {
+                        "top": "45.462",
+                        "left": "4.329",
+                        "bottom": "45.407",
+                        "right": "4.463"
+                    }
+                },
                 "strasbourg_france": {
                     "bbox": {
                         "top": "48.722",
