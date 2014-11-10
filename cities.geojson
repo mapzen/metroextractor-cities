@@ -1213,6 +1213,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "agra_india"
+      },
+      "bbox": [
+        77.886,
+        27.106,
+        78.151,
+        27.259
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.886,
+              27.259
+            ],
+            [
+              78.151,
+              27.259
+            ],
+            [
+              78.151,
+              27.106
+            ],
+            [
+              77.886,
+              27.106
+            ],
+            [
+              77.886,
+              27.259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "almaty_kazakhstan"
       },
       "bbox": [
