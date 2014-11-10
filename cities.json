@@ -266,6 +266,14 @@
                 "right": "141.152"
             },
             "cities": {
+                "agra_india": {
+                    "bbox": {
+                        "top": "27.259",
+                        "left": "77.886",
+                        "bottom": "27.106",
+                        "right": "78.151"
+                    }
+                },
                 "almaty_kazakhstan": {
                     "bbox": {
                         "top": "43.549",
