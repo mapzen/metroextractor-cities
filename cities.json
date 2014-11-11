@@ -80,6 +80,14 @@
                         "right": "5.220"
                     }
                 },
+                "bujumbura_burundi": {
+                    "bbox": {
+                        "top": "-3.297",
+                        "left": "29.301",
+                        "bottom": "-3.453",
+                        "right": "29.409"
+                    }
+                },
                 "cape-town_south-africa": {
                     "bbox": {
                         "top": "-33.471",
