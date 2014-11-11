@@ -355,6 +355,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bujumbura_burundi"
+      },
+      "bbox": [
+        29.301,
+        -3.453,
+        29.409,
+        -3.297
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.301,
+              -3.297
+            ],
+            [
+              29.409,
+              -3.297
+            ],
+            [
+              29.409,
+              -3.453
+            ],
+            [
+              29.301,
+              -3.453
+            ],
+            [
+              29.301,
+              -3.297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "cape-town_south-africa"
       },
       "bbox": [
