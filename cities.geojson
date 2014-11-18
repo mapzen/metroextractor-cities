@@ -13225,6 +13225,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "cumana_venezuela"
+      },
+      "bbox": [
+        -64.2211,
+        10.4072,
+        -64.0863,
+        10.4825
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.2211,
+              10.4825
+            ],
+            [
+              -64.0863,
+              10.4825
+            ],
+            [
+              -64.0863,
+              10.4072
+            ],
+            [
+              -64.2211,
+              10.4072
+            ],
+            [
+              -64.2211,
+              10.4825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "curitiba_brazil"
       },
       "bbox": [
