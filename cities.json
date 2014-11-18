@@ -2827,6 +2827,14 @@
                         "right": "-65.674"
                     }
                 },
+                "cumana_venezuela": {
+                    "bbox": {
+                        "top": "10.4825",
+                        "left": "-64.2211",
+                        "bottom": "10.4072",
+                        "right": "-64.0863"
+                    }
+                },
                 "curitiba_brazil": {
                     "bbox": {
                         "top": "-25.071",
