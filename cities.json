@@ -2599,6 +2599,14 @@
                         "right": "-110.555"
                     }
                 },
+                "tuscaloosa_alabama": {
+                    "bbox": {
+                        "top": "33.7849",
+                        "left": "-88.0266",
+                        "bottom": "32.8288",
+                        "right": "-86.8799"
+                    }
+                },
                 "vancouver_canada": {
                     "bbox": {
                         "top": "49.475",
