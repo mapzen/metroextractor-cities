@@ -12211,6 +12211,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "tuscaloosa_alabama"
+      },
+      "bbox": [
+        -88.0266,
+        32.8288,
+        -86.8799,
+        33.7849
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.0266,
+              33.7849
+            ],
+            [
+              -86.8799,
+              33.7849
+            ],
+            [
+              -86.8799,
+              32.8288
+            ],
+            [
+              -88.0266,
+              32.8288
+            ],
+            [
+              -88.0266,
+              33.7849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "vancouver_canada"
       },
       "bbox": [
