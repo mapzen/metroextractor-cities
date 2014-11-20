@@ -12406,6 +12406,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "windsor_canada"
+      },
+      "bbox": [
+        -83.114,
+        42.233,
+        -82.89,
+        42.348
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.114,
+              42.348
+            ],
+            [
+              -82.89,
+              42.348
+            ],
+            [
+              -82.89,
+              42.233
+            ],
+            [
+              -83.114,
+              42.233
+            ],
+            [
+              -83.114,
+              42.348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "winnipeg_canada"
       },
       "bbox": [
