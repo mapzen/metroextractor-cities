@@ -1871,6 +1871,14 @@
                         "right": "-83.269"
                     }
                 },
+                "auburn_alabama": {
+                    "bbox": {
+                        "top": "32.644",
+                        "left": "-85.543",
+                        "bottom": "32.568",
+                        "right": "-85.408"
+                    }
+                },
                 "austin_texas": {
                     "bbox": {
                         "top": "30.670",
@@ -2421,6 +2429,14 @@
                         "left": "-71.447",
                         "bottom": "46.723",
                         "right": "-71.103"
+                    }
+                },
+                "raleigh_north_carolina": {
+                    "bbox": {
+                        "top": "36.051",
+                        "left": "-79.116",
+                        "bottom": "35.759",
+                        "right": "-78.577"
                     }
                 },
                 "regina_canada": {
