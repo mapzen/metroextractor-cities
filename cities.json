@@ -2639,6 +2639,14 @@
                         "right":"-134.918"
                     }
                 },
+                "windsor_canada":{
+                    "bbox":{
+                        "top":"42.348",
+                        "left":"-83.114",
+                        "bottom":"42.233",
+                        "right":"-82.890"
+                    }
+                },
                 "winnipeg_canada":{
                     "bbox":{
                         "top":"50.034",
