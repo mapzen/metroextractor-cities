@@ -4216,6 +4216,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "grenoble_france"
+      },
+      "bbox": [
+        5.573,
+        45.113,
+        5.903,
+        45.244
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.573,
+              45.244
+            ],
+            [
+              5.903,
+              45.244
+            ],
+            [
+              5.903,
+              45.113
+            ],
+            [
+              5.573,
+              45.113
+            ],
+            [
+              5.573,
+              45.244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "hamburg_germany"
       },
       "bbox": [
