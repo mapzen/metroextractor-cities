@@ -893,6 +893,14 @@
                         "right": "5.091"
                     }
                 },
+                "grenoble_france": {
+                    "bbox": {
+                        "top": "45.244",
+                        "left": "5.573",
+                        "bottom": "45.113",
+                        "right": "5.903"
+                    }
+                },
                 "hamburg_germany": {
                     "bbox": {
                         "top": "53.833",
