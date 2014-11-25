@@ -370,6 +370,14 @@
                         "right": "80.400"
                     }
                 },
+                "chiang-mai_thailand": {
+                    "bbox": {
+                        "top": "19.060",
+                        "left": "98.600",
+                        "bottom": "18.364",
+                        "right": "99.358"
+                    }
+                },
                 "chongqing_china": {
                     "bbox": {
                         "top": "32.217",
@@ -416,6 +424,14 @@
                         "left": "130.0561",
                         "bottom": "33.4754",
                         "right": "130.6438"
+                    }
+                },
+                "hanoi_vietnam": {
+                    "bbox": {
+                        "top": "21.098",
+                        "left": "105.742",
+                        "bottom": "20.945",
+                        "right": "105.911"
                     }
                 },
                 "hangzhou_china": {
@@ -466,6 +482,14 @@
                         "right": "73.822"
                     }
                 },
+                "jeju_south-korea": {
+                    "bbox": {
+                        "top": "33.578",
+                        "left": "126.127",
+                        "bottom": "33.107",
+                        "right": "126.987"
+                    }
+                },
                 "kathmandu_nepal": {
                     "bbox": {
                         "top": "27.938",
@@ -482,6 +506,14 @@
                         "right": "68.576"
                     }
                 },
+                "koh-samui_thailand": {
+                    "bbox": {
+                        "top": "9.604",
+                        "left": "99.904",
+                        "bottom": "9.403",
+                        "right": "100.103"
+                    }
+                },
                 "kolkata_india": {
                     "bbox": {
                         "top": "23.106",
@@ -496,6 +528,14 @@
                         "left": "101.425",
                         "bottom": "2.776",
                         "right": "101.994"
+                    }
+                },
+                "kyoto_japan": {
+                    "bbox": {
+                        "top": "35.203",
+                        "left": "135.599",
+                        "bottom": "34.887",
+                        "right": "135.879"
                     }
                 },
                 "lahore_pakistan": {
@@ -562,6 +602,14 @@
                         "right": "132.054"
                     }
                 },
+                "osaka_japan": {
+                    "bbox": {
+                        "top": "34.800",
+                        "left": "135.370",
+                        "bottom": "34.514",
+                        "right": "135.669"
+                    }
+                },
                 "osaka-kyoto_japan": {
                     "bbox": {
                         "top": "35.194",
@@ -576,6 +624,14 @@
                         "left": "55.795",
                         "bottom": "57.865",
                         "right": "56.675"
+                    }
+                },
+                "phuket_thailand": {
+                    "bbox": {
+                        "top": "8.207",
+                        "left": "98.254",
+                        "bottom": "7.727",
+                        "right": "98.489"
                     }
                 },
                 "pune_india": {
