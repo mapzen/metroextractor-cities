@@ -3027,6 +3027,14 @@
                         "bottom": "-13.280"
                     }
                 },
+                "san-jose_costa-rica": {
+                    "bbox": {
+                        "top": "10.007",
+                        "left": "-84.254",
+                        "right": "-83.908",
+                        "bottom": "9.788"
+                    }
+                },
                 "sao-paulo_brazil": {
                     "bbox": {
                         "top": "-23.125",
