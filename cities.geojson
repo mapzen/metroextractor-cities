@@ -14200,6 +14200,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "san-jose_costa-rica"
+      },
+      "bbox": [
+        -84.254,
+        9.788,
+        -83.908,
+        10.007
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.254,
+              10.007
+            ],
+            [
+              -83.908,
+              10.007
+            ],
+            [
+              -83.908,
+              9.788
+            ],
+            [
+              -84.254,
+              9.788
+            ],
+            [
+              -84.254,
+              10.007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "sao-paulo_brazil"
       },
       "bbox": [
