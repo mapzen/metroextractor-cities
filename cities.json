@@ -1497,6 +1497,14 @@
                         "right": "11.493"
                     }
                 },
+                "trondheim_norway": {
+                    "bbox": {
+                        "top": "63.5",
+                        "left": "10.25",
+                        "bottom": "63.3",
+                        "right": "10.65"
+                    }
+                },
                 "reykjavik_iceland": {
                     "bbox": {
                         "top": "64.297",
