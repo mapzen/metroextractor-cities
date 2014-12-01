@@ -6985,6 +6985,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "trondheim_norway"
+      },
+      "bbox": [
+        10.25,
+        63.3,
+        10.65,
+        63.5
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.25,
+              63.5
+            ],
+            [
+              10.65,
+              63.5
+            ],
+            [
+              10.65,
+              63.3
+            ],
+            [
+              10.25,
+              63.3
+            ],
+            [
+              10.25,
+              63.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "reykjavik_iceland"
       },
       "bbox": [
