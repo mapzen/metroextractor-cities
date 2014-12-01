@@ -1499,10 +1499,10 @@
                 },
                 "trondheim_norway": {
                     "bbox": {
-                        "top": "63.5",
-                        "left": "10.25",
-                        "bottom": "63.3",
-                        "right": "10.65"
+                        "top": "63.500",
+                        "left": "10.250",
+                        "bottom": "63.300",
+                        "right": "10.650"
                     }
                 },
                 "reykjavik_iceland": {
