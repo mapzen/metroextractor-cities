@@ -2763,10 +2763,10 @@
             "cities": {
                 "adelaide_australia": {
                     "bbox": {
-                        "top": "-34.840",
-                        "left": "138.464",
-                        "bottom": "-35.021",
-                        "right": "138.707"
+                        "top": "-34.570",
+                        "left": "138.417",
+                        "bottom": "-35.261",
+                        "right": "138.854"
                     }
                 },
                 "auckland_new-zealand": {
