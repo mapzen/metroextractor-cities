@@ -6,7 +6,7 @@ require 'rainbow/ext/string'
 namespace :test do
   desc 'Validate bounding box size'
   task :bbox_size do
-    puts 'Validating cities.json bbox\'s'.color(:blue)
+    puts 'Validating cities.json bbox sizes'.color(:blue)
     json = JSON.parse(CitiesJSON)
     json['regions'].each do |region, a|
       region_top    = a['bbox']['top'].to_f
