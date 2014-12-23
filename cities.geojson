@@ -1876,6 +1876,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "astana_kazakhstan"
+      },
+      "bbox": [
+        71.212,
+        51.003,
+        71.74,
+        51.29
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.212,
+              51.29
+            ],
+            [
+              71.74,
+              51.29
+            ],
+            [
+              71.74,
+              51.003
+            ],
+            [
+              71.212,
+              51.003
+            ],
+            [
+              71.212,
+              51.29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "bangkok_thailand"
       },
       "bbox": [
