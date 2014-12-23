@@ -402,6 +402,14 @@
                         "right": "33.509"
                     }
                 },
+                "astana_kazakhstan": {
+                    "bbox": {
+                        "top": "51.290",
+                        "left": "71.212",
+                        "bottom": "51.003",
+                        "right": "71.740"
+                    }
+                },
                 "bangkok_thailand": {
                     "bbox": {
                         "top": "15.019",
