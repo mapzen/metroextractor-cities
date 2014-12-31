@@ -1262,6 +1262,14 @@
                         "right": "2.911"
                     }
                 },
+                "poitiers_france": {
+                    "bbox": {
+                        "top" : "46.691",
+                        "left": "0.210",
+                        "bottom": "46.522",
+                        "right": "0.504" 
+                    }                 
+                },
                 "rotterdam_netherlands": {
                     "bbox": {
                         "top": "52.109",
