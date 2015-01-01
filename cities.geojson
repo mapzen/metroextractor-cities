@@ -6010,6 +6010,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "poitiers_france"
+      },
+      "bbox": [
+        0.21,
+        46.522,
+        0.504,
+        46.691
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.21,
+              46.691
+            ],
+            [
+              0.504,
+              46.691
+            ],
+            [
+              0.504,
+              46.522
+            ],
+            [
+              0.21,
+              46.522
+            ],
+            [
+              0.21,
+              46.691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "rotterdam_netherlands"
       },
       "bbox": [
