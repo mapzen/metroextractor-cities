@@ -14434,6 +14434,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "gold_coast_australia"
+      },
+      "bbox": [
+        153.13,
+        -28.2,
+        153.583,
+        -27.722
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              153.13,
+              -27.722
+            ],
+            [
+              153.583,
+              -27.722
+            ],
+            [
+              153.583,
+              -28.2
+            ],
+            [
+              153.13,
+              -28.2
+            ],
+            [
+              153.13,
+              -27.722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "jakarta_indonesia"
       },
       "bbox": [
