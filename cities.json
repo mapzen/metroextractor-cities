@@ -3066,6 +3066,14 @@
                         "right": "131.019"
                     }
                 },
+                "gold_coast_australia": {
+                    "bbox": {
+                        "top": "-27.722",
+                        "left": "153.130",
+                        "bottom": "-28.200",
+                        "right": "153.583"
+                    }
+                },
                 "jakarta_indonesia": {
                     "bbox": {
                         "top": "-5.881",
