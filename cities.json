@@ -3044,10 +3044,10 @@
                 },
                 "brisbane_australia": {
                     "bbox": {
-                        "top": "-27.285",
-                        "left": "152.864",
-                        "bottom": "-27.673",
-                        "right": "153.205"
+                        "top": "-27.000",
+                        "left": "152.700",
+                        "bottom": "-27.722",
+                        "right": "153.349"
                     }
                 },
                 "canberra_australia": {
