@@ -1269,6 +1269,14 @@
                         "bottom": "46.522",
                         "right": "0.504"
                     }
+                },             
+                "odense_denmark": {
+                    "bbox": {
+                        "top" : "55.691",
+                        "left": "9.753",
+                        "bottom": "54.931",
+                        "right": "10.875"
+                    }
                 },
                 "rotterdam_netherlands": {
                     "bbox": {
@@ -1684,10 +1692,10 @@
                 },
                 "trondheim_norway": {
                     "bbox": {
-                        "top": "63.500",
-                        "left": "10.250",
-                        "bottom": "63.300",
-                        "right": "10.650"
+                        "top": "63.631",
+                        "left": "9.869",
+                        "bottom": "62.995",
+                        "right": "11.767"
                     }
                 },
                 "reykjavik_iceland": {
@@ -1700,18 +1708,18 @@
                 },
                 "stockholm_sweden": {
                     "bbox": {
-                        "top": "59.908",
-                        "left": "17.061",
-                        "bottom": "58.850",
-                        "right": "19.055"
+                        "top": "60.249",
+                        "left": "16.858",
+                        "bottom": "58.718",
+                        "right": "19.526"
                     }
                 },
                 "tampere_finland": {
                     "bbox": {
-                        "top": "61.674",
-                        "left": "23.214",
-                        "bottom": "61.325",
-                        "right": "24.310"
+                        "top": "62.188",
+                        "left": "22.417",
+                        "bottom": "61.047",
+                        "right": "24.988"
                     }
                 }
             }
