@@ -586,6 +586,14 @@
                         "right": "115.125"
                     }
                 },
+                "hualien_taiwan": {
+                    "bbox": {
+                        "top": "24.190",
+                        "left": "121.425",
+                        "bottom": "23.805",
+                        "right": "121.737"
+                    }
+                },
                 "hyderabad_india": {
                     "bbox": {
                         "top": "17.6296",
@@ -610,6 +618,14 @@
                         "right": "126.987"
                     }
                 },
+                "kaohsiung_taiwan": {
+                    "bbox": {
+                        "top": "22.823",
+                        "left": "120.026",
+                        "bottom": "22.470",
+                        "right": "120.646"
+                    }
+                },
                 "kathmandu_nepal": {
                     "bbox": {
                         "top": "27.938",
@@ -624,6 +640,14 @@
                         "left": "66.401",
                         "bottom": "23.958",
                         "right": "68.576"
+                    }
+                },
+                "kenting_taiwan": {
+                    "bbox": {
+                        "top": "21.968",
+                        "left": "120.761",
+                        "bottom": "21.923",
+                        "right": "120.838"
                     }
                 },
                 "koh-samui_thailand": {
@@ -730,6 +754,14 @@
                         "right": "132.054"
                     }
                 },
+                "okinawa_japan": {
+                    "bbox": {
+                        "top": "27.115",
+                        "left": "126.590",
+                        "bottom": "26.012",
+                        "right": "128.576"
+                    }
+                },
                 "osaka_japan": {
                     "bbox": {
                         "top": "34.800",
@@ -744,6 +776,14 @@
                         "left": "135.057",
                         "bottom": "34.355",
                         "right": "136.015"
+                    }
+                },
+                "pattaya_thailand": {
+                    "bbox": {
+                        "top": "13.027",
+                        "left": "100.831",
+                        "bottom": "12.782",
+                        "right": "100.991"
                     }
                 },
                 "perm_russia": {
@@ -858,12 +898,36 @@
                         "right": "40.178"
                     }
                 },
+                "taichung_taiwan": {
+                    "bbox": {
+                        "top": "24.345",
+                        "left": "120.346",
+                        "bottom": "23.996",
+                        "right": "120.854"
+                    }
+                },
+                "tainan_taiwan": {
+                    "bbox": {
+                        "top": "23.201",
+                        "left": "119.998",
+                        "bottom": "22.829",
+                        "right": "120.421"
+                    }
+                },
                 "taipei_taiwan": {
                     "bbox": {
                         "top": "25.386",
                         "left": "120.995",
                         "bottom": "24.779",
                         "right": "122.025"
+                    }
+                },
+                "taoyuan_taiwan": {
+                    "bbox": {
+                        "top": "25.054",
+                        "left": "121.245",
+                        "bottom": "24.946",
+                        "right": "121.379"
                     }
                 },
                 "tokyo_japan": {
