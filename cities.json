@@ -1908,6 +1908,30 @@
                         "right": "-8.358"
                     }
                 },
+                "coimbra_portugal": {
+                    "bbox": {
+                        "top": "40.263",
+                        "left": "-8.488",
+                        "bottom": "40.155",
+                        "right": "-8.363"
+                    }
+                },
+                "faro_portugal": {
+                    "bbox": {
+                        "top": "37.054",
+                        "left": "-8.010",
+                        "bottom": "36.988",
+                        "right": "-7.900"
+                    }
+                },
+                "evora_portugal": {
+                    "bbox": {
+                        "top": "38.606",
+                        "left": "-7.957",
+                        "bottom": "38.518",
+                        "right": "-7.873"
+                    }
+                },
                 "lucca_italy": {
                     "bbox": {
                         "top": "43.961",
