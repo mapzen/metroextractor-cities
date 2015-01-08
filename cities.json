@@ -578,14 +578,6 @@
                         "right": "106.949" 
                     }
                 },
-                "hokkaido_japan": {
-                    "bbox": {
-                        "top": "45.660",
-                        "left": "138.933",
-                        "bottom": "41.327",
-                        "right": "146.711"
-                    }
-                },
                 "hong-kong_china": {
                     "bbox": {
                         "top": "23.488",
