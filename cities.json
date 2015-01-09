@@ -3111,6 +3111,14 @@
                         "bottom":"62.402",
                         "right":"-114.241"
                     }
+                },
+                "guatemala-city_guatemala": {
+                    "bbox": {
+                        "top": "14.733",
+                        "left": "-90.715",
+                        "bottom": "14.4",
+                        "right": "-90.35"
+                    }
                 }
             }
         },
