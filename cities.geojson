@@ -14707,6 +14707,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "guatemala-city_guatemala"
+      },
+      "bbox": [
+        -90.715,
+        14.4,
+        -90.35,
+        14.733
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.715,
+              14.733
+            ],
+            [
+              -90.35,
+              14.733
+            ],
+            [
+              -90.35,
+              14.4
+            ],
+            [
+              -90.715,
+              14.4
+            ],
+            [
+              -90.715,
+              14.733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "adelaide_australia"
       },
       "bbox": [
