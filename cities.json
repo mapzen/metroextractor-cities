@@ -2823,6 +2823,14 @@
                         "bottom": "35.759",
                         "right": "-78.577"
                     }
+                },                
+				"redlands_california": {
+                    "bbox": {
+                        "top": "34.138",
+                        "left": "-117.325",
+                        "bottom": "33.968",
+                        "right": "-116.976"
+                    }
                 },
                 "regina_canada": {
                     "bbox": {
