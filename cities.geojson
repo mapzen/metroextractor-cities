@@ -13303,6 +13303,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "redlands_california"
+      },
+      "bbox": [
+        -117.325,
+        33.968,
+        -116.976,
+        34.138
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.325,
+              34.138
+            ],
+            [
+              -116.976,
+              34.138
+            ],
+            [
+              -116.976,
+              33.968
+            ],
+            [
+              -117.325,
+              33.968
+            ],
+            [
+              -117.325,
+              34.138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "regina_canada"
       },
       "bbox": [
