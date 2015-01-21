@@ -1134,6 +1134,14 @@
                         "right": "9.442"
                     }
                 },
+                "frome_england": {
+                    "bbox": {
+                        "top": "51.250",
+                        "left": "-2.359",
+                        "bottom": "51.214",
+                        "right": "-2.289"
+                    }
+                },
                 "marburg_germany": {
                     "bbox": {
                         "top": "50.884",
