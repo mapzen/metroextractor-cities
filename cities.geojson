@@ -5386,6 +5386,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "frome_england"
+      },
+      "bbox": [
+        -2.359,
+        51.214,
+        -2.289,
+        51.25
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.359,
+              51.25
+            ],
+            [
+              -2.289,
+              51.25
+            ],
+            [
+              -2.289,
+              51.214
+            ],
+            [
+              -2.359,
+              51.214
+            ],
+            [
+              -2.359,
+              51.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "marburg_germany"
       },
       "bbox": [
