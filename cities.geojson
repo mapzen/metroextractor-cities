@@ -14980,6 +14980,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "christchurch_new-zealand"
+      },
+      "bbox": [
+        172.0644,
+        -43.68,
+        172.846,
+        -43.2852
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.0644,
+              -43.2852
+            ],
+            [
+              172.846,
+              -43.2852
+            ],
+            [
+              172.846,
+              -43.68
+            ],
+            [
+              172.0644,
+              -43.68
+            ],
+            [
+              172.0644,
+              -43.2852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "darwin_australia"
       },
       "bbox": [
