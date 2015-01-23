@@ -2274,10 +2274,10 @@
                 },
                 "boston_massachusetts": {
                     "bbox": {
-                        "top": "42.702",
-                        "left": "-71.861",
-                        "bottom": "41.951",
-                        "right": "-70.285"
+                        "top": "42.399",
+                        "left": "-71.191",
+                        "bottom": "42.228",
+                        "right": "-70.923"
                     }
                 },
                 "calgary_canada": {
