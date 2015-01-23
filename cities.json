@@ -2264,6 +2264,14 @@
                         "right": "-68.643"
                     }
                 },
+                "birgmingham_alabama": {
+                    "bbox": {
+                        "top": "33.707064,",
+                        "left": "-87.136125",
+                        "bottom": "33.307467",
+                        "right": "-86.386861"
+                    }
+                },
                 "boston_massachusetts": {
                     "bbox": {
                         "top": "42.702",
@@ -2398,6 +2406,14 @@
                         "left": "-114.529",
                         "bottom": "52.941",
                         "right": "-112.430"
+                    }
+                },
+                "eugene_oregon": {
+                    "bbox": {
+                        "top": "44.142148",
+                        "left": "-123.265544",
+                        "bottom": "43.982595",
+                        "right": "-122.945894"
                     }
                 },
                 "evansville_indiana": {
