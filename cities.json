@@ -2266,10 +2266,10 @@
                 },
                 "birgmingham_alabama": {
                     "bbox": {
-                        "top": "33.707064,",
-                        "left": "-87.136125",
-                        "bottom": "33.307467",
-                        "right": "-86.386861"
+                        "top": "33.707",
+                        "left": "-87.136",
+                        "bottom": "33.307",
+                        "right": "-86.387"
                     }
                 },
                 "boston_massachusetts": {
