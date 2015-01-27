@@ -3090,10 +3090,10 @@
                 },
                 "vancouver_canada": {
                     "bbox": {
-                        "top": "49.316",
-                        "left": "-123.225",
-                        "bottom": "49.198",
-                        "right": "-123.023"
+                        "top": "49.320",
+                        "left": "-123.290",
+                        "bottom": "49.195",
+                        "right": "-123.020"
                     }
                 },
                 "victoria_canada": {
