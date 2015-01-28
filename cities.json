@@ -2070,6 +2070,14 @@
                 "right": "69.860"
             },
             "cities": {
+                "adana_turkey": {
+                    "bbox": {
+                        "top": "37.07",
+                        "left": "35.21",
+                        "bottom": "36.95",
+                        "right": "35.46"
+                    }
+                },
                 "as-suwayda_syria": {
                     "bbox": {
                         "top": "33.321",
@@ -2092,6 +2100,14 @@
                         "left": "49.654",
                         "right": "50.056",
                         "bottom": "40.304"
+                    }
+                },
+                "bursa_turkey": {
+                    "bbox": {
+                        "top": "40.31",
+                        "left": "28.8",
+                        "bottom": "40.16",
+                        "right": "29.23"
                     }
                 },
                 "damascus_syria": {
@@ -2148,6 +2164,14 @@
                         "left": "68.480",
                         "bottom": "34.081",
                         "right": "69.860"
+                    }
+                },
+                "kayseri_turkey": {
+                    "bbox": {
+                        "top": "38.83",
+                        "left": "35.34",
+                        "bottom": "38.60",
+                        "right": "35.67"
                     }
                 },
                 "mecca_saudi-arabia": {
