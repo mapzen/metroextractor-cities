@@ -3266,6 +3266,14 @@
                         "right": "116.208"
                     }
                 },
+                "sunshine-coast_australia": {
+                    "bbox": {
+                        "top": "-26.350",
+                        "left": "152.835",
+                        "bottom": "-27.001",
+                        "right": "153.155"
+                    }
+                },
                 "sydney_australia": {
                     "bbox": {
                         "top": "-33.637",
