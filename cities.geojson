@@ -10105,6 +10105,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "jerusalem_israel"
+      },
+      "bbox": [
+        35.072,
+        31.712,
+        35.341,
+        31.866
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.072,
+              31.866
+            ],
+            [
+              35.341,
+              31.866
+            ],
+            [
+              35.341,
+              31.712
+            ],
+            [
+              35.072,
+              31.712
+            ],
+            [
+              35.072,
+              31.866
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kabul_afghanistan"
       },
       "bbox": [
