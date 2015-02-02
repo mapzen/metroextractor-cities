@@ -15409,6 +15409,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "sunshine-coast_australia"
+      },
+      "bbox": [
+        152.835,
+        -27.001,
+        153.155,
+        -26.35
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              152.835,
+              -26.35
+            ],
+            [
+              153.155,
+              -26.35
+            ],
+            [
+              153.155,
+              -27.001
+            ],
+            [
+              152.835,
+              -27.001
+            ],
+            [
+              152.835,
+              -26.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "sydney_australia"
       },
       "bbox": [
