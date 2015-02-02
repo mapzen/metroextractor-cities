@@ -2158,6 +2158,14 @@
                         "bottom": "21.005"
                     }
                 },
+                "jerusalem_israel": {
+                    "bbox": {
+                        "top": "31.866",
+                        "left": "35.072",
+                        "right": "35.341",
+                        "bottom": "31.712"
+                    }
+                },
                 "kabul_afghanistan": {
                     "bbox": {
                         "top": "34.950",
