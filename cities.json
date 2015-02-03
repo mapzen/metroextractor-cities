@@ -1802,8 +1802,16 @@
                 "left": "-9.800",
                 "bottom": "35.630",
                 "right": "24.570"
-            },
+            }, 
             "cities": {
+                "acoruña_spain": {
+                    "bbox": {
+                        "top": "43.6",
+                        "left": "-8.6",
+                        "bottom": "43.2",
+                        "right": "-8.0"
+                    }
+                },
                 "athens_greece": {
                     "bbox": {
                         "top": "38.365",
