@@ -8428,6 +8428,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "acoruna_spain"
+      },
+      "bbox": [
+        -8.6,
+        43.2,
+        -8.0,
+        43.6
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6,
+              43.6
+            ],
+            [
+              -8.0,
+              43.6
+            ],
+            [
+              -8.0,
+              43.2
+            ],
+            [
+              -8.6,
+              43.2
+            ],
+            [
+              -8.6,
+              43.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "athens_greece"
       },
       "bbox": [
