@@ -1802,14 +1802,14 @@
                 "left": "-9.800",
                 "bottom": "35.630",
                 "right": "24.570"
-            }, 
+            },
             "cities": {
-                "acoruña_spain": {
+                "acoruna_spain": {
                     "bbox": {
-                        "top": "43.6",
-                        "left": "-8.6",
-                        "bottom": "43.2",
-                        "right": "-8.0"
+                        "top": "43.600",
+                        "left": "-8.600",
+                        "bottom": "43.200",
+                        "right": "-8.000"
                     }
                 },
                 "athens_greece": {
