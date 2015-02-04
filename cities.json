@@ -786,6 +786,14 @@
                         "right": "100.991"
                     }
                 },
+                "penang_malaysia": {
+                    "bbox": {
+                        "top": "5.5148",
+                        "left": "100.0171",
+                        "bottom": "5.1976",
+                        "right": "100.5338"
+                    }
+                },
                 "perm_russia": {
                     "bbox":{
                         "top": "58.182",
@@ -2288,6 +2296,14 @@
                         "right": "-97.234"
                     }
                 },
+                "banff_canada": {
+                    "bbox": {
+                        "top": "51.2277",
+                        "left": "-115.6975",
+                        "bottom": "51.1279",
+                        "right": "-115.4392"
+                    }
+                },
                 "bernalillo-county_new-mexico": {
                     "bbox": {
                         "top": "35.220",
@@ -3218,12 +3234,28 @@
                         "right": "175.314"
                     }
                 },
+                "bali_indonesia": {
+                    "bbox": {
+                        "top": "-6.9946",
+                        "left": "113.0548",
+                        "bottom": "-9.5168",
+                        "right": "117.1884"
+                    }
+                },
                 "brisbane_australia": {
                     "bbox": {
                         "top": "-27.000",
                         "left": "152.700",
                         "bottom": "-27.723",
                         "right": "153.349"
+                    }
+                },
+                "cairns_australia": {
+                    "bbox": {
+                        "top": "-16.7733",
+                        "left": "145.5153",
+                        "bottom": "-17.0781",
+                        "right": "146.0320"
                     }
                 },
                 "canberra_australia": {
