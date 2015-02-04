@@ -344,14 +344,6 @@
                         "right": "-1.397" 
                     }
                 },
-                "penang_malaysia": {
-                    "bbox": {
-                        "top": "5.5148",
-                        "left": "100.0171",
-                        "bottom": "5.1976",
-                        "right": "100.5338"
-                    }
-                },
                 "tindouf_algeria": {
                     "bbox": {
                         "top": "28.923",
@@ -792,6 +784,14 @@
                         "left": "100.831",
                         "bottom": "12.782",
                         "right": "100.991"
+                    }
+                },
+                "penang_malaysia": {
+                    "bbox": {
+                        "top": "5.5148",
+                        "left": "100.0171",
+                        "bottom": "5.1976",
+                        "right": "100.5338"
                     }
                 },
                 "perm_russia": {
