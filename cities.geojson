@@ -15487,7 +15487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "gold_coast_australia"
+        "name": "gold-coast_australia"
       },
       "bbox": [
         153.13,
