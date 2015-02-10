@@ -4996,6 +4996,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bremen_germany"
+      },
+      "bbox": [
+        8.38,
+        52.893,
+        9.259,
+        53.632
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.38,
+              53.632
+            ],
+            [
+              9.259,
+              53.632
+            ],
+            [
+              9.259,
+              52.893
+            ],
+            [
+              8.38,
+              52.893
+            ],
+            [
+              8.38,
+              53.632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "brussels_belgium"
       },
       "bbox": [
