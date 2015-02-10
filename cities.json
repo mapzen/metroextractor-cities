@@ -1054,6 +1054,14 @@
                         "right": "-0.162"
                     }
                 },
+                "bremen_germany": {
+                    "bbox": {
+                        "top": "53.632",
+                        "left": "8.380",
+                        "bottom": "52.893",
+                        "right": "9.259"
+                    }
+                },
                 "brussels_belgium": {
                     "bbox": {
                     "top": "51.053",
@@ -3602,13 +3610,6 @@
                         "left": "-63.136",
                         "bottom": "9.443",
                         "right": "-60.224"
-                    },
-                "bremen_germany": {
-                    "bbox": {
-                        "top": "53.632",
-                        "left": "8.380",
-                        "bottom": "52.893",
-                        "right": "9.259"
                     }
                 }
             }
