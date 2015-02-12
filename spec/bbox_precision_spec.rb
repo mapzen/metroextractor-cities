@@ -6,7 +6,7 @@ require 'rainbow/ext/string'
 namespace :test do
   desc 'Validate bounding box input is carried to 3 decimal place precision'
   task :bbox_precision do
-    puts 'Validating cities.json bbox input is numeric'.color(:blue)
+    puts 'Validating cities.json bbox input is carried to three decimal places of precision'.color(:blue)
     json = JSON.parse(CitiesJSON)
 
     def decimal_precision?(input, area, limit)
