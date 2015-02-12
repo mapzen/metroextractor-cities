@@ -10378,6 +10378,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mosul_iraq"
+      },
+      "bbox": [
+        42.844,
+        36.168,
+        43.508,
+        36.523
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.844,
+              36.523
+            ],
+            [
+              43.508,
+              36.523
+            ],
+            [
+              43.508,
+              36.168
+            ],
+            [
+              42.844,
+              36.168
+            ],
+            [
+              42.844,
+              36.523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "riyadh_saudi-arabia"
       },
       "bbox": [
