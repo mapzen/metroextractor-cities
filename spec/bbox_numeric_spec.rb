@@ -4,7 +4,7 @@ require 'json'
 require 'rainbow/ext/string'
 
 namespace :test do
-  desc 'Validate bounding box input is numeric'
+  desc 'Validate bounding box input is carried out to three decimal places of precision'
   task :bbox_numeric do
     puts 'Validating cities.json bbox input is numeric'.color(:blue)
     json = JSON.parse(CitiesJSON)
