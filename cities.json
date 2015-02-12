@@ -108,7 +108,7 @@
                     "bbox": {
                         "top": "-33.471",
                         "left": "18.302",
-                        "bottom": "-34.3632",
+                        "bottom": "-34.363",
                         "right": "19.004"
                     }
                 },
@@ -444,10 +444,10 @@
                 },
                 "bishkek_kyrgyzstan": {
                     "bbox": {
-                        "top": "42.9857",
-                        "left": "74.4250",
-                        "bottom": "42.6894",
-                        "right": "74.7624"
+                        "top": "42.986",
+                        "left": "74.425",
+                        "bottom": "42.689",
+                        "right": "74.762"
                     }
                 },
                 "busan_south-korea": {
@@ -532,10 +532,10 @@
                 },
                 "fukuoka_japan": {
                     "bbox": {
-                        "top": "33.7642",
-                        "left": "130.0561",
-                        "bottom": "33.4754",
-                        "right": "130.6438"
+                        "top": "33.764",
+                        "left": "130.056",
+                        "bottom": "33.475",
+                        "right": "130.644"
                     }
                 },
                 "hanoi_vietnam": {
@@ -548,10 +548,10 @@
                 },
                 "hangzhou_china": {
                     "bbox": {
-                        "top": "30.2963",
-                        "left": "120.1000",
-                        "bottom": "30.2300",
-                        "right": "120.1851"
+                        "top": "30.296",
+                        "left": "120.100",
+                        "bottom": "30.230",
+                        "right": "120.185"
                     }
                 },
                 "harbin_china": {
@@ -596,10 +596,10 @@
                 },
                 "hyderabad_india": {
                     "bbox": {
-                        "top": "17.6296",
-                        "left": "78.2158",
-                        "bottom": "17.1907",
-                        "right": "78.7267"
+                        "top": "17.630",
+                        "left": "78.216",
+                        "bottom": "17.191",
+                        "right": "78.727"
                     }
                 },
                 "islamabad_pakistan": {
@@ -788,10 +788,10 @@
                 },
                 "penang_malaysia": {
                     "bbox": {
-                        "top": "5.5148",
-                        "left": "100.0171",
-                        "bottom": "5.1976",
-                        "right": "100.5338"
+                        "top": "5.515",
+                        "left": "100.017",
+                        "bottom": "5.198",
+                        "right": "100.534"
                     }
                 },
                 "perm_russia": {
@@ -1224,10 +1224,10 @@
                 },
                 "la-rochelle_france": {
                     "bbox": {
-                        "top": "46.2063",
-                        "left": "-1.2818",
-                        "bottom": "46.1223",
-                        "right": "-1.0672"
+                        "top": "46.206",
+                        "left": "-1.282",
+                        "bottom": "46.122",
+                        "right": "-1.067"
                     }
                 },
                 "leeds_england": {
@@ -1645,7 +1645,7 @@
                         "top": "43.359",
                         "left": "21.820",
                         "bottom": "43.287",
-                        "right": "21.9744"
+                        "right": "21.974"
                     }
                 }, 
                 "odessa_ukraine": {
@@ -1864,7 +1864,7 @@
                     "bbox": {
                         "top": "45.798",
                         "left": "10.147",
-                        "right": "10.3",
+                        "right": "10.300",
                         "bottom": "45.236"
                     }
                 },
@@ -2062,10 +2062,10 @@
                 },
                 "valencia_spain": {
                     "bbox": {
-                        "top": "39.5040",
-                        "left": "-0.4357",
-                        "bottom": "39.4203",
-                        "right": "-0.2850"
+                        "top": "39.504",
+                        "left": "-0.436",
+                        "bottom": "39.420",
+                        "right": "-0.285"
                     }
                 },
                 "venice_italy": {
@@ -2096,10 +2096,10 @@
             "cities": {
                 "adana_turkey": {
                     "bbox": {
-                        "top": "37.07",
-                        "left": "35.21",
-                        "bottom": "36.95",
-                        "right": "35.46"
+                        "top": "37.070",
+                        "left": "35.210",
+                        "bottom": "36.950",
+                        "right": "35.460"
                     }
                 },
                 "as-suwayda_syria": {
@@ -2128,10 +2128,10 @@
                 },
                 "bursa_turkey": {
                     "bbox": {
-                        "top": "40.31",
-                        "left": "28.8",
-                        "bottom": "40.16",
-                        "right": "29.23"
+                        "top": "40.310",
+                        "left": "28.800",
+                        "bottom": "40.160",
+                        "right": "29.230"
                     }
                 },
                 "damascus_syria": {
@@ -2200,10 +2200,10 @@
                 },
                 "kayseri_turkey": {
                     "bbox": {
-                        "top": "38.83",
-                        "left": "35.34",
-                        "bottom": "38.60",
-                        "right": "35.67"
+                        "top": "38.830",
+                        "left": "35.340",
+                        "bottom": "38.600",
+                        "right": "35.670"
                     }
                 },
                 "mecca_saudi-arabia": {
@@ -2306,10 +2306,10 @@
                 },
                 "banff_canada": {
                     "bbox": {
-                        "top": "51.2277",
-                        "left": "-115.6975",
-                        "bottom": "51.1279",
-                        "right": "-115.4392"
+                        "top": "51.228",
+                        "left": "-115.698",
+                        "bottom": "51.128",
+                        "right": "-115.439"
                     }
                 },
                 "bernalillo-county_new-mexico": {
@@ -2413,7 +2413,7 @@
                         "top": "39.001",
                         "left": "-104.906",
                         "bottom": "38.711",
-                        "right": "-104.64"
+                        "right": "-104.640"
                     }
                 },
                 "dallas_texas": {
@@ -3146,10 +3146,10 @@
                 },
                 "tuscaloosa_alabama": {
                     "bbox": {
-                        "top": "33.7849",
-                        "left": "-88.0266",
-                        "bottom": "32.8288",
-                        "right": "-86.8799"
+                        "top": "33.785",
+                        "left": "-88.027",
+                        "bottom": "32.829",
+                        "right": "-86.880"
                     }
                 },
                 "vancouver_canada": {
@@ -3212,8 +3212,8 @@
                     "bbox": {
                         "top": "14.733",
                         "left": "-90.715",
-                        "bottom": "14.4",
-                        "right": "-90.35"
+                        "bottom": "14.400",
+                        "right": "-90.350"
                     }
                 }
             }
@@ -3244,10 +3244,10 @@
                 },
                 "bali_indonesia": {
                     "bbox": {
-                        "top": "-6.9946",
-                        "left": "113.0548",
-                        "bottom": "-9.5168",
-                        "right": "117.1884"
+                        "top": "-6.995",
+                        "left": "113.055",
+                        "bottom": "-9.517",
+                        "right": "117.188"
                     }
                 },
                 "brisbane_australia": {
@@ -3260,10 +3260,10 @@
                 },
                 "cairns_australia": {
                     "bbox": {
-                        "top": "-16.7733",
-                        "left": "145.5153",
-                        "bottom": "-17.0781",
-                        "right": "146.0320"
+                        "top": "-16.773",
+                        "left": "145.515",
+                        "bottom": "-17.078",
+                        "right": "146.032"
                     }
                 },
                 "canberra_australia": {
@@ -3277,7 +3277,7 @@
                 "christchurch_new-zealand": {
                     "bbox":{
                         "top": "-43.285",
-                        "left": "172.0644",
+                        "left": "172.064",
                         "bottom": "-43.680",
                         "right": "172.846"
                     }
@@ -3438,10 +3438,10 @@
                 },
                 "cumana_venezuela": {
                     "bbox": {
-                        "top": "10.4825",
-                        "left": "-64.2211",
-                        "bottom": "10.4072",
-                        "right": "-64.0863"
+                        "top": "10.483",
+                        "left": "-64.221",
+                        "bottom": "10.407",
+                        "right": "-64.086"
                     }
                 },
                 "curitiba_brazil": {
