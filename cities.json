@@ -2214,6 +2214,14 @@
                         "right": "40.005"
                     }
                 },
+                "mosul_iraq": {
+                    "bbox": {
+                        "top": "36.523",
+                        "left": "42.844",
+                        "bottom": "36.168",
+                        "right": "43.508"
+                    }
+                },
                 "riyadh_saudi-arabia": {
                     "bbox": {
                         "top": "25.098",
