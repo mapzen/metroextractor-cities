@@ -1254,6 +1254,14 @@
                         "right": "3.389"
                     }
                 },
+                "liverpool_england": {
+                    "bbox": {
+                        "top": "53.514",
+                        "left": "-3.201",
+                        "bottom": "53.283",
+                        "right": "-2.740"
+                    }
+                },
                 "london_england": {
                     "bbox": {
                         "top": "51.984",
