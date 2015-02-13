@@ -5971,6 +5971,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "liverpool_england"
+      },
+      "bbox": [
+        -3.201,
+        53.283,
+        -2.74,
+        53.514
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.201,
+              53.514
+            ],
+            [
+              -2.74,
+              53.514
+            ],
+            [
+              -2.74,
+              53.283
+            ],
+            [
+              -3.201,
+              53.283
+            ],
+            [
+              -3.201,
+              53.514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "london_england"
       },
       "bbox": [
