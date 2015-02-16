@@ -1560,6 +1560,14 @@
                         "right": "19.780"
                     }
                 },
+                "novisad_serbia": {
+                    "bbox": {
+                        "top": "45.466",
+                        "left": "19.661",
+                        "bottom": "45.167",
+                        "right": "19.976"
+                    }
+                },
                 "gdansk_poland": {
                     "bbox": {
                         "top": "54.870",
