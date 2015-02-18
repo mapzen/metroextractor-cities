@@ -2230,6 +2230,14 @@
                         "right": "43.508"
                     }
                 },
+                "ramadi_iraq": {
+                    "bbox": {
+                      "top": "33.440",
+                      "left": "43.242",
+                      "bottom": "33.398",
+                      "right": "43.337"
+                    }
+                },
                 "riyadh_saudi-arabia": {
                     "bbox": {
                         "top": "25.098",
