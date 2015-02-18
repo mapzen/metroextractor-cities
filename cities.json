@@ -2110,6 +2110,14 @@
                         "right": "35.460"
                     }
                 },
+                "amman_jordan": {
+                    "bbox": {
+                        "top": "32.171",
+                        "left": "35.715",
+                        "bottom": "31.668",
+                        "right": "36.250"
+                    }
+                },
                 "as-suwayda_syria": {
                     "bbox": {
                         "top": "33.321",
