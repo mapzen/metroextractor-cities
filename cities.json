@@ -2126,6 +2126,14 @@
                         "right": "44.862"
                     }
                 },
+                "baji_iraq": {
+                    "bbox": {
+                      "top": "34.959",
+                      "left": "43.460",
+                      "bottom": "34.894",
+                      "right": "43.520"
+                    }
+                },
                 "baku_azerbaijan": {
                     "bbox": {
                         "top": "40.487",
