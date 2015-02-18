@@ -9871,6 +9871,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "amman_jordan"
+      },
+      "bbox": [
+        35.715,
+        31.668,
+        36.25,
+        32.171
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.715,
+              32.171
+            ],
+            [
+              36.25,
+              32.171
+            ],
+            [
+              36.25,
+              31.668
+            ],
+            [
+              35.715,
+              31.668
+            ],
+            [
+              35.715,
+              32.171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "as-suwayda_syria"
       },
       "bbox": [
