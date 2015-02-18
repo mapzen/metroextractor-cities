@@ -2262,6 +2262,14 @@
                         "right": "35.052"
                     }
                 },
+                "tikrit_iraq": {
+                    "bbox": {
+                      "top": "34.688",
+                      "left": "43.628",
+                      "bottom": "34.567",
+                      "right": "43.706"
+                    }
+                },
                 "yerevan_armenia": {
                     "bbox": {
                         "top": "40.617",
