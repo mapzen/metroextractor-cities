@@ -2182,6 +2182,14 @@
                         "bottom": "38.290"
                     }
                 },
+                "jalawla_iraq": {
+                    "bbox": {
+                      "top": "34.295",
+                      "left": "45.145",
+                      "bottom": "34.245",
+                      "right": "45.186"
+                    }
+                },
                 "jeddah_saudi-arabia": {
                     "bbox": {
                         "top": "21.905",
