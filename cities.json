@@ -1390,6 +1390,14 @@
                         "right": "-0.901"
                     }
                 },
+                "rennes_france": {
+                    "bbox": {
+                        "top": "48.301",
+                        "left": "-1.973",
+                        "bottom": "47.920",
+                        "right": "-1.469"
+                    }
+                },
                 "saint-jean-bonnefonds_france": {
                     "bbox": {
                         "top": "45.484",
