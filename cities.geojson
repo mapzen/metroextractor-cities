@@ -12328,6 +12328,84 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "providence_rhode-island"
+      },
+      "bbox": [
+        -71.51,
+        41.769,
+        -71.311,
+        41.881
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.51,
+              41.881
+            ],
+            [
+              -71.311,
+              41.881
+            ],
+            [
+              -71.311,
+              41.769
+            ],
+            [
+              -71.51,
+              41.769
+            ],
+            [
+              -71.51,
+              41.881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "richmond_virginia"
+      },
+      "bbox": [
+        -77.718,
+        37.373,
+        -77.215,
+        37.695
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.718,
+              37.695
+            ],
+            [
+              -77.215,
+              37.695
+            ],
+            [
+              -77.215,
+              37.373
+            ],
+            [
+              -77.718,
+              37.373
+            ],
+            [
+              -77.718,
+              37.695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "hampton-roads_virginia"
       },
       "bbox": [
