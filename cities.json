@@ -2624,11 +2624,27 @@
                         "right": "-120.880"
                     }
                 },
-                "hampton-roads_virginia": {
+                "providence_rhode-island": {
+                    "bbox": {
+                        "top": "41.880545",
+                        "left": "-71.509586",
+                        "bottom": "41.768943",
+                        "right": "-71.310974"
+                    }
+                },
+                "richmond_virginia": {
                     "bbox": {
                         "top": "37.208",
                         "left": "-76.663",
                         "bottom": "36.718",
+                        "right": "-77.215025"
+                    }
+                },
+                "hampton-roads_virginia": {
+                    "bbox": {
+                        "top": "37.694510",
+                        "left": "-77.717623",
+                        "bottom": "37.372694",
                         "right": "-75.918"
                     }
                 },
