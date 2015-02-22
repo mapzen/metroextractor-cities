@@ -1664,6 +1664,14 @@
                         "right": "21.974"
                     }
                 }, 
+                "novisad_serbia": {
+                    "bbox": {
+                        "top": "45.472",
+                        "left": "19.651",
+                        "bottom": "45.180",
+                        "right": "19.968"
+                    }
+                }, 
                 "odessa_ukraine": {
                     "bbox": {
                         "top": "46.731",
