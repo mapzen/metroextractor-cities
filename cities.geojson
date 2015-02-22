@@ -7843,6 +7843,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "novisad_serbia"
+      },
+      "bbox": [
+        19.651,
+        45.18,
+        19.968,
+        45.472
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.651,
+              45.472
+            ],
+            [
+              19.968,
+              45.472
+            ],
+            [
+              19.968,
+              45.18
+            ],
+            [
+              19.651,
+              45.18
+            ],
+            [
+              19.651,
+              45.472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "odessa_ukraine"
       },
       "bbox": [
