@@ -2071,6 +2071,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bharatpur_nepal"
+      },
+      "bbox": [
+        84.388,
+        27.64,
+        84.468,
+        27.72
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.388,
+              27.72
+            ],
+            [
+              84.468,
+              27.72
+            ],
+            [
+              84.468,
+              27.64
+            ],
+            [
+              84.388,
+              27.64
+            ],
+            [
+              84.388,
+              27.72
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "bishkek_kyrgyzstan"
       },
       "bbox": [
