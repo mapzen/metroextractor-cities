@@ -7258,6 +7258,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "donetsk_ukraine"
+      },
+      "bbox": [
+        37.518,
+        47.886,
+        37.997,
+        48.093
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.518,
+              48.093
+            ],
+            [
+              37.997,
+              48.093
+            ],
+            [
+              37.997,
+              47.886
+            ],
+            [
+              37.518,
+              47.886
+            ],
+            [
+              37.518,
+              48.093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "iasi_romania"
       },
       "bbox": [
@@ -8234,6 +8273,45 @@
       "type": "Feature",
       "properties": {
         "name": "vilnius_lithuania"
+      },
+      "bbox": [
+        28.367,
+        49.189,
+        28.574,
+        49.281
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.367,
+              49.281
+            ],
+            [
+              28.574,
+              49.281
+            ],
+            [
+              28.574,
+              49.189
+            ],
+            [
+              28.367,
+              49.189
+            ],
+            [
+              28.367,
+              49.281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vinnytsia_ukraine"
       },
       "bbox": [
         25.004,
