@@ -1544,6 +1544,14 @@
                         "right": "28.750"
                     }
                 },
+                "donetsk_ukraine": {
+                    "bbox": {
+                        "top": "48.0928",
+                        "left": "37.5180",
+                        "bottom": "47.8860",
+                        "right": "37.9969"
+                    }
+                },
                 "iasi_romania": {
                     "bbox": {
                         "top": "47.235",
@@ -1745,6 +1753,14 @@
                     }
                 },
                 "vilnius_lithuania": {
+                    "bbox": {
+                        "top": "49.2811",
+                        "left": "28.3674",
+                        "bottom": "49.1889",
+                        "right": "28.5742"
+                    }
+                },
+                "vinnytsia_ukraine": {
                     "bbox": {
                         "top": "54.796",
                         "left": "25.004",
