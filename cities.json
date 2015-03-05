@@ -1030,6 +1030,14 @@
                         "right": "7.687"
                     }
                 },
+                "belfast_ireland": {
+                    "bbox": {
+                        "top": "54.6639",
+                        "left": "-6.0461",
+                        "bottom": "54.5323",
+                        "right": "-5.8162"
+                    }  
+                },
                 "berlin_germany": {
                     "bbox": {
                         "top": "52.994",
