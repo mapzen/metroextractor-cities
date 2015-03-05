@@ -1032,10 +1032,10 @@
                 },
                 "belfast_ireland": {
                     "bbox": {
-                        "top": "54.6639",
-                        "left": "-6.0461",
-                        "bottom": "54.5323",
-                        "right": "-5.8162"
+                        "top": "54.663",
+                        "left": "-6.046",
+                        "bottom": "54.532",
+                        "right": "-5.816"
                     }  
                 },
                 "berlin_germany": {
