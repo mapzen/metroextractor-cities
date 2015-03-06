@@ -8272,6 +8272,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bratislava_slovakia"
+      },
+      "bbox": [
+        16.955,
+        48.061,
+        17.494,
+        48.295
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.955,
+              48.295
+            ],
+            [
+              17.494,
+              48.295
+            ],
+            [
+              17.494,
+              48.061
+            ],
+            [
+              16.955,
+              48.061
+            ],
+            [
+              16.955,
+              48.295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "vilnius_lithuania"
       },
       "bbox": [
