@@ -1752,6 +1752,14 @@
                         "right": "17.841"
                     }
                 },
+                "bratislava_slovakia": {
+                    "bbox": {
+                        "top": "48.295",
+                        "left": "16.955",
+                        "bottom": "48.061",
+                        "right": "17.494"
+                    }
+                },
                 "vilnius_lithuania": {
                     "bbox": {
                         "top": "49.281",
