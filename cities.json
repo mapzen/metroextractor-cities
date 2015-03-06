@@ -3122,10 +3122,10 @@
                 },
                 "san-antonio_texas": {
                     "bbox": {
-                        "top": "29.671",
-                        "left": "-98.924",
-                        "bottom": "29.194",
-                        "right": "-98.085"
+                        "top": "29.951",
+                        "left": "-98.951",
+                        "bottom": "29.109",
+                        "right": "-97.880"
                     }
                 },
                 "san-diego-tijuana_mexico": {
