@@ -1310,6 +1310,14 @@
                         "right": "5.776"
                     }
                 },
+                "montbrison_france": {
+                    "bbox": {
+                        "top": "45.627",
+                        "left": "4.042",
+                        "bottom": "45.591",
+                        "right": "4.088"
+                    }
+                },
                 "nuremberg_germany": {
                     "bbox": {
                         "top": "49.757",
