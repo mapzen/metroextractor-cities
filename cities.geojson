@@ -12406,6 +12406,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "fort-wayne_indiana"
+      },
+      "bbox": [
+        -85.335,
+        40.95,
+        -84.98,
+        41.208
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85.335,
+              41.208
+            ],
+            [
+              -84.98,
+              41.208
+            ],
+            [
+              -84.98,
+              40.95
+            ],
+            [
+              -85.335,
+              40.95
+            ],
+            [
+              -85.335,
+              41.208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "fredericton_canada"
       },
       "bbox": [
