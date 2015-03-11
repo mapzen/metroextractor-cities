@@ -2776,6 +2776,14 @@
                         "right": "-82.278"
                     }
                 },
+                "lafayette_indiana": {
+                    "bbox": {
+                        "top": "40.520",
+                        "left": "-87.000",
+                        "bottom": "40.330",
+                        "right": "-86.750"
+                    }
+                },
                 "las-vegas_nevada": {
                     "bbox": {
                         "top": "36.615",
