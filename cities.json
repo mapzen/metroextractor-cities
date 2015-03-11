@@ -2624,6 +2624,14 @@
                         "right": "-104.987"
                     }
                 },
+                "fort-wayne_indiana": {
+                    "bbox": {
+                        "top": "41.208",
+                        "left": "-85.335",
+                        "bottom": "40.950",
+                        "right": "-84.980"
+                    }
+                },
                 "fredericton_canada": {
                     "bbox": {
                         "top": "46.024",
