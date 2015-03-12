@@ -375,7 +375,7 @@
                 "top": "61.000",
                 "left": "25.000",
                 "bottom": "0.807",
-                "right": "141.152"
+                "right": "146.000"
             },
             "cities": {
                 "agra_india": {
@@ -872,6 +872,14 @@
                         "left": "66.339",
                         "bottom": "39.230",
                         "right": "67.844"
+                    }
+                },
+                "sapporo_japan": {
+                    "bbox": {
+                        "top": "43.190",
+                        "left": "140.990",
+                        "bottom": "42.780",
+                        "right": "141.506"
                     }
                 },
                 "seoul_south-korea": {
