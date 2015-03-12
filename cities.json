@@ -874,6 +874,14 @@
                         "right": "67.844"
                     }
                 },
+                "sapporo_japan": {
+                    "bbox": {
+                        "top": "43.190",
+                        "left": "140.990",
+                        "bottom": "42.780",
+                        "right": "141.506"
+                    }
+                },
                 "seoul_south-korea": {
                     "bbox": {
                         "top": "37.980",
