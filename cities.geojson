@@ -4177,6 +4177,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "sapporo_japan"
+      },
+      "bbox": [
+        140.99,
+        42.78,
+        141.506,
+        43.19
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.99,
+              43.19
+            ],
+            [
+              141.506,
+              43.19
+            ],
+            [
+              141.506,
+              42.78
+            ],
+            [
+              140.99,
+              42.78
+            ],
+            [
+              140.99,
+              43.19
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "seoul_south-korea"
       },
       "bbox": [
