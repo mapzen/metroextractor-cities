@@ -11665,6 +11665,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "boise_idaho"
+      },
+      "bbox": [
+        -116.211,
+        43.313,
+        -115.911,
+        43.613
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.211,
+              43.613
+            ],
+            [
+              -115.911,
+              43.613
+            ],
+            [
+              -115.911,
+              43.313
+            ],
+            [
+              -116.211,
+              43.313
+            ],
+            [
+              -116.211,
+              43.613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "boston_massachusetts"
       },
       "bbox": [
