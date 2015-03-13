@@ -2488,6 +2488,14 @@
                         "right": "-86.387"
                     }
                 },
+                "boise_idaho": {
+                    "bbox": {
+                        "top": "43.613",
+                        "left": "-116.211",
+                        "bottom": "43.313",
+                        "right": "-115.911"
+                    }
+                },
                 "boston_massachusetts": {
                     "bbox": {
                         "top": "42.399",
