@@ -4918,6 +4918,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "beauvais_france"
+      },
+      "bbox": [
+        2.014,
+        49.399,
+        2.173,
+        49.47
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.014,
+              49.47
+            ],
+            [
+              2.173,
+              49.47
+            ],
+            [
+              2.173,
+              49.399
+            ],
+            [
+              2.014,
+              49.399
+            ],
+            [
+              2.014,
+              49.47
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "belfast_ireland"
       },
       "bbox": [
