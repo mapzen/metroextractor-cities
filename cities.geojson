@@ -16774,6 +16774,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "papeete_french-polynesia"
+      },
+      "bbox": [
+        -149.635,
+        -17.888,
+        -149.114,
+        -17.485
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -149.635,
+              -17.485
+            ],
+            [
+              -149.114,
+              -17.485
+            ],
+            [
+              -149.114,
+              -17.888
+            ],
+            [
+              -149.635,
+              -17.888
+            ],
+            [
+              -149.635,
+              -17.485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "asuncion_paraguay"
       },
       "bbox": [
