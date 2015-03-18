@@ -3548,6 +3548,24 @@
                 }
             }
         },
+        "polynesia": {
+            "bbox": {
+                "top": "28.500",
+                "left": "-180.900",
+                "bottom": "-27.100",
+                "right": "-124.500"
+            },
+            "cities": {
+                "papeete_french-polynesia": {
+                    "bbox": {
+                        "top": "-17.485",
+                        "left": "-149.635",
+                        "bottom": "-17.888",
+                        "right": "-149.114"
+                    }
+                }
+            }
+        },
         "south_america": {
             "bbox": {
                 "top": "13.000",
