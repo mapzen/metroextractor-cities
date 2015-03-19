@@ -11236,6 +11236,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "beer-sheba_israel"
+      },
+      "bbox": [
+        34.738,
+        31.184,
+        34.87,
+        31.299
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.738,
+              31.299
+            ],
+            [
+              34.87,
+              31.299
+            ],
+            [
+              34.87,
+              31.184
+            ],
+            [
+              34.738,
+              31.184
+            ],
+            [
+              34.738,
+              31.299
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "tikrit_iraq"
       },
       "bbox": [
