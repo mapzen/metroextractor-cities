@@ -2390,6 +2390,13 @@
                         "right": "35.052"
                     }
                 },
+                "beer-sheba_israel": {
+                    "bbox": {
+                        "top": "31.299",
+                        "left": "34.738",
+                        "bottom": "31.184", 
+                        "right": "34.870"
+                    }
                 "tikrit_iraq": {
                     "bbox": {
                       "top": "34.688",
