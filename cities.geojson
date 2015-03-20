@@ -15253,6 +15253,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "san-luis-obispo_california"
+      },
+      "bbox": [
+        -120.723,
+        35.233,
+        -120.618,
+        35.312
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -120.723,
+              35.312
+            ],
+            [
+              -120.618,
+              35.312
+            ],
+            [
+              -120.618,
+              35.233
+            ],
+            [
+              -120.723,
+              35.233
+            ],
+            [
+              -120.723,
+              35.312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "san-juan_puerto-rico"
       },
       "bbox": [
