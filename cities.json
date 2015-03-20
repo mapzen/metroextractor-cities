@@ -3224,6 +3224,14 @@
                         "right": "-121.025"
                     }
                 },
+                "san-luis-obispo_california": {
+                    "bbox": {
+                        "top": "35.312",
+                        "left": "-120.723",
+                        "bottom": "35.233",
+                        "right": "-120.618"
+                    }
+                },
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
