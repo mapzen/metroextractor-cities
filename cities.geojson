@@ -3475,6 +3475,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nadym_russia"
+      },
+      "bbox": [
+        72.431,
+        65.514,
+        72.634,
+        65.567
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.431,
+              65.567
+            ],
+            [
+              72.634,
+              65.567
+            ],
+            [
+              72.634,
+              65.514
+            ],
+            [
+              72.431,
+              65.514
+            ],
+            [
+              72.431,
+              65.567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nazareth_israel"
       },
       "bbox": [
