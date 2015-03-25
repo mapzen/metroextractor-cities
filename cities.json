@@ -1898,6 +1898,14 @@
                         "right": "19.526"
                     }
                 },
+                "gothenburg_sweden": {
+                    "bbox": {
+                        "top": "57.803",
+                        "left": "11.552",
+                        "bottom": "57.532",
+                        "right": "12.310"
+                    }
+                },
                 "tampere_finland": {
                     "bbox": {
                         "top": "62.188",
