@@ -8935,6 +8935,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "gothenburg_sweden"
+      },
+      "bbox": [
+        11.552,
+        57.532,
+        12.31,
+        57.803
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.552,
+              57.803
+            ],
+            [
+              12.31,
+              57.803
+            ],
+            [
+              12.31,
+              57.532
+            ],
+            [
+              11.552,
+              57.532
+            ],
+            [
+              11.552,
+              57.803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "tampere_finland"
       },
       "bbox": [
