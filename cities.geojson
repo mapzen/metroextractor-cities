@@ -11080,6 +11080,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "kirkuk_iraq"
+      },
+      "bbox": [
+        44.284,
+        35.379,
+        44.495,
+        35.524
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.284,
+              35.524
+            ],
+            [
+              44.495,
+              35.524
+            ],
+            [
+              44.495,
+              35.379
+            ],
+            [
+              44.284,
+              35.379
+            ],
+            [
+              44.284,
+              35.524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mecca_saudi-arabia"
       },
       "bbox": [
