@@ -17632,6 +17632,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "martinique_french-caribbean"
+      },
+      "bbox": [
+        -61.229,
+        14.389,
+        -60.811,
+        14.879
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.229,
+              14.879
+            ],
+            [
+              -60.811,
+              14.879
+            ],
+            [
+              -60.811,
+              14.389
+            ],
+            [
+              -61.229,
+              14.389
+            ],
+            [
+              -61.229,
+              14.879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "medellin_colombia"
       },
       "bbox": [
