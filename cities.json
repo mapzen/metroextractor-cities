@@ -1866,6 +1866,14 @@
                         "right": "25.381"
                     }
                 },
+                "malmo_sweden": {
+                    "bbox": {
+                        "top": "55.680",
+                        "left": "12.715",
+                        "bottom": "55.485",
+                        "right": "13.167"
+                    }
+                },
                 "oslo_norway": {
                     "bbox": {
                         "top": "60.424",
