@@ -1,6 +1,6 @@
 metroextractor-cities
 =====================
-![Build Status](https://circleci.com/gh/mapzen/metroextractor-cities.png?circle-token=83dc13d4097b378ad6ba101b226118fda9e03844)
+![Build Status](https://circleci.com/gh/mapzen/metroextractor-cities.svg?style=svg)
 
 This data is used to build the extracts found here: [Mapzen Metro Extracts](https://mapzen.com/metro-extracts).
 
