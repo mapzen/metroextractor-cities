@@ -3616,7 +3616,7 @@
         },
         "south_america": {
             "bbox": {
-                "top": "13.000",
+                "top": "15.000",
                 "left": "-86.000",
                 "bottom": "-58.000",
                 "right": "-25.000"
@@ -3740,6 +3740,14 @@
                         "left": "-77.294",
                         "bottom": "-12.358",
                         "right": "-76.701"
+                    }
+                },
+                "martinique_french-caribbean": {
+                    "bbox": {
+                        "top": "14.879",
+                        "left": "-61.229",
+                        "bottom": "14.389",
+                        "right": "-60.811"
                     }
                 },
                 "medellin_colombia": {
