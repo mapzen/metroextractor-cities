@@ -2358,6 +2358,14 @@
                         "right": "35.670"
                     }
                 },
+                "kirkuk_iraq": {
+                    "bbox": {
+                        "top": "35.524",
+                        "left": "44.284",
+                        "bottom": "35.379",
+                        "right": "44.495"
+                    }
+                },
                 "mecca_saudi-arabia": {
                     "bbox": {
                         "top": "21.590",
