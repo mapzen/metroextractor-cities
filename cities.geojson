@@ -8779,6 +8779,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "malmo_sweden"
+      },
+      "bbox": [
+        12.715,
+        55.485,
+        13.167,
+        55.68
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.715,
+              55.68
+            ],
+            [
+              13.167,
+              55.68
+            ],
+            [
+              13.167,
+              55.485
+            ],
+            [
+              12.715,
+              55.485
+            ],
+            [
+              12.715,
+              55.68
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "oslo_norway"
       },
       "bbox": [
