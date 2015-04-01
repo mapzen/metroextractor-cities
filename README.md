@@ -2,6 +2,8 @@ metroextractor-cities
 =====================
 ![Build Status](https://circleci.com/gh/mapzen/metroextractor-cities.png?circle-token=83dc13d4097b378ad6ba101b226118fda9e03844)
 
+This data is used to build the extracts found here: [Mapzen Metro Extracts](https://mapzen.com/metro-extracts).
+
 Extracts are built weekly. If you submit a pull for a new extract, it will not be available until the weekly build has completed. This typically takes place over the weekend.
 
 Description
