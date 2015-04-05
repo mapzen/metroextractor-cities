@@ -9286,6 +9286,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "burgos_spain"
+      },
+      "bbox": [
+        -3.802,
+        42.316,
+        -3.598,
+        42.391
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.802,
+              42.391
+            ],
+            [
+              -3.598,
+              42.391
+            ],
+            [
+              -3.598,
+              42.316
+            ],
+            [
+              -3.802,
+              42.316
+            ],
+            [
+              -3.802,
+              42.391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "cadiz_spain"
       },
       "bbox": [
