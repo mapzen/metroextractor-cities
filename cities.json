@@ -1980,6 +1980,14 @@
                         "bottom": "45.236"
                     }
                 },
+                "burgos_spain": {
+                    "bbox": {
+                        "top": "42.391",
+                        "left": "-3.802",
+                        "bottom": "42.316",
+                        "right": "-3.598"
+                    }
+                },
                 "cadiz_spain": {
                     "bbox": {
                         "top": "36.800",
