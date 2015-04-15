@@ -1784,6 +1784,14 @@
                         "right": "24.951"
                     }
                 },
+                "ulyanovsk_russia": {
+                    "bbox": {
+                        "top": "54.679",
+                        "left": "47.521",
+                        "bottom": "53.780",
+                        "right": "49.886"
+                    }
+                },
                 "vienna-bratislava_austria": {
                     "bbox": {
                         "top": "48.609",
