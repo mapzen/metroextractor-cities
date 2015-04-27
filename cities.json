@@ -1706,10 +1706,10 @@
                 },
                 "minsk_belarus": {
                     "bbox": {
-                        "top": "54.131",
-                        "left": "27.961",
+                        "top": "53.972",
+                        "left": "27.375",
                         "right": "28.064",
-                        "bottom": "53.658"
+                        "bottom": "53.796"
                     }
                 },
                 "nis_serbia": {
