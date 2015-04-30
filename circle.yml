@@ -1,9 +1,6 @@
 machine:
   ruby:
     version: 2.1.0
-dependencies:
-  pre:
-    - sudo apt-get update; sudo apt-get install libspatialindex-dev
 test:
   override:
     - bundle exec rake test
