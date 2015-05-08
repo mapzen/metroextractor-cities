@@ -2196,6 +2196,14 @@
                         "right": "12.735"
                     }
                 },
+                "bologna_italy": {
+                    "bbox": {
+                        "top": "44.6682",
+                        "left": "10.9987",
+                        "bottom": "44.3371",
+                        "right": "11.8179"
+                    }
+                },
                 "vigo_spain": {
                     "bbox": {
                         "top": "42.307",
