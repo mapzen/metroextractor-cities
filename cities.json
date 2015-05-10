@@ -1832,6 +1832,14 @@
                         "right": "17.363"
                     }
                 }
+                "zagreb_croatia": {
+                    "bbox": {
+                        "top": "45.8484",
+                        "left": "15.8100",
+                        "bottom": "45.7405",
+                        "right": "16.1502"
+                    }
+                }
             }
         },
         "northern_europe": {
