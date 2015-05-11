@@ -714,6 +714,14 @@
                         "right": "75.425"
                     }
                 },
+                "luoyang_china": {
+                    "bbox": {
+                        "top": "34.761",
+                        "left": "112.282",
+                        "bottom": "34.539",
+                        "right": "112.611"
+                    }
+                },
                 "manila_phillipines": {
                     "bbox": {
                         "top": "14.900",
