@@ -3397,6 +3397,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "luoyang_china"
+      },
+      "bbox": [
+        112.282,
+        34.539,
+        112.611,
+        34.761
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.282,
+              34.761
+            ],
+            [
+              112.611,
+              34.761
+            ],
+            [
+              112.611,
+              34.539
+            ],
+            [
+              112.282,
+              34.539
+            ],
+            [
+              112.282,
+              34.761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "manila_phillipines"
       },
       "bbox": [
