@@ -6712,6 +6712,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nottingham_england"
+      },
+      "bbox": [
+        -1.3,
+        52.877,
+        -1.07,
+        53.024
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3,
+              53.024
+            ],
+            [
+              -1.07,
+              53.024
+            ],
+            [
+              -1.07,
+              52.877
+            ],
+            [
+              -1.3,
+              52.877
+            ],
+            [
+              -1.3,
+              53.024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "paris_france"
       },
       "bbox": [
