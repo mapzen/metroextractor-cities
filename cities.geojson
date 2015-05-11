@@ -2383,6 +2383,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "coimbatore_india"
+      },
+      "bbox": [
+        76.8,
+        10.91,
+        77.045,
+        11.16
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8,
+              11.16
+            ],
+            [
+              77.045,
+              11.16
+            ],
+            [
+              77.045,
+              10.91
+            ],
+            [
+              76.8,
+              10.91
+            ],
+            [
+              76.8,
+              11.16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "dharamshala_india"
       },
       "bbox": [
