@@ -3718,6 +3718,14 @@
                         "right": "-57.833"
                     }
                 },
+                "bahia-blanca_argentina": {
+                    "bbox": {
+                        "top": "-38.608",
+                        "left": "-62.652",
+                        "bottom": "-38.964",
+                        "right": "-61.845"
+                    }
+                },
                 "caracas_venezuela": {
                     "bbox": {
                         "top": "10.645",
