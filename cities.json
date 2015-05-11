@@ -1406,6 +1406,14 @@
                         "right": "7.311"
                     }
                 },
+                "nottingham_england": {
+                    "bbox": {
+                        "top": "53.024",
+                        "left": "-1.300",
+                        "bottom": "52.877",
+                        "right": "-1.070"
+                    }
+                },                
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
