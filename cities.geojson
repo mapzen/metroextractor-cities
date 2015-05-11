@@ -4879,6 +4879,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "wuhan_china"
+      },
+      "bbox": [
+        113.745,
+        30.079,
+        114.798,
+        30.903
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.745,
+              30.903
+            ],
+            [
+              114.798,
+              30.903
+            ],
+            [
+              114.798,
+              30.079
+            ],
+            [
+              113.745,
+              30.079
+            ],
+            [
+              113.745,
+              30.903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "amsterdam_netherlands"
       },
       "bbox": [
