@@ -506,6 +506,14 @@
                         "right": "110.183"
                     }
                 },
+                "coimbatore_india": {
+                    "bbox": {
+                        "top": "11.160",
+                        "left": "76.800",
+                        "bottom": "10.910",
+                        "right": "77.045"
+                    }
+                },
                 "dharamshala_india": {
                     "bbox": {
                         "top": "32.300",
