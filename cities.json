@@ -666,6 +666,14 @@
                         "right": "120.838"
                     }
                 },
+		"kochi_india": {
+		    "bbox": {
+			"top": "10.0906",
+			"left": "76.1703",
+			"bottom": "9.7847",
+			"right": "76.3893"
+		    }
+		},
                 "koh-samui_thailand": {
                     "bbox": {
                         "top": "9.604",
