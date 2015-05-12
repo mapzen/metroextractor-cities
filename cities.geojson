@@ -3592,6 +3592,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mandalay_myanmar"
+      },
+      "bbox": [
+        96.048,
+        21.871,
+        96.15,
+        22.034
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              96.048,
+              22.034
+            ],
+            [
+              96.15,
+              22.034
+            ],
+            [
+              96.15,
+              21.871
+            ],
+            [
+              96.048,
+              21.871
+            ],
+            [
+              96.048,
+              22.034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "moscow_russia"
       },
       "bbox": [
