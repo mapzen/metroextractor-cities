@@ -2599,20 +2599,28 @@
                         "right": "-115.439"
                     }
                 },
-                "bernalillo-county_new-mexico": {
-                    "bbox": {
-                        "top": "35.220",
-                        "left": "-107.196",
-                        "bottom": "34.869",
-                        "right": "-106.150"
-                    }
-                },
                 "bangor_maine": {
                     "bbox": {
                         "top": "44.864",
                         "left": "-68.871",
                         "bottom": "44.757",
                         "right": "-68.643"
+                    }
+                },
+		"barnstable_massachusetts": {
+		    "bbox": {
+			"top": "41.739181",
+			"left": "-70.382270",
+			"bottom": "41.608130",
+			"right": "-70.216603"
+		    }
+		},
+                "bernalillo-county_new-mexico": {
+                    "bbox": {
+                        "top": "35.220",
+                        "left": "-107.196",
+                        "bottom": "34.869",
+                        "right": "-106.150"
                     }
                 },
                 "birmingham_alabama": {
