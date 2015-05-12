@@ -2975,6 +2975,14 @@
                         "right": "-68.364"
                     }
                 },
+                "juneau_alaska": {
+                    "bbox": {
+                        "top": "58.982",
+                        "left": "-135.200",
+                        "bottom": "57.809",
+                        "right": "-133.030"
+                    }
+                },
                 "kamloops_canada": {
                     "bbox": {
                         "top": "50.870",
