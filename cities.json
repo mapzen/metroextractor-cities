@@ -2405,6 +2405,14 @@
                         "right": "56.887"
                     }
                 },
+		"fallujah_iraq": {
+		    "bbox": {
+			"top": "33.486",
+			"left": "43.522",
+			"bottom": "33.246",
+			"right": "44.013"
+		    }
+		},
                 "gaza_palestine": {
                     "bbox": {
                         "top": "31.667",
