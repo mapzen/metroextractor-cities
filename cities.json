@@ -2609,10 +2609,10 @@
                 },
 		"barnstable_massachusetts": {
 		    "bbox": {
-			"top": "41.739181",
-			"left": "-70.382270",
-			"bottom": "41.608130",
-			"right": "-70.216603"
+			"top": "41.739",
+			"left": "-70.382",
+			"bottom": "41.608",
+			"right": "-70.216"
 		    }
 		},
                 "bernalillo-county_new-mexico": {
