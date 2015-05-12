@@ -668,10 +668,10 @@
                 },
 		"kochi_india": {
 		    "bbox": {
-			"top": "10.0906",
-			"left": "76.1703",
-			"bottom": "9.7847",
-			"right": "76.3893"
+			"top": "10.091",
+			"left": "76.170",
+			"bottom": "9.785",
+			"right": "76.389"
 		    }
 		},
                 "koh-samui_thailand": {
