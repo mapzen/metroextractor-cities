@@ -3343,20 +3343,28 @@
                         "right": "-121.025"
                     }
                 },
-                "san-luis-obispo_california": {
-                    "bbox": {
-                        "top": "35.312",
-                        "left": "-120.723",
-                        "bottom": "35.233",
-                        "right": "-120.618"
-                    }
-                },
+		"san-jose_california": {
+		    "bbox": {
+			"top": "37.336991",
+			"left": "-121.904773",
+			"bottom": "37.323939",
+			"right": "-121.8760338"
+		    }
+		},
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
                         "left": "-66.301",
                         "right": "-65.817",
                         "bottom": "18.186"
+                    }
+                },
+                "san-luis-obispo_california": {
+                    "bbox": {
+                        "top": "35.312",
+                        "left": "-120.723",
+                        "bottom": "35.233",
+                        "right": "-120.618"
                     }
                 },
                 "santa-barbara_california": {
