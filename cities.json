@@ -2679,6 +2679,14 @@
                         "right": "-70.923"
                     }
                 },
+                "brampton_ontario_canada": {
+                    "bbox": {
+                        "top": "43.848",
+                        "left": "-79.889",
+                        "bottom": "43.602",
+                        "right": "-79.630"
+                    }
+                },
                 "calgary_canada": {
                     "bbox": {
                         "top": "51.353",
