@@ -1000,8 +1000,15 @@
                         "left": "106.344",
                         "bottom": "47.696",
                         "right": "107.430"
+                    }  
+                },
+		"ulyanovsk_russia": {
+                    "bbox": {
+                        "top": "54.679",
+                        "left": "47.521",
+                        "bottom": "53.780",
+                        "right": "49.886"
                     }
-                    
                 },
                 "vientiane_laos": {
                     "bbox": {
@@ -1822,14 +1829,6 @@
                         "left": "24.542",
                         "bottom": "59.322",
                         "right": "24.951"
-                    }
-                },
-                "ulyanovsk_russia": {
-                    "bbox": {
-                        "top": "54.679",
-                        "left": "47.521",
-                        "bottom": "53.780",
-                        "right": "49.886"
                     }
                 },
                 "vienna-bratislava_austria": {
