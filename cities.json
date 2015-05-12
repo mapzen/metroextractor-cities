@@ -1493,6 +1493,14 @@
                         "right": "4.784"
                     }
                 },
+		"rouen_france": {
+		    "bbox": {
+			"top": "49.494",
+			"left": "1.025",
+			"bottom": "49.365",
+			"right": "1.258"
+		    }
+		},
                 "reading_england": {
                     "bbox": {
                         "top": "51.505",
