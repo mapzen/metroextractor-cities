@@ -2203,6 +2203,14 @@
                         "right": "13.845"
                     }
                 },
+		"pisa_italy": {
+		    "bbox": {
+			"top": "43.737",
+			"left": "10.356",
+			"bottom": "43.670",
+			"right": "10.444"
+		    }
+		},
                 "pistoia_italy": {
                     "bbox": {
                         "top": "44.102",
