@@ -746,12 +746,20 @@
                         "right": "112.611"
                     }
                 },
-                "manila_phillipines": {
+                 "manila_phillipines": {
                     "bbox": {
                         "top": "14.900",
                         "left": "120.885",
                         "bottom": "14.327",
                         "right": "121.200"
+                    }
+                },
+                "mandalay_myanmar": {
+                    "bbox": {
+                        "top": "22.034",
+                        "left": "96.048",
+                        "bottom": "21.871",
+                        "right": "96.150"
                     }
                 },
                 "moscow_russia": {
