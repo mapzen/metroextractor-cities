@@ -1389,20 +1389,20 @@
                         "right": "5.776"
                     }
                 },
+                "metz_france": {
+                    "bbox": {
+                        "top": "49.159",
+                        "left": "6.056",
+                        "bottom": "49.053",
+                        "right": "6.349"
+                    }
+                },
                 "montbrison_france": {
                     "bbox": {
                         "top": "45.627",
                         "left": "4.042",
                         "bottom": "45.591",
                         "right": "4.088"
-                    }
-                },
-                "nuremberg_germany": {
-                    "bbox": {
-                        "top": "49.757",
-                        "left": "10.697",
-                        "bottom": "49.219",
-                        "right": "11.339"
                     }
                 },
                 "monaco_france": {
@@ -1460,7 +1460,15 @@
                         "bottom": "52.877",
                         "right": "-1.070"
                     }
-                },                
+                }, 
+                "nuremberg_germany": {
+                    "bbox": {
+                        "top": "49.757",
+                        "left": "10.697",
+                        "bottom": "49.219",
+                        "right": "11.339"
+                    }
+                },               
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
