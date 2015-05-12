@@ -1863,6 +1863,14 @@
                         "bottom": "50.877",
                         "right": "17.363"
                     }
+                },
+                "zagreb_croatia": {
+                    "bbox": {
+                        "top": "45.848",
+                        "left": "15.810",
+                        "bottom": "45.740",
+                        "right": "16.151"
+                    }
                 }
             }
         },
@@ -2226,6 +2234,14 @@
                         "left": "11.629",
                         "bottom": "45.123",
                         "right": "12.735"
+                    }
+                },
+                "bologna_italy": {
+                    "bbox": {
+                        "top": "44.668",
+                        "left": "10.998",
+                        "bottom": "44.337",
+                        "right": "11.817"
                     }
                 },
                 "vigo_spain": {
@@ -2698,9 +2714,9 @@
                 },
                 "detroit_michigan": {
                     "bbox": {
-                        "top": "42.811",
-                        "left": "-83.875",
-                        "bottom": "41.836",
+                        "top": "43.168",
+                        "left": "-84.158",
+                        "bottom": "41.723",
                         "right": "-82.375"
                     }
                 },
@@ -3700,6 +3716,14 @@
                         "left": "-59.258",
                         "bottom": "-35.139",
                         "right": "-57.833"
+                    }
+                },
+                "bahia-blanca_argentina": {
+                    "bbox": {
+                        "top": "-38.608",
+                        "left": "-62.652",
+                        "bottom": "-38.964",
+                        "right": "-61.845"
                     }
                 },
                 "caracas_venezuela": {
