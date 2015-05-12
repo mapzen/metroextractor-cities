@@ -3773,6 +3773,14 @@
                         "right": "-61.845"
                     }
                 },
+                "cordoba_argentina": {
+                    "bbox": {
+                        "top": "-31.256",
+                        "left": "-64.373",
+                        "bottom": "-31.534",
+                        "right": "-63.995"
+                    }
+                }, 
                 "caracas_venezuela": {
                     "bbox": {
                         "top": "10.645",
