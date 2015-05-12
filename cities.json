@@ -200,6 +200,14 @@
                         "right": "28.542"
                     }
                 },
+                "juba_south-sudan": {
+                    "bbox": {
+                        "top": "4.928",
+                        "left": "31.491",
+                        "bottom": "4.786",
+                        "right": "31.653"
+                    }
+                },
                 "kano_nigeria": {
                     "bbox": {
                         "top": "12.082",
