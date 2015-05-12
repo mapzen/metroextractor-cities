@@ -200,6 +200,14 @@
                         "right": "28.542"
                     }
                 },
+                "juba_south-sudan": {
+                    "bbox": {
+                        "top": "4.928",
+                        "left": "31.491",
+                        "bottom": "4.786",
+                        "right": "31.653"
+                    }
+                },
                 "kano_nigeria": {
                     "bbox": {
                         "top": "12.082",
@@ -2397,6 +2405,14 @@
                         "right": "56.887"
                     }
                 },
+		"fallujah_iraq": {
+		    "bbox": {
+			"top": "33.486",
+			"left": "43.522",
+			"bottom": "33.246",
+			"right": "44.013"
+		    }
+		},
                 "gaza_palestine": {
                     "bbox": {
                         "top": "31.667",
@@ -2669,6 +2685,14 @@
                         "left": "-71.191",
                         "bottom": "42.228",
                         "right": "-70.923"
+                    }
+                },
+                "brampton_ontario_canada": {
+                    "bbox": {
+                        "top": "43.848",
+                        "left": "-79.889",
+                        "bottom": "43.602",
+                        "right": "-79.630"
                     }
                 },
                 "calgary_canada": {
@@ -2949,6 +2973,14 @@
                         "left": "-68.652",
                         "bottom": "63.703",
                         "right": "-68.364"
+                    }
+                },
+                "juneau_alaska": {
+                    "bbox": {
+                        "top": "58.982",
+                        "left": "-135.200",
+                        "bottom": "57.809",
+                        "right": "-133.030"
                     }
                 },
                 "kamloops_canada": {
@@ -3635,10 +3667,10 @@
                 },
                 "cairns_australia": {
                     "bbox": {
-                        "top": "-16.773",
-                        "left": "145.515",
-                        "bottom": "-17.078",
-                        "right": "146.032"
+                        "top": "-16.732",
+                        "left": "145.606",
+                        "bottom": "-17.131",
+                        "right": "145.838"
                     }
                 },
                 "canberra_australia": {
