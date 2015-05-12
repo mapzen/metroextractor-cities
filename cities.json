@@ -343,6 +343,14 @@
                         "bottom": "12.256",
                         "right": "-1.397" 
                     }
+		},
+                "tamale_ghana": {
+                    "bbox": {
+                        "top": "9.483",
+                        "left": "-0.908",
+                        "bottom": "9.353",
+                        "right": "-0.773" 
+                    }
                 },
                 "tindouf_algeria": {
                     "bbox": {
@@ -666,6 +674,14 @@
                         "right": "120.838"
                     }
                 },
+		"kochi_india": {
+		    "bbox": {
+			"top": "10.091",
+			"left": "76.170",
+			"bottom": "9.785",
+			"right": "76.389"
+		    }
+		},
                 "koh-samui_thailand": {
                     "bbox": {
                         "top": "9.604",
@@ -1000,8 +1016,15 @@
                         "left": "106.344",
                         "bottom": "47.696",
                         "right": "107.430"
+                    }  
+                },
+		"ulyanovsk_russia": {
+                    "bbox": {
+                        "top": "54.679",
+                        "left": "47.521",
+                        "bottom": "53.780",
+                        "right": "49.886"
                     }
-                    
                 },
                 "vientiane_laos": {
                     "bbox": {
@@ -1164,6 +1187,14 @@
                         "left": "0.609",
                         "bottom": "51.743",
                         "right": "1.188"
+                    }
+                },
+                "derry_ireland": {
+                    "bbox": {
+                        "top": "55.043",
+                        "left": "-7.361",
+                        "bottom": "54.975",
+                        "right": "-7.271"
                     }
                 },
                 "dresden_germany": {
