@@ -1389,20 +1389,20 @@
                         "right": "5.776"
                     }
                 },
+                "metz_france": {
+                    "bbox": {
+                        "top": "49.159",
+                        "left": "6.056",
+                        "bottom": "49.053",
+                        "right": "6.349"
+                    }
+                },
                 "montbrison_france": {
                     "bbox": {
                         "top": "45.627",
                         "left": "4.042",
                         "bottom": "45.591",
                         "right": "4.088"
-                    }
-                },
-                "nuremberg_germany": {
-                    "bbox": {
-                        "top": "49.757",
-                        "left": "10.697",
-                        "bottom": "49.219",
-                        "right": "11.339"
                     }
                 },
                 "monaco_france": {
@@ -1460,7 +1460,15 @@
                         "bottom": "52.877",
                         "right": "-1.070"
                     }
-                },                
+                }, 
+                "nuremberg_germany": {
+                    "bbox": {
+                        "top": "49.757",
+                        "left": "10.697",
+                        "bottom": "49.219",
+                        "right": "11.339"
+                    }
+                },               
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
@@ -1493,6 +1501,14 @@
                         "right": "4.784"
                     }
                 },
+		"rouen_france": {
+		    "bbox": {
+			"top": "49.494",
+			"left": "1.025",
+			"bottom": "49.365",
+			"right": "1.258"
+		    }
+		},
                 "reading_england": {
                     "bbox": {
                         "top": "51.505",
@@ -2203,6 +2219,14 @@
                         "right": "13.845"
                     }
                 },
+		"pisa_italy": {
+		    "bbox": {
+			"top": "43.737",
+			"left": "10.356",
+			"bottom": "43.670",
+			"right": "10.444"
+		    }
+		},
                 "pistoia_italy": {
                     "bbox": {
                         "top": "44.102",
@@ -2599,20 +2623,28 @@
                         "right": "-115.439"
                     }
                 },
-                "bernalillo-county_new-mexico": {
-                    "bbox": {
-                        "top": "35.220",
-                        "left": "-107.196",
-                        "bottom": "34.869",
-                        "right": "-106.150"
-                    }
-                },
                 "bangor_maine": {
                     "bbox": {
                         "top": "44.864",
                         "left": "-68.871",
                         "bottom": "44.757",
                         "right": "-68.643"
+                    }
+                },
+		"barnstable_massachusetts": {
+		    "bbox": {
+			"top": "41.739",
+			"left": "-70.382",
+			"bottom": "41.608",
+			"right": "-70.216"
+		    }
+		},
+                "bernalillo-county_new-mexico": {
+                    "bbox": {
+                        "top": "35.220",
+                        "left": "-107.196",
+                        "bottom": "34.869",
+                        "right": "-106.150"
                     }
                 },
                 "birmingham_alabama": {
@@ -3343,20 +3375,28 @@
                         "right": "-121.025"
                     }
                 },
-                "san-luis-obispo_california": {
-                    "bbox": {
-                        "top": "35.312",
-                        "left": "-120.723",
-                        "bottom": "35.233",
-                        "right": "-120.618"
-                    }
-                },
+		"san-jose_california": {
+		    "bbox": {
+			"top": "37.337",
+			"left": "-121.905",
+			"bottom": "37.324",
+			"right": "-121.876"
+		    }
+		},
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
                         "left": "-66.301",
                         "right": "-65.817",
                         "bottom": "18.186"
+                    }
+                },
+                "san-luis-obispo_california": {
+                    "bbox": {
+                        "top": "35.312",
+                        "left": "-120.723",
+                        "bottom": "35.233",
+                        "right": "-120.618"
                     }
                 },
                 "santa-barbara_california": {
@@ -3757,6 +3797,14 @@
                         "right": "-61.845"
                     }
                 },
+                "cordoba_argentina": {
+                    "bbox": {
+                        "top": "-31.256",
+                        "left": "-64.373",
+                        "bottom": "-31.534",
+                        "right": "-63.995"
+                    }
+                }, 
                 "caracas_venezuela": {
                     "bbox": {
                         "top": "10.645",
