@@ -343,6 +343,14 @@
                         "bottom": "12.256",
                         "right": "-1.397" 
                     }
+		},
+                "tamale_ghana": {
+                    "bbox": {
+                        "top": "9.483",
+                        "left": "-0.908",
+                        "bottom": "9.353",
+                        "right": "-0.773" 
+                    }
                 },
                 "tindouf_algeria": {
                     "bbox": {
