@@ -1165,6 +1165,14 @@
                         "right": "9.259"
                     }
                 },
+                "bruges_belgium": {
+                    "bbox": {
+                        "top": "51.422",
+                        "left": "2.902",
+                        "bottom": "51.100",
+                        "right": "3.541"
+                    }
+                },
                 "brussels_belgium": {
                     "bbox": {
                     "top": "51.053",
