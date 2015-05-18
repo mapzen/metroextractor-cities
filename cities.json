@@ -1207,10 +1207,10 @@
                 },
                 "cuneo_italy": {
                     "bbox": {
-                        "top": "44.5308",
-                        "left": "7.3989",
-                        "bottom": "44.3081",
-                        "right": "7.7182"
+                        "top": "44.530",
+                        "left": "7.398",
+                        "bottom": "44.308",
+                        "right": "7.718"
                     }
                 },
                 "derry_ireland": {
