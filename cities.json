@@ -1205,6 +1205,14 @@
                         "right": "1.188"
                     }
                 },
+                "cuneo_italy": {
+                    "bbox": {
+                        "top": "44.5308",
+                        "left": "7.3989",
+                        "bottom": "44.3081",
+                        "right": "7.7182"
+                    }
+                },
                 "derry_ireland": {
                     "bbox": {
                         "top": "55.043",
