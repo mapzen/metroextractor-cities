@@ -3417,10 +3417,10 @@
                 },
 		"san-jose_california": {
 		    "bbox": {
-			"top": "37.337",
-			"left": "-121.905",
-			"bottom": "37.324",
-			"right": "-121.876"
+			"top": "37.125",
+			"left": "-122.046",
+			"bottom": "37.469",
+			"right": "-121.589"
 		    }
 		},
                 "san-juan_puerto-rico": {
