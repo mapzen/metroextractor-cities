@@ -2266,6 +2266,84 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "cagayan-de-oro_phillipines"
+      },
+      "bbox": [
+        124.497,
+        8.399,
+        124.84,
+        8.629
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.497,
+              8.629
+            ],
+            [
+              124.84,
+              8.629
+            ],
+            [
+              124.84,
+              8.399
+            ],
+            [
+              124.497,
+              8.399
+            ],
+            [
+              124.497,
+              8.629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cebu_phillipines"
+      },
+      "bbox": [
+        123.268,
+        9.388,
+        124.206,
+        11.373
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.268,
+              11.373
+            ],
+            [
+              124.206,
+              11.373
+            ],
+            [
+              124.206,
+              9.388
+            ],
+            [
+              123.268,
+              9.388
+            ],
+            [
+              123.268,
+              11.373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "chelyabinsk_russia"
       },
       "bbox": [
@@ -2500,45 +2578,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "dharamshala_india"
-      },
-      "bbox": [
-        76.123,
-        31.97,
-        76.701,
-        32.3
-      ],
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              76.123,
-              32.3
-            ],
-            [
-              76.701,
-              32.3
-            ],
-            [
-              76.701,
-              31.97
-            ],
-            [
-              76.123,
-              31.97
-            ],
-            [
-              76.123,
-              32.3
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "colombo_sri-lanka"
       },
       "bbox": [
@@ -2570,6 +2609,84 @@
             [
               79.756,
               7.236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "davao-city_phillipines"
+      },
+      "bbox": [
+        125.33,
+        6.84,
+        125.804,
+        7.392
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.33,
+              7.392
+            ],
+            [
+              125.804,
+              7.392
+            ],
+            [
+              125.804,
+              6.84
+            ],
+            [
+              125.33,
+              6.84
+            ],
+            [
+              125.33,
+              7.392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dharamshala_india"
+      },
+      "bbox": [
+        76.123,
+        31.97,
+        76.701,
+        32.3
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.123,
+              32.3
+            ],
+            [
+              76.701,
+              32.3
+            ],
+            [
+              76.701,
+              31.97
+            ],
+            [
+              76.123,
+              31.97
+            ],
+            [
+              76.123,
+              32.3
             ]
           ]
         ]
@@ -6985,6 +7102,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nancy_france"
+      },
+      "bbox": [
+        6.097,
+        48.633,
+        6.31,
+        48.753
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.097,
+              48.753
+            ],
+            [
+              6.31,
+              48.753
+            ],
+            [
+              6.31,
+              48.633
+            ],
+            [
+              6.097,
+              48.633
+            ],
+            [
+              6.097,
+              48.753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nantes_france"
       },
       "bbox": [
@@ -10214,6 +10370,45 @@
             [
               -9.634,
               39.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "perpignan_france"
+      },
+      "bbox": [
+        2.826,
+        42.649,
+        2.983,
+        42.749
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.826,
+              42.749
+            ],
+            [
+              2.983,
+              42.749
+            ],
+            [
+              2.983,
+              42.649
+            ],
+            [
+              2.826,
+              42.649
+            ],
+            [
+              2.826,
+              42.749
             ]
           ]
         ]
@@ -13810,45 +14005,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "richmond_virginia"
-      },
-      "bbox": [
-        -77.718,
-        37.373,
-        -77.215,
-        37.695
-      ],
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -77.718,
-              37.695
-            ],
-            [
-              -77.215,
-              37.695
-            ],
-            [
-              -77.215,
-              37.373
-            ],
-            [
-              -77.718,
-              37.373
-            ],
-            [
-              -77.718,
-              37.695
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "hampton-roads_virginia"
       },
       "bbox": [
@@ -15877,6 +16033,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "richmond_virginia"
+      },
+      "bbox": [
+        -77.718,
+        37.373,
+        -77.215,
+        37.695
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.718,
+              37.695
+            ],
+            [
+              -77.215,
+              37.695
+            ],
+            [
+              -77.215,
+              37.373
+            ],
+            [
+              -77.718,
+              37.373
+            ],
+            [
+              -77.718,
+              37.695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "rimouski_canada"
       },
       "bbox": [
@@ -16649,6 +16844,45 @@
             [
               -72.014,
               45.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sioux-city_iowa"
+      },
+      "bbox": [
+        -96.507,
+        42.367,
+        -96.283,
+        42.578
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.507,
+              42.578
+            ],
+            [
+              -96.283,
+              42.578
+            ],
+            [
+              -96.283,
+              42.367
+            ],
+            [
+              -96.507,
+              42.367
+            ],
+            [
+              -96.507,
+              42.578
             ]
           ]
         ]
