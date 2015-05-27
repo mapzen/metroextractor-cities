@@ -1165,7 +1165,6 @@
                         "right": "9.259"
                     }
                 },
-<<<<<<< HEAD
                 "bruges_belgium": {
                     "bbox": {
                         "top": "51.271",
@@ -1174,8 +1173,6 @@
                         "right": "3.296"
                     }
                 },
-=======
->>>>>>> parent of f692d20... Add Bruges, Belgium
                 "brussels_belgium": {
                     "bbox": {
                     "top": "51.053",
