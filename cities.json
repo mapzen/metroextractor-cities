@@ -482,6 +482,14 @@
                         "bottom": "34.956"
                     }
                 },
+                "cebu_phillipines": {
+                    "bbox": {
+                        "top": "11.373",
+                        "left": "123.268",
+                        "right": "124.206",
+                        "bottom": "9.388"
+                    }
+                },
                 "chelyabinsk_russia": {
                     "bbox": {
                         "top": "55.438",
