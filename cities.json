@@ -2951,14 +2951,6 @@
                         "right": "-71.311"
                     }
                 },
-                "richmond_virginia": {
-                    "bbox": {
-                        "top": "37.695",
-                        "left": "-77.718",
-                        "bottom": "37.373",
-                        "right": "-77.215"
-                    }
-                },
                 "hampton-roads_virginia": {
                     "bbox": {
                         "top": "37.208",
@@ -3375,6 +3367,14 @@
                         "right": "-119.506"
                     }
                 },
+                "richmond_virginia": {
+                    "bbox": {
+                        "top": "37.695",
+                        "left": "-77.718",
+                        "bottom": "37.373",
+                        "right": "-77.215"
+                    }
+                },
                 "rimouski_canada": {
                     "bbox": {
                         "top": "48.494",
@@ -3533,6 +3533,14 @@
                         "left": "-72.014",
                         "bottom": "45.343",
                         "right": "-71.792"
+                    }
+                },
+                "sioux-city_iowa": {
+                    "bbox": {
+                        "top": "42.578",
+                        "left": "-96.507",
+                        "bottom": "42.367",
+                        "right": "-96.283"
                     }
                 },
                 "springfield_missouri": {
