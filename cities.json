@@ -482,6 +482,22 @@
                         "bottom": "34.956"
                     }
                 },
+                "cagayan-de-oro_phillipines": {
+                    "bbox": {
+                        "top": "8.629",
+                        "left": "124.497",
+                        "right": "124.840",
+                        "bottom": "8.399"
+                    }
+                },
+                "cebu_phillipines": {
+                    "bbox": {
+                        "top": "11.373",
+                        "left": "123.268",
+                        "right": "124.206",
+                        "bottom": "9.388"
+                    }
+                },
                 "chelyabinsk_russia": {
                     "bbox": {
                         "top": "55.438",
@@ -530,20 +546,28 @@
                         "right": "77.045"
                     }
                 },
-                "dharamshala_india": {
-                    "bbox": {
-                        "top": "32.300",
-                        "left": "76.123",
-                        "bottom": "31.970",
-                        "right": "76.701"
-                    }
-                },
                 "colombo_sri-lanka": {
                     "bbox": {
                         "top": "7.236",
                         "left": "79.756",
                         "bottom": "6.737",
                         "right": "80.385"
+                    }
+                },
+                "davao-city_phillipines": {
+                    "bbox": {
+                        "top": "7.392",
+                        "left": "125.330",
+                        "bottom": "6.840",
+                        "right": "125.804"
+                    }
+                },
+                "dharamshala_india": {
+                    "bbox": {
+                        "top": "32.300",
+                        "left": "76.123",
+                        "bottom": "31.970",
+                        "right": "76.701"
                     }
                 },
                 "dhaka_bangladesh": {
@@ -1461,6 +1485,14 @@
                         "right": "12.178"
                     }
                 },
+                "nancy_france": {
+                    "bbox": {
+                        "top": "48.753",
+                        "left": "6.097",
+                        "bottom": "48.633",
+                        "right": "6.310"
+                    }
+                },
                 "nantes_france": {
                     "bbox": {
                         "top": "47.407",
@@ -2169,6 +2201,14 @@
                         "left": "-9.634",
                         "bottom": "38.358",
                         "right": "-8.458"
+                    }
+                },
+                "perpignan_france": {
+                    "bbox": {
+                        "top": "42.749",
+                        "left": "2.826",
+                        "bottom": "42.649",
+                        "right": "2.983"
                     }
                 },
                 "porto_portugal": {
@@ -2927,14 +2967,6 @@
                         "right": "-71.311"
                     }
                 },
-                "richmond_virginia": {
-                    "bbox": {
-                        "top": "37.695",
-                        "left": "-77.718",
-                        "bottom": "37.373",
-                        "right": "-77.215"
-                    }
-                },
                 "hampton-roads_virginia": {
                     "bbox": {
                         "top": "37.208",
@@ -3351,6 +3383,14 @@
                         "right": "-119.506"
                     }
                 },
+                "richmond_virginia": {
+                    "bbox": {
+                        "top": "37.695",
+                        "left": "-77.718",
+                        "bottom": "37.373",
+                        "right": "-77.215"
+                    }
+                },
                 "rimouski_canada": {
                     "bbox": {
                         "top": "48.494",
@@ -3509,6 +3549,14 @@
                         "left": "-72.014",
                         "bottom": "45.343",
                         "right": "-71.792"
+                    }
+                },
+                "sioux-city_iowa": {
+                    "bbox": {
+                        "top": "42.578",
+                        "left": "-96.507",
+                        "bottom": "42.367",
+                        "right": "-96.283"
                     }
                 },
                 "springfield_missouri": {
