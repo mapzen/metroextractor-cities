@@ -1541,14 +1541,6 @@
                         "right": "2.911"
                     }
                 },
-                "perpignan_france": {
-                    "bbox": {
-                        "top": "42.749",
-                        "left": "2.826",
-                        "bottom": "42.649",
-                        "right": "2.983"
-                    }
-                },
                 "poitiers_france": {
                     "bbox": {
                         "top" : "46.691",
@@ -2209,6 +2201,14 @@
                         "left": "-9.634",
                         "bottom": "38.358",
                         "right": "-8.458"
+                    }
+                },
+                "perpignan_france": {
+                    "bbox": {
+                        "top": "42.749",
+                        "left": "2.826",
+                        "bottom": "42.649",
+                        "right": "2.983"
                     }
                 },
                 "porto_portugal": {
