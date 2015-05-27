@@ -482,6 +482,14 @@
                         "bottom": "34.956"
                     }
                 },
+                "cagayan-de-oro_phillipines": {
+                    "bbox": {
+                        "top": "8.629",
+                        "left": "124.840",
+                        "right": "124.497",
+                        "bottom": "8.399"
+                    }
+                },
                 "cebu_phillipines": {
                     "bbox": {
                         "top": "11.373",
