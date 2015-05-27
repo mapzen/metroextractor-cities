@@ -538,20 +538,28 @@
                         "right": "77.045"
                     }
                 },
-                "dharamshala_india": {
-                    "bbox": {
-                        "top": "32.300",
-                        "left": "76.123",
-                        "bottom": "31.970",
-                        "right": "76.701"
-                    }
-                },
                 "colombo_sri-lanka": {
                     "bbox": {
                         "top": "7.236",
                         "left": "79.756",
                         "bottom": "6.737",
                         "right": "80.385"
+                    }
+                },
+                "davao-city_phillipines": {
+                    "bbox": {
+                        "top": "7.392",
+                        "left": "125.330",
+                        "bottom": "6.840",
+                        "right": "125.804"
+                    }
+                },
+                "dharamshala_india": {
+                    "bbox": {
+                        "top": "32.300",
+                        "left": "76.123",
+                        "bottom": "31.970",
+                        "right": "76.701"
                     }
                 },
                 "dhaka_bangladesh": {
