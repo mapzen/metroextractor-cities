@@ -1485,6 +1485,14 @@
                         "right": "12.178"
                     }
                 },
+                "nancy_france": {
+                    "bbox": {
+                        "top": "48.753",
+                        "left": "6.097",
+                        "bottom": "48.633",
+                        "right": "6.310"
+                    }
+                },
                 "nantes_france": {
                     "bbox": {
                         "top": "47.407",
