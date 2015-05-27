@@ -1165,6 +1165,14 @@
                         "right": "9.259"
                     }
                 },
+                "bruges_belgium": {
+                    "bbox": {
+                        "top": "51.271",
+                        "left": "3.127",
+                        "bottom": "51.144",
+                        "right": "3.296"
+                    }
+                },
                 "brussels_belgium": {
                     "bbox": {
                     "top": "51.053",
@@ -1203,6 +1211,14 @@
                         "left": "0.609",
                         "bottom": "51.743",
                         "right": "1.188"
+                    }
+                },
+                "cuneo_italy": {
+                    "bbox": {
+                        "top": "44.530",
+                        "left": "7.398",
+                        "bottom": "44.308",
+                        "right": "7.718"
                     }
                 },
                 "derry_ireland": {
@@ -3417,10 +3433,10 @@
                 },
 		"san-jose_california": {
 		    "bbox": {
-			"top": "37.337",
-			"left": "-121.905",
-			"bottom": "37.324",
-			"right": "-121.876"
+			"top": "37.469",
+			"left": "-122.046",
+			"bottom": "37.125",
+			"right": "-121.589"
 		    }
 		},
                 "san-juan_puerto-rico": {
