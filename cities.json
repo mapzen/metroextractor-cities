@@ -2991,6 +2991,14 @@
                         "right": "-79.614"
                     }
                 },
+                "harrisburg_pennsylvania": {
+                    "bbox": {
+                        "top": "40.362",
+                        "left": "-77.070",
+                        "bottom": "40.179",
+                        "right": "-76.709"
+                    }
+                },
                 "honolulu_hawaii": {
                     "bbox": {
                         "top": "21.781",
