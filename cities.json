@@ -2744,6 +2744,14 @@
                         "right": "-95.757"
                     }
                 },
+                "orlando_florida": {
+                    "bbox": {
+                        "top": "28.610",
+                        "left": "-81.516",
+                        "bottom": "28.358",
+                        "right": "-81.221"
+                    }
+                },
                 "ottawa_canada": {
                     "bbox": {
                         "top": "45.598",
