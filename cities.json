@@ -2163,6 +2163,14 @@
                         "right": "-3.134"
                     }
                 },
+                "donostia-san-sebastian_spain": {
+                    "bbox": {
+                    	"top": "43.352",
+                    	"left": "-2.062",
+                    	"bottom": "43.275",
+                    	"right": "-1.888"
+                    }	
+                },
                 "florence_italy": {
                     "bbox": {
                         "top": "43.983",
