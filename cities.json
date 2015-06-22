@@ -2107,6 +2107,14 @@
                         "right": "8.318"
                     }
                 },
+                "avila_spain": {
+                    "bbox": {
+                        "top": "40.8",
+                        "left": "-4.9",
+                        "bottom": "40.50",
+                        "right": "-4.4"
+                    }
+                },
                 "barcelona_spain": {
                     "bbox": {
                         "top": "41.533",
