@@ -2107,6 +2107,14 @@
                         "right": "8.318"
                     }
                 },
+                "avila_spain": {
+                    "bbox": {
+                        "top": "40.681",
+                        "left": "-4.745",
+                        "bottom": "40.627",
+                        "right": "-4.640"
+                    }
+                },
                 "barcelona_spain": {
                     "bbox": {
                         "top": "41.533",
@@ -2162,6 +2170,14 @@
                         "bottom": "42.753",
                         "right": "-3.134"
                     }
+                },
+                "donostia-san-sebastian_spain": {
+                    "bbox": {
+                    	"top": "43.352",
+                    	"left": "-2.062",
+                    	"bottom": "43.275",
+                    	"right": "-1.888"
+                    }	
                 },
                 "florence_italy": {
                     "bbox": {
@@ -2991,6 +3007,14 @@
                         "right": "-79.614"
                     }
                 },
+                "harrisburg_pennsylvania": {
+                    "bbox": {
+                        "top": "40.362",
+                        "left": "-77.070",
+                        "bottom": "40.179",
+                        "right": "-76.709"
+                    }
+                },
                 "honolulu_hawaii": {
                     "bbox": {
                         "top": "21.781",
@@ -3269,6 +3293,14 @@
                         "left": "-96.275",
                         "bottom": "41.079",
                         "right": "-95.757"
+                    }
+                },
+                "orlando_florida": {
+                    "bbox": {
+                        "top": "28.610",
+                        "left": "-81.516",
+                        "bottom": "28.358",
+                        "right": "-81.221"
                     }
                 },
                 "ottawa_canada": {
@@ -3661,6 +3693,14 @@
                         "left":"-135.217",
                         "bottom":"60.625",
                         "right":"-134.918"
+                    }
+                },
+                "wichita_kansas": {
+                    "bbox": {
+                        "top": "38.117",
+                        "left": "-97.872",
+                        "bottom": "37.231",
+                        "right": "-96.842"
                     }
                 },
                 "windsor_canada":{
