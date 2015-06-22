@@ -3679,6 +3679,14 @@
                         "right":"-134.918"
                     }
                 },
+                "wichita_kansas": {
+                    "bbox": {
+                        "top": "38.1173",
+                        "left": "-97.8717",
+                        "bottom": "37.2314",
+                        "right": "-96.8417"
+                    }
+                },
                 "windsor_canada":{
                     "bbox":{
                         "top":"42.348",
