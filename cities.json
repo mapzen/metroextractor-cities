@@ -1189,6 +1189,14 @@
                         "right": "9.259"
                     }
                 },
+                "brighton_england": {
+                    "bbox": {
+                        "top": "50.882767",
+                        "left": " -0.251329",
+                        "bottom": "50.775207",
+                        "right": "-0.047396"
+                    }
+                },
                 "bruges_belgium": {
                     "bbox": {
                         "top": "51.271",
