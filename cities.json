@@ -1565,6 +1565,14 @@
                         "right": "10.875"
                     }
                 },
+                "oxford_england": {
+                    "bbox": {
+                        "top": "51.828034",
+                        "left": "-1.402685",
+                        "bottom": "51.698417",
+                        "right": "-1.143133"
+                    }
+                },
                 "rotterdam_netherlands": {
                     "bbox": {
                         "top": "52.109",
