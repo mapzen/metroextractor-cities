@@ -1189,6 +1189,14 @@
                         "right": "9.259"
                     }
                 },
+                "brighton_england": {
+                    "bbox": {
+                        "top": "50.883",
+                        "left": "-0.251",
+                        "bottom": "50.775",
+                        "right": "-0.047"
+                    }
+                },
                 "bruges_belgium": {
                     "bbox": {
                         "top": "51.271",
@@ -1203,6 +1211,14 @@
                     "left": "3.981",
                     "bottom": "50.645",
                     "right": "4.761"
+                  }
+                },
+                "cambridge_england": {
+                    "bbox": {
+                    "top": "52.243",
+                    "left": "0.059",
+                    "bottom": "52.175",
+                    "right": "0.168"
                   }
                 },
                 "cardiff-newport-bristol-bath_england": {
@@ -1557,6 +1573,14 @@
                         "right": "10.875"
                     }
                 },
+                "oxford_england": {
+                    "bbox": {
+                        "top": "51.828",
+                        "left": "-1.403",
+                        "bottom": "51.698",
+                        "right": "-1.143"
+                    }
+                },
                 "rotterdam_netherlands": {
                     "bbox": {
                         "top": "52.109",
@@ -1637,6 +1661,22 @@
                         "right": "1.779"
                     }
                 },
+                "turin_italy": {
+                    "bbox": {
+                        "top": "45.174",
+                        "left": "7.521",
+                        "bottom": "44.943",
+                        "right": "7.887"
+                    }
+                },
+                "verona_italy": {
+                    "bbox": {
+                        "top": "45.502",
+                        "left": "10.864",
+                        "bottom": "45.356",
+                        "right": "11.112"
+                     }
+                },
                 "winterthur_switzerland": {
                     "bbox": {
                         "top": "47.535",
@@ -1661,6 +1701,7 @@
                         "right": "6.349"
                     }
                 },
+
                 "zurich_switzerland": {
                     "bbox": {
                         "top": "47.533",
@@ -3453,6 +3494,14 @@
                         "left": "-91.010",
                         "bottom": "38.069",
                         "right": "-89.533"
+                    }
+                },
+                "saint-lucia": {
+                    "bbox": {
+                        "top": "14.115",
+                        "left": "-61.086",
+                        "bottom": "13.706",
+                        "right": "-60.870"
                     }
                 },
                 "saguenay_canada": {
