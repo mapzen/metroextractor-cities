@@ -1661,6 +1661,22 @@
                         "right": "1.779"
                     }
                 },
+                "turin_italy": {
+                    "bbox": {
+                        "top": "45.173898",
+                        "left": "7.521283",
+                        "bottom": "44.942535",
+                        "right": "7.886578"
+                    }
+                },
+                "verona_italy": {
+                    "bbox": {
+                        "top": "45.501739",
+                        "left": "10.864386",
+                        "bottom": "45.355728",
+                        "right": "11.112265"
+                     }
+                },
                 "winterthur_switzerland": {
                     "bbox": {
                         "top": "47.535",
@@ -1685,6 +1701,7 @@
                         "right": "6.349"
                     }
                 },
+
                 "zurich_switzerland": {
                     "bbox": {
                         "top": "47.533",
