@@ -1191,10 +1191,10 @@
                 },
                 "brighton_england": {
                     "bbox": {
-                        "top": "50.882767",
-                        "left": " -0.251329",
-                        "bottom": "50.775207",
-                        "right": "-0.047396"
+                        "top": "50.883",
+                        "left": " -0.251",
+                        "bottom": "50.775",
+                        "right": "-0.047"
                     }
                 },
                 "bruges_belgium": {
@@ -1215,10 +1215,10 @@
                 },
                 "cambridge_england": {
                     "bbox": {
-                    "top": "52.243326",
-                    "left": "0.059047",
-                    "bottom": "52.175162",
-                    "right": "0.168224"
+                    "top": "52.243",
+                    "left": "0.059",
+                    "bottom": "52.175",
+                    "right": "0.168"
                   }
                 },
                 "cardiff-newport-bristol-bath_england": {
@@ -1575,10 +1575,10 @@
                 },
                 "oxford_england": {
                     "bbox": {
-                        "top": "51.828034",
-                        "left": "-1.402685",
-                        "bottom": "51.698417",
-                        "right": "-1.143133"
+                        "top": "51.828",
+                        "left": "-1.403",
+                        "bottom": "51.698",
+                        "right": "-1.143"
                     }
                 },
                 "rotterdam_netherlands": {
@@ -1663,18 +1663,18 @@
                 },
                 "turin_italy": {
                     "bbox": {
-                        "top": "45.173898",
-                        "left": "7.521283",
-                        "bottom": "44.942535",
-                        "right": "7.886578"
+                        "top": "45.174",
+                        "left": "7.521",
+                        "bottom": "44.943",
+                        "right": "7.887"
                     }
                 },
                 "verona_italy": {
                     "bbox": {
-                        "top": "45.501739",
-                        "left": "10.864386",
-                        "bottom": "45.355728",
-                        "right": "11.112265"
+                        "top": "45.502",
+                        "left": "10.864",
+                        "bottom": "45.356",
+                        "right": "11.112"
                      }
                 },
                 "winterthur_switzerland": {
