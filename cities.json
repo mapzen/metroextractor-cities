@@ -1192,7 +1192,7 @@
                 "brighton_england": {
                     "bbox": {
                         "top": "50.883",
-                        "left": " -0.251",
+                        "left": "-0.251",
                         "bottom": "50.775",
                         "right": "-0.047"
                     }
