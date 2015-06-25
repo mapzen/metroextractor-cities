@@ -1213,6 +1213,14 @@
                     "right": "4.761"
                   }
                 },
+                "cambridge_england": {
+                    "bbox": {
+                    "top": "52.243326",
+                    "left": "0.059047",
+                    "bottom": "52.175162",
+                    "right": "0.168224"
+                  }
+                },
                 "cardiff-newport-bristol-bath_england": {
                     "bbox": {
                         "top": "51.730",
