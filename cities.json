@@ -4078,6 +4078,14 @@
                         "right": "-76.701"
                     }
                 },
+                "cusco_peru": {
+                    "bbox": {
+                    	"top":-13.4728
+                    	"left":-70.0470
+                    	"bottom":-13.5819,
+                    	"right":-71.855
+                    }
+                },
                 "martinique_french-caribbean": {
                     "bbox": {
                         "top": "14.879",
