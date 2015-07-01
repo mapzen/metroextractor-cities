@@ -4110,6 +4110,14 @@
                         "right": "-67.004"
                     }
                 },
+                "paramaribo_suriname": {
+                    "bbox": {
+                        "top": "-55.218",
+                        "left": "5.883",
+                        "bottom": "-55.174",
+                        "right": "5.868"
+                    }
+                },
                 "porto-alegre_brazil": {
                     "bbox": {
                         "top": "-29.471",
