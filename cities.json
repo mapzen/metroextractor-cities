@@ -482,7 +482,7 @@
                         "bottom": "34.956"
                     }
                 },
-                "cagayan-de-oro_phillipines": {
+                "cagayan-de-oro_philippines": {
                     "bbox": {
                         "top": "8.629",
                         "left": "124.497",
@@ -490,7 +490,7 @@
                         "bottom": "8.399"
                     }
                 },
-                "cebu_phillipines": {
+                "cebu_philippines": {
                     "bbox": {
                         "top": "11.373",
                         "left": "123.268",
@@ -554,7 +554,7 @@
                         "right": "80.385"
                     }
                 },
-                "davao-city_phillipines": {
+                "davao-city_philippines": {
                     "bbox": {
                         "top": "7.392",
                         "left": "125.330",
@@ -770,7 +770,7 @@
                         "right": "112.611"
                     }
                 },
-                 "manila_phillipines": {
+                 "manila_philippines": {
                     "bbox": {
                         "top": "14.900",
                         "left": "120.885",
