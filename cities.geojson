@@ -2266,7 +2266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "cagayan-de-oro_phillipines"
+        "name": "cagayan-de-oro_philippines"
       },
       "bbox": [
         124.497,
@@ -2305,7 +2305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "cebu_phillipines"
+        "name": "cebu_philippines"
       },
       "bbox": [
         123.268,
@@ -2617,7 +2617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "davao-city_phillipines"
+        "name": "davao-city_philippines"
       },
       "bbox": [
         125.33,
@@ -3670,7 +3670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "manila_phillipines"
+        "name": "manila_philippines"
       },
       "bbox": [
         120.885,
