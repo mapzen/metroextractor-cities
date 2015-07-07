@@ -3472,6 +3472,14 @@
                         "right": "-68.448"
                     }
                 },
+                "rochester_new-york": {
+                    "bbox": {
+                        "top": "43.213",
+                        "left": "-77.710",
+                        "bottom": "43.089",
+                        "right": "-77.528"
+                    }
+                },
                 "sacramento_california": {
                     "bbox": {
                         "top": "38.955",
