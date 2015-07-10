@@ -4254,6 +4254,14 @@
                         "right": "-64.622"
                     }
                 },
+                "teresina_brazil": {
+                    "bbox": {
+                        "top": "-4.787",
+                        "left": "-42.970",
+                        "bottom": "-5.586",
+                        "right": "-42.599"
+                    }
+                },
                 "trinidad_bolivia": {
                     "bbox": {
                         "top": "-14.768",
