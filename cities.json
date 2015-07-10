@@ -594,6 +594,14 @@
                         "right": "130.644"
                     }
                 },
+                "guangzhou_china": {
+                    "bbox": {
+                        "top": "23.981",
+                        "left": "112.181",
+                        "bottom": "22.533",
+                        "right": "114.972"
+                    }
+                },
                 "hanoi_vietnam": {
                     "bbox": {
                         "top": "21.098",
@@ -810,6 +818,14 @@
                         "right": "72.634"
                     }
                 },
+                "nanchang_china": {
+                    "bbox": {
+                        "top": "28.975",
+                        "left": "115.598",
+                        "bottom": "28.382",
+                        "right": "116.246"
+                    }
+                },
                 "nazareth_israel": {
                     "bbox": {
                         "top": "32.895",
@@ -984,6 +1000,14 @@
                         "left": "118.887",
                         "bottom": "29.477",
                         "right": "123.787"
+                    }
+                },
+                "shangrao_china": {
+                    "bbox": {
+                        "top": "28.553",
+                        "left": "117.820",
+                        "bottom": "28.347",
+                        "right": "118.082"
                     }
                 },
                 "singapore": {
@@ -1984,7 +2008,7 @@
                         "right": "17.494"
                     }
                 },
-                "vilnius_lithuania": {
+                "vinnytsia_ukraine": {
                     "bbox": {
                         "top": "49.281",
                         "left": "28.367",
@@ -1992,7 +2016,7 @@
                         "right": "28.574"
                     }
                 },
-                "vinnytsia_ukraine": {
+                "vilnius_lithuania": {
                     "bbox": {
                         "top": "54.796",
                         "left": "25.004",
@@ -2630,6 +2654,14 @@
                         "right": "43.508"
                     }
                 },
+                "nicosia_cyprus": {
+                    "bbox": {
+                        "top": "35.215",
+                        "left": "33.228",
+                        "bottom": "35.065",
+                        "right": "33.490"
+                    }
+                },
                 "ramadi_iraq": {
                     "bbox": {
                       "top": "33.440",
@@ -2644,6 +2676,14 @@
                         "left": "46.227",
                         "bottom": "24.292",
                         "right": "47.202"
+                    }
+                },
+                "sana'a_yemen": {
+                    "bbox": {
+                        "top": "15.534",
+                        "left": "43.938",
+                        "bottom": "15.152",
+                        "right": "44.462"
                     }
                 },
                 "tashkent_uzbekistan": {
@@ -3472,6 +3512,14 @@
                         "right": "-68.448"
                     }
                 },
+                "rochester_new-york": {
+                    "bbox": {
+                        "top": "43.213",
+                        "left": "-77.710",
+                        "bottom": "43.089",
+                        "right": "-77.528"
+                    }
+                },
                 "sacramento_california": {
                     "bbox": {
                         "top": "38.955",
@@ -4054,6 +4102,22 @@
                         "right": "-48.799"
                     }
                 },
+                "cusco_peru": {
+                    "bbox": {
+                    	"top":-13.473,
+                    	"right":-70.047,
+                    	"bottom":-13.582,
+                    	"left":-71.855
+                    }
+                },
+                "fortaleza_brazil": {
+                    "bbox": {
+                        "top": "-3.688",
+                        "left": "-38.636",
+                        "bottom": "-3.889",
+                        "right": "-38.401"
+                    }
+                },
                 "guayaquil_ecuador": {
                     "bbox": {
                         "top": "-2.018",
@@ -4108,6 +4172,14 @@
                         "left": "-67.219",
                         "bottom": "-18.049",
                         "right": "-67.004"
+                    }
+                },
+                "paramaribo_suriname": {
+                    "bbox": {
+                        "left": "-55.218",
+                        "bottom": "5.868",
+                        "right": "-55.174",
+                        "top": "5.883"
                     }
                 },
                 "porto-alegre_brazil": {
@@ -4204,6 +4276,14 @@
                         "left": "-64.843",
                         "bottom": "-21.632",
                         "right": "-64.622"
+                    }
+                },
+                "teresina_brazil": {
+                    "bbox": {
+                        "top": "-4.787",
+                        "left": "-42.970",
+                        "bottom": "-5.586",
+                        "right": "-42.599"
                     }
                 },
                 "trinidad_bolivia": {
