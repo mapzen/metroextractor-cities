@@ -2812,6 +2812,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "guangzhou_china"
+      },
+      "bbox": [
+        112.181,
+        22.533,
+        114.972,
+        23.981
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.181,
+              23.981
+            ],
+            [
+              114.972,
+              23.981
+            ],
+            [
+              114.972,
+              22.533
+            ],
+            [
+              112.181,
+              22.533
+            ],
+            [
+              112.181,
+              23.981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "hanoi_vietnam"
       },
       "bbox": [
@@ -3865,6 +3904,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nanchang_china"
+      },
+      "bbox": [
+        115.598,
+        28.382,
+        116.246,
+        28.975
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.598,
+              28.975
+            ],
+            [
+              116.246,
+              28.975
+            ],
+            [
+              116.246,
+              28.382
+            ],
+            [
+              115.598,
+              28.382
+            ],
+            [
+              115.598,
+              28.975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "nazareth_israel"
       },
       "bbox": [
@@ -4715,6 +4793,45 @@
             [
               118.887,
               32.472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shangrao_china"
+      },
+      "bbox": [
+        117.82,
+        28.347,
+        118.082,
+        28.553
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.82,
+              28.553
+            ],
+            [
+              118.082,
+              28.553
+            ],
+            [
+              118.082,
+              28.347
+            ],
+            [
+              117.82,
+              28.347
+            ],
+            [
+              117.82,
+              28.553
             ]
           ]
         ]
@@ -9403,7 +9520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "vilnius_lithuania"
+        "name": "vinnytsia_ukraine"
       },
       "bbox": [
         28.367,
@@ -9442,7 +9559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "vinnytsia_ukraine"
+        "name": "vilnius_lithuania"
       },
       "bbox": [
         25.004,
@@ -12406,6 +12523,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "nicosia_cyprus"
+      },
+      "bbox": [
+        33.228,
+        35.065,
+        33.49,
+        35.215
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.228,
+              35.215
+            ],
+            [
+              33.49,
+              35.215
+            ],
+            [
+              33.49,
+              35.065
+            ],
+            [
+              33.228,
+              35.065
+            ],
+            [
+              33.228,
+              35.215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "ramadi_iraq"
       },
       "bbox": [
@@ -12476,6 +12632,45 @@
             [
               46.227,
               25.098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sana'a_yemen"
+      },
+      "bbox": [
+        43.938,
+        15.152,
+        44.462,
+        15.534
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.938,
+              15.534
+            ],
+            [
+              44.462,
+              15.534
+            ],
+            [
+              44.462,
+              15.152
+            ],
+            [
+              43.938,
+              15.152
+            ],
+            [
+              43.938,
+              15.534
             ]
           ]
         ]
@@ -16462,6 +16657,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "rochester_new-york"
+      },
+      "bbox": [
+        -77.71,
+        43.089,
+        -77.528,
+        43.213
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.71,
+              43.213
+            ],
+            [
+              -77.528,
+              43.213
+            ],
+            [
+              -77.528,
+              43.089
+            ],
+            [
+              -77.71,
+              43.089
+            ],
+            [
+              -77.71,
+              43.213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "sacramento_california"
       },
       "bbox": [
@@ -19153,6 +19387,84 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "cusco_peru"
+      },
+      "bbox": [
+        -71.855,
+        -13.582,
+        -70.047,
+        -13.473
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.855,
+              -13.473
+            ],
+            [
+              -70.047,
+              -13.473
+            ],
+            [
+              -70.047,
+              -13.582
+            ],
+            [
+              -71.855,
+              -13.582
+            ],
+            [
+              -71.855,
+              -13.473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fortaleza_brazil"
+      },
+      "bbox": [
+        -38.636,
+        -3.889,
+        -38.401,
+        -3.688
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.636,
+              -3.688
+            ],
+            [
+              -38.401,
+              -3.688
+            ],
+            [
+              -38.401,
+              -3.889
+            ],
+            [
+              -38.636,
+              -3.889
+            ],
+            [
+              -38.636,
+              -3.688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "guayaquil_ecuador"
       },
       "bbox": [
@@ -19418,6 +19730,45 @@
             [
               -67.219,
               -17.869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "paramaribo_suriname"
+      },
+      "bbox": [
+        -55.218,
+        5.868,
+        -55.174,
+        5.883
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.218,
+              5.883
+            ],
+            [
+              -55.174,
+              5.883
+            ],
+            [
+              -55.174,
+              5.868
+            ],
+            [
+              -55.218,
+              5.868
+            ],
+            [
+              -55.218,
+              5.883
             ]
           ]
         ]
@@ -19886,6 +20237,45 @@
             [
               -64.843,
               -21.454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "teresina_brazil"
+      },
+      "bbox": [
+        -42.97,
+        -5.586,
+        -42.599,
+        -4.787
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.97,
+              -4.787
+            ],
+            [
+              -42.599,
+              -4.787
+            ],
+            [
+              -42.599,
+              -5.586
+            ],
+            [
+              -42.97,
+              -5.586
+            ],
+            [
+              -42.97,
+              -4.787
             ]
           ]
         ]
