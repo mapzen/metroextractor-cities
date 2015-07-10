@@ -1002,6 +1002,14 @@
                         "right": "123.787"
                     }
                 },
+                "shangrao_china": {
+                    "bbox": {
+                        "top": "28.553",
+                        "left": "117.820",
+                        "bottom": "28.347",
+                        "right": "118.082"
+                    }
+                },
                 "singapore": {
                     "bbox": {
                         "top": "1.823",
