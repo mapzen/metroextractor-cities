@@ -818,6 +818,14 @@
                         "right": "72.634"
                     }
                 },
+                "nanchang_china": {
+                    "bbox": {
+                        "top": "28.975",
+                        "left": "115.598",
+                        "bottom": "28.382",
+                        "right": "116.246"
+                    }
+                },
                 "nazareth_israel": {
                     "bbox": {
                         "top": "32.895",
