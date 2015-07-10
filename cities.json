@@ -2630,6 +2630,14 @@
                         "right": "43.508"
                     }
                 },
+                "nicosia_cyprus": {
+                    "bbox": {
+                        "top": "35.215",
+                        "left": "33.228",
+                        "bottom": "35.065",
+                        "right": "33.490"
+                    }
+                },
                 "ramadi_iraq": {
                     "bbox": {
                       "top": "33.440",
