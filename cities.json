@@ -594,6 +594,14 @@
                         "right": "130.644"
                     }
                 },
+                "guangzhou_china": {
+                    "bbox": {
+                        "top": "23.981",
+                        "left": "112.181",
+                        "bottom": "22.533",
+                        "right": "114.972"
+                    }
+                },
                 "hanoi_vietnam": {
                     "bbox": {
                         "top": "21.098",
@@ -4080,9 +4088,9 @@
                 },
                 "cusco_peru": {
                     "bbox": {
-                    	"top":-13.4728,
-                    	"right":-70.0470,
-                    	"bottom":-13.5819,
+                    	"top":-13.473,
+                    	"right":-70.047,
+                    	"bottom":-13.582,
                     	"left":-71.855
                     }
                 },
