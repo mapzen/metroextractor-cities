@@ -2646,6 +2646,14 @@
                         "right": "47.202"
                     }
                 },
+                "sana'a_yemen": {
+                    "bbox": {
+                        "top": "15.534",
+                        "left": "43.938",
+                        "bottom": "15.152",
+                        "right": "44.462"
+                    }
+                },
                 "tashkent_uzbekistan": {
                     "bbox": {
                         "top": "41.399",
