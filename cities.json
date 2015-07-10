@@ -4144,9 +4144,9 @@
                 },
                 "paramaribo_suriname": {
                     "bbox": {
-                        "left": "-55.174",
+                        "left": "-55.218",
                         "bottom": "5.868",
-                        "right": "-55.218",
+                        "right": "-55.174",
                         "top": "5.883"
                     }
                 },
