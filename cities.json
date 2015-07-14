@@ -4046,6 +4046,14 @@
                         "right": "-63.995"
                     }
                 }, 
+                "mendoza_argentina": {
+                    "bbox": {
+                        "top": "-32.575",
+                        "left": "-70.005",
+                        "bottom": "-34.927",
+                        "right": "-67.198"
+                    }
+                },
                 "caracas_venezuela": {
                     "bbox": {
                         "top": "10.645",
