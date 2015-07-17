@@ -1082,6 +1082,14 @@
                         "right": "121.379"
                     }
                 },
+                "tianjing_china": {
+                    "bbox": {
+                        "top": "39.779",
+                        "left": "116.528",
+                        "bottom": "38.378",
+                        "right": "118.531"
+                    }
+                },
                 "tokyo_japan": {
                     "bbox": {
                         "top": "36.558",
