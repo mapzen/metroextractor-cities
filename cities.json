@@ -818,6 +818,14 @@
                         "right": "72.634"
                     }
                 },
+                "nagoya_japan": {
+                    "bbox": {
+                        "top": "35.472",
+                        "left": "136.506",
+                        "bottom": "34.825",
+                        "right": "137.275"
+                    }
+                },
                 "nanchang_china": {
                     "bbox": {
                         "top": "28.975",
