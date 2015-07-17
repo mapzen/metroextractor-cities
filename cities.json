@@ -986,6 +986,14 @@
                         "right": "141.506"
                     }
                 },
+                "sendai_japan": {
+                    "bbox": {
+                        "top": "38.527",
+                        "left": "140.416",
+                        "bottom": "38.033",
+                        "right": "141.156"
+                    }
+                },
                 "seoul_south-korea": {
                     "bbox": {
                         "top": "37.980",
