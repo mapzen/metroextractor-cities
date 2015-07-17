@@ -842,6 +842,14 @@
                         "right": "116.246"
                     }
                 },
+                "nara_japan": {
+                    "bbox": {
+                        "top": "34.831",
+                        "left": "135.640",
+                        "bottom": "34.488",
+                        "right": "136.110"
+                    }
+                },
                 "nazareth_israel": {
                     "bbox": {
                         "top": "32.895",
