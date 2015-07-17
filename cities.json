@@ -714,6 +714,14 @@
                         "right": "120.838"
                     }
                 },
+		"kobe_japan": {
+		    "bbox": {
+			"top": "35.001",
+			"left": "134.821",
+			"bottom": "34.576",
+			"right": "135.425"
+		    }
+		},
 		"kochi_india": {
 		    "bbox": {
 			"top": "10.091",
@@ -818,12 +826,28 @@
                         "right": "72.634"
                     }
                 },
+                "nagoya_japan": {
+                    "bbox": {
+                        "top": "35.472",
+                        "left": "136.506",
+                        "bottom": "34.825",
+                        "right": "137.275"
+                    }
+                },
                 "nanchang_china": {
                     "bbox": {
                         "top": "28.975",
                         "left": "115.598",
                         "bottom": "28.382",
                         "right": "116.246"
+                    }
+                },
+                "nara_japan": {
+                    "bbox": {
+                        "top": "34.831",
+                        "left": "135.640",
+                        "bottom": "34.488",
+                        "right": "136.110"
                     }
                 },
                 "nazareth_israel": {
@@ -978,6 +1002,14 @@
                         "right": "141.506"
                     }
                 },
+                "sendai_japan": {
+                    "bbox": {
+                        "top": "38.527",
+                        "left": "140.416",
+                        "bottom": "38.033",
+                        "right": "141.156"
+                    }
+                },
                 "seoul_south-korea": {
                     "bbox": {
                         "top": "37.980",
@@ -1058,6 +1090,14 @@
                         "right": "121.379"
                     }
                 },
+                "tianjing_china": {
+                    "bbox": {
+                        "top": "39.779",
+                        "left": "116.528",
+                        "bottom": "38.378",
+                        "right": "118.531"
+                    }
+                },
                 "tokyo_japan": {
                     "bbox": {
                         "top": "36.558",
@@ -1113,6 +1153,14 @@
                         "left": "113.745",
                         "bottom": "30.079",
                         "right": "114.798"
+                    }
+                },
+                "yokohama_japan": {
+                    "bbox": {
+                        "top": "35.686",
+                        "left": "139.312",
+                        "bottom": "35.213",
+                        "right": "139.920"
                     }
                 }
             }
@@ -4046,6 +4094,14 @@
                         "right": "-63.995"
                     }
                 }, 
+                "mendoza_argentina": {
+                    "bbox": {
+                        "top": "-32.575",
+                        "left": "-70.005",
+                        "bottom": "-34.927",
+                        "right": "-67.198"
+                    }
+                },
                 "caracas_venezuela": {
                     "bbox": {
                         "top": "10.645",
