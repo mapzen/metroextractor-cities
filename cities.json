@@ -714,6 +714,14 @@
                         "right": "120.838"
                     }
                 },
+		"kobe_japan": {
+		    "bbox": {
+			"top": "35.001",
+			"left": "134.821",
+			"bottom": "34.576",
+			"right": "135.425"
+		    }
+		},
 		"kochi_india": {
 		    "bbox": {
 			"top": "10.091",
