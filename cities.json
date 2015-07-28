@@ -1181,6 +1181,14 @@
                         "right": "5.347"
                     }
                 },
+                "angers_france": {
+                    "bbox": {
+                        "top": "47.650",
+                        "left": "-0.805",
+                        "bottom": "47.319",
+                        "right": "-0.347"
+                    }
+                },
                 "antwerp_belgium": {
                     "bbox": {
                         "top": "51.385",
