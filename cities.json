@@ -1181,6 +1181,14 @@
                         "right": "5.347"
                     }
                 },
+                "annecy_france": {
+                    "bbox": {
+                        "top": "46.026",
+                        "left": "5.998",
+                        "bottom": "45.765",
+                        "right": "6.298"
+                    }
+                },
                 "antwerp_belgium": {
                     "bbox": {
                         "top": "51.385",
