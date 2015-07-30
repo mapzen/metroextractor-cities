@@ -946,6 +946,15 @@
                         "right": "105.056"
                     }
                 },
+                "pondicherry_india": {
+                	"bbox": {
+                		"top": "11.970",
+                		"left": "79.788",
+                		"bottom": "11.898",
+                		"right": "79.845"
+                		
+                	}
+                },
                 "pune_india": {
                     "bbox":{
                         "top": "18.771",
@@ -2831,6 +2840,14 @@
                         "bottom": "34.947",
                         "right": "-106.471"
                     }
+                },
+                "allentown_pennsylvania": {
+                	"bbox": {
+                		"top": "40.623",
+                		"left": "-75.543",
+                		"bottom": "40.550",
+                		"right": "-75.418"
+                	}
                 },
                 "atlanta_georgia": {
                     "bbox": {
