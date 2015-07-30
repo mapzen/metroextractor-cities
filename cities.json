@@ -786,6 +786,14 @@
                         "right": "112.611"
                     }
                 },
+                "manado_indonesia": {
+                    "bbox": {
+                        "top": "1.546",
+                        "left": "124.816",
+                        "bottom": "1.426",
+                        "right": "124.886"
+                    }
+                },
                  "manila_philippines": {
                     "bbox": {
                         "top": "14.900",
@@ -4025,14 +4033,6 @@
                         "left": "106.435",
                         "bottom": "-6.615",
                         "right": "107.160"
-                    }
-                },
-                "manado_indonesia": {
-                    "bbox": {
-                        "top": "1.546",
-                        "left": "124.816",
-                        "bottom": "1.426",
-                        "right": "124.886"
                     }
                 },
                 "melbourne_australia": {
