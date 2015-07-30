@@ -2080,6 +2080,14 @@
                         "right": "21.692"
                     }
                 },
+                "wieluń_poland": {
+                    "bbox": {
+                        "top": "51.249",
+                        "left": "18.532",
+                        "bottom": "51.201",
+                        "right": "18.606"
+                    }
+                },
                 "wroclaw_poland": {
                     "bbox": {
                         "top": "51.311",
