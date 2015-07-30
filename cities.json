@@ -786,6 +786,14 @@
                         "right": "112.611"
                     }
                 },
+                "manado_indonesia": {
+                    "bbox": {
+                        "top": "1.546",
+                        "left": "124.816",
+                        "bottom": "1.426",
+                        "right": "124.886"
+                    }
+                },
                  "manila_philippines": {
                     "bbox": {
                         "top": "14.900",
@@ -946,6 +954,15 @@
                         "right": "105.056"
                     }
                 },
+                "pondicherry_india": {
+                	"bbox": {
+                		"top": "11.970",
+                		"left": "79.788",
+                		"bottom": "11.898",
+                		"right": "79.845"
+                		
+                	}
+                },
                 "pune_india": {
                     "bbox":{
                         "top": "18.771",
@@ -1090,7 +1107,7 @@
                         "right": "121.379"
                     }
                 },
-                "tianjing_china": {
+                "tianjin_china": {
                     "bbox": {
                         "top": "39.779",
                         "left": "116.528",
@@ -1179,6 +1196,22 @@
                         "left": "4.465",
                         "bottom": "52.163",
                         "right": "5.347"
+                    }
+                },
+                "annecy_france": {
+                    "bbox": {
+                        "top": "46.026",
+                        "left": "5.998",
+                        "bottom": "45.765",
+                        "right": "6.298"
+                    }
+                },
+                "angers_france": {
+                    "bbox": {
+                        "top": "47.650",
+                        "left": "-0.805",
+                        "bottom": "47.319",
+                        "right": "-0.347"
                     }
                 },
                 "antwerp_belgium": {
@@ -1271,10 +1304,10 @@
                 },
                 "bruges_belgium": {
                     "bbox": {
-                        "top": "51.271",
-                        "left": "3.127",
-                        "bottom": "51.144",
-                        "right": "3.296"
+                        "top": "51.374",
+                        "left": "3.107",
+                        "bottom": "51.148",
+                        "right": "3.337"
                     }
                 },
                 "brussels_belgium": {
@@ -1435,6 +1468,14 @@
                         "left": "5.573",
                         "bottom": "45.113",
                         "right": "5.903"
+                    }
+                },
+                "gruissan_france": {
+                    "bbox": {
+                        "top": "43.149",
+                        "left": "3.023",
+                        "bottom": "43.050",
+                        "right": "3.152"
                     }
                 },
                 "hamburg_germany": {
@@ -2080,6 +2121,14 @@
                         "right": "21.692"
                     }
                 },
+                "wieluń_poland": {
+                    "bbox": {
+                        "top": "51.249",
+                        "left": "18.532",
+                        "bottom": "51.201",
+                        "right": "18.606"
+                    }
+                },
                 "wroclaw_poland": {
                     "bbox": {
                         "top": "51.311",
@@ -2442,6 +2491,14 @@
                         "left": "12.109",
                         "bottom": "41.578",
                         "right": "12.845"
+                    }
+                },
+                "san-sebastian_spain": {
+                    "bbox": {
+                        "top": "43.338",
+                        "left": "-2.087",
+                        "bottom": "43.218",
+                        "right": "-1.888"
                     }
                 },
                 "seville_spain": {
@@ -2815,6 +2872,14 @@
                         "bottom": "34.947",
                         "right": "-106.471"
                     }
+                },
+                "allentown_pennsylvania": {
+                	"bbox": {
+                		"top": "40.623",
+                		"left": "-75.543",
+                		"bottom": "40.550",
+                		"right": "-75.418"
+                	}
                 },
                 "atlanta_georgia": {
                     "bbox": {
@@ -4140,6 +4205,14 @@
                         "left": "-66.750",
                         "bottom": "-17.793",
                         "right": "-65.674"
+                    }
+                },
+                "concepcion_chile": {
+                    "bbox": {
+                        "top": "-33.824",
+                        "left": "-71.043",
+                        "bottom": "-36.578",
+                        "right": "-70.353"
                     }
                 },
                 "cumana_venezuela": {
