@@ -3986,6 +3986,14 @@
                         "right": "107.160"
                     }
                 },
+                "manado_indonesia": {
+                    "bbox": {
+                        "top": "1.546",
+                        "left": "124.816",
+                        "bottom": "1.426",
+                        "right": "124.886"
+                    }
+                },
                 "melbourne_australia": {
                     "bbox": {
                         "top": "-37.365",
