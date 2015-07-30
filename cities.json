@@ -1462,6 +1462,14 @@
                         "right": "5.903"
                     }
                 },
+                "gruissan_france": {
+                    "bbox": {
+                        "top": "43.149",
+                        "left": "3.023",
+                        "bottom": "43.050",
+                        "right": "3.152"
+                    }
+                },
                 "hamburg_germany": {
                     "bbox": {
                         "top": "53.833",
