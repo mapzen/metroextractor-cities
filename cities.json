@@ -2477,6 +2477,14 @@
                         "right": "12.845"
                     }
                 },
+                "san-sebastian_spain": {
+                    "bbox": {
+                        "top": "43.338",
+                        "left": "-2.087",
+                        "bottom": "43.218",
+                        "right": "-1.888"
+                    }
+                },
                 "seville_spain": {
                     "bbox": {
                         "top": "37.460",
