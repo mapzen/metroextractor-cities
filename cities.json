@@ -1366,6 +1366,14 @@
                         "right": "7.718"
                     }
                 },
+                "derby_england": {
+                    "bbox": {
+                        "top": "52.968",
+                        "left": "-1.557",
+                        "bottom": "52.861",
+                        "right": "-1.383"
+                    }
+                }, 
                 "derry_ireland": {
                     "bbox": {
                         "top": "55.043",
@@ -1526,6 +1534,14 @@
                         "right": "12.600"
                     }
                 },
+                "leicester_england": {
+                    "bbox": {
+                        "top": "52.692",
+                        "left": "-1.216",
+                        "bottom": "52.581",
+                        "right": "-1.046"
+                    }
+                }, 
                 "lille_france": {
                     "bbox": {
                         "top": "50.800",
