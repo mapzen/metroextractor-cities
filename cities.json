@@ -3185,6 +3185,14 @@
                         "right": "-75.918"
                     }
                 },
+                "haldimand_canada": {
+                    "bbox": {
+                        "top": "43.127",
+                        "left": "-80.132",
+                        "bottom": "42.801",
+                        "right": "-79.468"
+                    }
+                },
                 "halifax_canada": {
                     "bbox": {
                         "top": "44.809",
