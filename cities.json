@@ -1059,6 +1059,14 @@
                         "right": "118.082"
                     }
                 },
+                "shijiazhuang_china": {
+                    "bbox": {
+                        "top": "38.010",
+                        "left": "114.446",
+                        "bottom": "37.993",
+                        "right": "114.463"
+                    }
+                },
                 "singapore": {
                     "bbox": {
                         "top": "1.823",
