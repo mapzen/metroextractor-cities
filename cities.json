@@ -2525,6 +2525,14 @@
                         "right": "-1.888"
                     }
                 },
+                "santander_spain": {
+                    "bbox": {
+                        "top": "43.500",
+                        "left": "-3.886",
+                        "bottom": "43.383",
+                        "right": "-3.737"
+                    }
+                },
                 "seville_spain": {
                     "bbox": {
                         "top": "37.460",
