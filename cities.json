@@ -3553,6 +3553,14 @@
                         "right": "-75.052"
                     }
                 },
+                "palm-beach-county_florida": {
+                    "bbox": {
+                        "top": "26.971",
+                        "left": "-80.886",
+                        "bottom": "26.321",
+                        "right": "-79.974"
+                    }
+                },
                 "panama-city_panama": {
                     "bbox": {
                         "top": "9.260",
