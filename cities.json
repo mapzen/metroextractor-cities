@@ -1059,6 +1059,14 @@
                         "right": "118.082"
                     }
                 },
+                "shijiazhuang_china": {
+                    "bbox": {
+                        "top": "38.010",
+                        "left": "114.446",
+                        "bottom": "37.993",
+                        "right": "114.463"
+                    }
+                },
                 "singapore": {
                     "bbox": {
                         "top": "1.823",
@@ -1366,6 +1374,14 @@
                         "right": "7.718"
                     }
                 },
+                "derby_england": {
+                    "bbox": {
+                        "top": "52.968",
+                        "left": "-1.557",
+                        "bottom": "52.861",
+                        "right": "-1.383"
+                    }
+                }, 
                 "derry_ireland": {
                     "bbox": {
                         "top": "55.043",
@@ -1526,6 +1542,14 @@
                         "right": "12.600"
                     }
                 },
+                "leicester_england": {
+                    "bbox": {
+                        "top": "52.692",
+                        "left": "-1.216",
+                        "bottom": "52.581",
+                        "right": "-1.046"
+                    }
+                }, 
                 "lille_france": {
                     "bbox": {
                         "top": "50.800",
@@ -2501,6 +2525,14 @@
                         "right": "-1.888"
                     }
                 },
+                "santander_spain": {
+                    "bbox": {
+                        "top": "43.500",
+                        "left": "-3.886",
+                        "bottom": "43.383",
+                        "right": "-3.737"
+                    }
+                },
                 "seville_spain": {
                     "bbox": {
                         "top": "37.460",
@@ -2711,6 +2743,14 @@
                         "bottom": "21.005"
                     }
                 },
+		"thuwal_saudi-arabia": {
+		    "bbox": {
+			"top": "22.500",
+			"left": "39.050",
+			"bottom": "22.230",
+			"right": "39.200"
+		    }
+		},
                 "jerusalem_israel": {
                     "bbox": {
                         "top": "31.866",
@@ -3169,6 +3209,14 @@
                         "right": "-120.880"
                     }
                 },
+                "guadalajara_jalisco_mexico": {
+                    "bbox": {
+                        "top": "20.840",
+                        "left": "-103.508",
+                        "bottom": "20.440",
+                        "right": "-103.153"
+                    }
+                },
                 "providence_rhode-island": {
                     "bbox": {
                         "top": "41.881",
@@ -3183,6 +3231,14 @@
                         "left": "-76.663",
                         "bottom": "36.718",
                         "right": "-75.918"
+                    }
+                },
+                "haldimand_canada": {
+                    "bbox": {
+                        "top": "43.127",
+                        "left": "-80.132",
+                        "bottom": "42.801",
+                        "right": "-79.468"
                     }
                 },
                 "halifax_canada": {
@@ -3503,6 +3559,14 @@
                         "left": "-76.361",
                         "bottom": "44.927",
                         "right": "-75.052"
+                    }
+                },
+                "palm-beach-county_florida": {
+                    "bbox": {
+                        "top": "26.971",
+                        "left": "-80.886",
+                        "bottom": "26.321",
+                        "right": "-79.974"
                     }
                 },
                 "panama-city_panama": {
@@ -4209,10 +4273,10 @@
                 },
                 "concepcion_chile": {
                     "bbox": {
-                        "top": "-33.824",
-                        "left": "-71.043",
-                        "bottom": "-36.578",
-                        "right": "-70.353"
+                        "top": "-36.583",
+                        "left": "-73.271",
+                        "bottom": "-37.019",
+                        "right": "-72.887"
                     }
                 },
                 "cumana_venezuela": {
