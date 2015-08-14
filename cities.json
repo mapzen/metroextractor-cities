@@ -3169,12 +3169,12 @@
                         "right": "-120.880"
                     }
                 },
-                "guadalajara_jalisco": {
+                "guadalajara_jalisco_mexico": {
                     "bbox": {
                         "top": "20.840",
-                        "left": "-103.153",
+                        "left": "-103.508",
                         "bottom": "20.440",
-                        "right": "-103.508"
+                        "right": "-103.153"
                     }
                 },
                 "providence_rhode-island": {
