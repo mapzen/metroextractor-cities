@@ -2727,6 +2727,14 @@
                         "bottom": "21.005"
                     }
                 },
+		"thuwal_saudi-arabia": {
+		    "bbox": {
+			"top": "22.500",
+			"left": "39.050",
+			"bottom": "22.230",
+			"right": "39.200"
+		    }
+		},
                 "jerusalem_israel": {
                     "bbox": {
                         "top": "31.866",
