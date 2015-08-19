@@ -351,7 +351,7 @@
                         "bottom": "12.256",
                         "right": "-1.397" 
                     }
-		},
+        },
                 "tamale_ghana": {
                     "bbox": {
                         "top": "9.483",
@@ -714,22 +714,22 @@
                         "right": "120.838"
                     }
                 },
-		"kobe_japan": {
-		    "bbox": {
-			"top": "35.001",
-			"left": "134.821",
-			"bottom": "34.576",
-			"right": "135.425"
-		    }
-		},
-		"kochi_india": {
-		    "bbox": {
-			"top": "10.091",
-			"left": "76.170",
-			"bottom": "9.785",
-			"right": "76.389"
-		    }
-		},
+        "kobe_japan": {
+            "bbox": {
+            "top": "35.001",
+            "left": "134.821",
+            "bottom": "34.576",
+            "right": "135.425"
+            }
+        },
+        "kochi_india": {
+            "bbox": {
+            "top": "10.091",
+            "left": "76.170",
+            "bottom": "9.785",
+            "right": "76.389"
+            }
+        },
                 "koh-samui_thailand": {
                     "bbox": {
                         "top": "9.604",
@@ -955,13 +955,13 @@
                     }
                 },
                 "pondicherry_india": {
-                	"bbox": {
-                		"top": "11.970",
-                		"left": "79.788",
-                		"bottom": "11.898",
-                		"right": "79.845"
-                		
-                	}
+                    "bbox": {
+                        "top": "11.970",
+                        "left": "79.788",
+                        "bottom": "11.898",
+                        "right": "79.845"
+                        
+                    }
                 },
                 "pune_india": {
                     "bbox":{
@@ -1147,7 +1147,7 @@
                         "right": "107.430"
                     }  
                 },
-		"ulyanovsk_russia": {
+        "ulyanovsk_russia": {
                     "bbox": {
                         "top": "54.679",
                         "left": "47.521",
@@ -1726,14 +1726,14 @@
                         "right": "4.784"
                     }
                 },
-		"rouen_france": {
-		    "bbox": {
-			"top": "49.494",
-			"left": "1.025",
-			"bottom": "49.365",
-			"right": "1.258"
-		    }
-		},
+        "rouen_france": {
+            "bbox": {
+            "top": "49.494",
+            "left": "1.025",
+            "bottom": "49.365",
+            "right": "1.258"
+            }
+        },
                 "reading_england": {
                     "bbox": {
                         "top": "51.505",
@@ -2359,11 +2359,11 @@
                 },
                 "donostia-san-sebastian_spain": {
                     "bbox": {
-                    	"top": "43.352",
-                    	"left": "-2.062",
-                    	"bottom": "43.275",
-                    	"right": "-1.888"
-                    }	
+                        "top": "43.352",
+                        "left": "-2.062",
+                        "bottom": "43.275",
+                        "right": "-1.888"
+                    }   
                 },
                 "florence_italy": {
                     "bbox": {
@@ -2493,14 +2493,14 @@
                         "right": "13.845"
                     }
                 },
-		"pisa_italy": {
-		    "bbox": {
-			"top": "43.737",
-			"left": "10.356",
-			"bottom": "43.670",
-			"right": "10.444"
-		    }
-		},
+        "pisa_italy": {
+            "bbox": {
+            "top": "43.737",
+            "left": "10.356",
+            "bottom": "43.670",
+            "right": "10.444"
+            }
+        },
                 "pistoia_italy": {
                     "bbox": {
                         "top": "44.102",
@@ -2687,14 +2687,14 @@
                         "right": "56.887"
                     }
                 },
-		"fallujah_iraq": {
-		    "bbox": {
-			"top": "33.486",
-			"left": "43.522",
-			"bottom": "33.246",
-			"right": "44.013"
-		    }
-		},
+        "fallujah_iraq": {
+            "bbox": {
+            "top": "33.486",
+            "left": "43.522",
+            "bottom": "33.246",
+            "right": "44.013"
+            }
+        },
                 "gaza_palestine": {
                     "bbox": {
                         "top": "31.667",
@@ -2743,14 +2743,14 @@
                         "bottom": "21.005"
                     }
                 },
-		"thuwal_saudi-arabia": {
-		    "bbox": {
-			"top": "22.500",
-			"left": "39.050",
-			"bottom": "22.230",
-			"right": "39.200"
-		    }
-		},
+        "thuwal_saudi-arabia": {
+            "bbox": {
+            "top": "22.500",
+            "left": "39.050",
+            "bottom": "22.230",
+            "right": "39.200"
+            }
+        },
                 "jerusalem_israel": {
                     "bbox": {
                         "top": "31.866",
@@ -2914,12 +2914,12 @@
                     }
                 },
                 "allentown_pennsylvania": {
-                	"bbox": {
-                		"top": "40.623",
-                		"left": "-75.543",
-                		"bottom": "40.550",
-                		"right": "-75.418"
-                	}
+                    "bbox": {
+                        "top": "40.623",
+                        "left": "-75.543",
+                        "bottom": "40.550",
+                        "right": "-75.418"
+                    }
                 },
                 "atlanta_georgia": {
                     "bbox": {
@@ -2961,14 +2961,14 @@
                         "right": "-68.643"
                     }
                 },
-		"barnstable_massachusetts": {
-		    "bbox": {
-			"top": "41.739",
-			"left": "-70.382",
-			"bottom": "41.608",
-			"right": "-70.216"
-		    }
-		},
+        "barnstable_massachusetts": {
+            "bbox": {
+            "top": "41.739",
+            "left": "-70.382",
+            "bottom": "41.608",
+            "right": "-70.216"
+            }
+        },
                 "bernalillo-county_new-mexico": {
                     "bbox": {
                         "top": "35.220",
@@ -3777,14 +3777,14 @@
                         "right": "-121.025"
                     }
                 },
-		"san-jose_california": {
-		    "bbox": {
-			"top": "37.469",
-			"left": "-122.046",
-			"bottom": "37.125",
-			"right": "-121.589"
-		    }
-		},
+        "san-jose_california": {
+            "bbox": {
+            "top": "37.469",
+            "left": "-122.046",
+            "bottom": "37.125",
+            "right": "-121.589"
+            }
+        },
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
@@ -4183,6 +4183,14 @@
                         "bottom": "-20.029"
                     }
                 },
+                "blumenau_brazil": { 
+                    "bbox": {
+                        "top": "-48.995",
+                        "left": "-27.035",
+                        "bottom": "-49.190",
+                        "right": "-26.624"
+                    } 
+                },
                 "bogota_colombia": {
                     "bbox": {
                         "top": "5.022",
@@ -4297,10 +4305,10 @@
                 },
                 "cusco_peru": {
                     "bbox": {
-                    	"top":-13.473,
-                    	"right":-70.047,
-                    	"bottom":-13.582,
-                    	"left":-71.855
+                        "top":"-13.473",
+                        "right":"-70.047",
+                        "bottom":"-13.582",
+                        "left":"-71.855"
                     }
                 },
                 "fortaleza_brazil": {
@@ -4407,6 +4415,14 @@
                         "bottom": "-8.156"
                     }
                 },
+                "region-x_chile": {
+                    "bbox": {
+                        "top": "-40.363",
+                        "left": "-74.663",
+                        "bottom": "-43.723",
+                        "right": "-71.301"
+                    }
+                },
                 "rio-de-janeiro_brazil": {
                     "bbox": {
                         "top": "-22.378",
@@ -4471,6 +4487,14 @@
                         "right": "-64.622"
                     }
                 },
+                "temuco_chile": {
+                    "bbox": {
+                        "top": "-38.642",
+                        "left": "-72.829",
+                        "bottom": "-38.917",
+                        "right": "-72.309"
+                    }
+                },
                 "teresina_brazil": {
                     "bbox": {
                         "top": "-4.787",
@@ -4494,6 +4518,14 @@
                         "bottom": "9.443",
                         "right": "-60.224"
                     }
+                },
+                "valparaiso_chile": {
+                    "bbox": {
+                        "top": "-32.894",
+                        "left": "-71.743",
+                        "bottom": "-33.178",
+                        "right": "-71.232"
+                    } 
                 }
             }
         }
