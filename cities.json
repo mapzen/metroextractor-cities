@@ -3809,6 +3809,14 @@
                         "right": "-119.080"
                     }
                 },
+                "santa-cruz_california": {
+                    "bbox": {
+                        "top": "37.091",
+                        "left": "-122.155",
+                        "bottom": "36.939",
+                        "right": "-121.890"
+                    }
+                },                
                 "santa-fe_new-mexico": {
                     "bbox": {
                         "top": "35.755",
