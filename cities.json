@@ -4335,6 +4335,14 @@
                         "right": "-38.401"
                     }
                 },
+                "grenada": {
+                    "bbox": {
+                        "top": "12.667",
+                        "left": "-61.81",
+                        "bottom": "11.98",
+                        "right": "-61.250",
+                    }
+                }
                 "guayaquil_ecuador": {
                     "bbox": {
                         "top": "-2.018",
