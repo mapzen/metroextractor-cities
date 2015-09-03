@@ -1366,6 +1366,14 @@
                         "right": "1.188"
                     }
                 },
+                "cologne_germany": {
+                    "bbox": {
+                        "top": "51.009",
+                        "left": "6.844",
+                        "bottom": "50.876",
+                        "right": "7.105"
+                    }
+                },
                 "cuneo_italy": {
                     "bbox": {
                         "top": "44.530",
