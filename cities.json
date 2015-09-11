@@ -402,6 +402,15 @@
                         "right": "78.151"
                     }
                 },
+                "ahmedabad_india": {
+                    "bbox": {
+                        "top": "23.201",
+                        "left": "72.364",
+                        "bottom": "22.855",
+                        "right": "72.787"
+                    }
+                },
+                
                 "almaty_kazakhstan": {
                     "bbox": {
                         "top": "43.549",
@@ -4201,11 +4210,11 @@
                 },
                 "blumenau_brazil": { 
                     "bbox": {
-                        "top": "-48.995",
-                        "left": "-27.035",
-                        "bottom": "-49.190",
-                        "right": "-26.624"
-                    } 
+                        "top": "-26.624",
+                        "left": "-49.190",
+                        "bottom": "-27.035",
+                        "right": "-48.995"
+                    }
                 },
                 "bogota_colombia": {
                     "bbox": {
@@ -4333,6 +4342,14 @@
                         "left": "-38.636",
                         "bottom": "-3.889",
                         "right": "-38.401"
+                    }
+                },
+                "grenada": {
+                    "bbox": {
+                        "top": "12.667",
+                        "left": "-61.815",
+                        "bottom": "11.980",
+                        "right": "-61.250"
                     }
                 },
                 "guayaquil_ecuador": {
