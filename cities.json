@@ -402,6 +402,15 @@
                         "right": "78.151"
                     }
                 },
+                "ahmedabad_india": {
+                    "bbox": {
+                        "top": "23.201",
+                        "left": "72.364",
+                        "bottom": "22.855",
+                        "right": "72.787"
+                    }
+                },
+                
                 "almaty_kazakhstan": {
                     "bbox": {
                         "top": "43.549",
