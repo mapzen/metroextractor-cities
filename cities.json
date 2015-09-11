@@ -4210,11 +4210,11 @@
                 },
                 "blumenau_brazil": { 
                     "bbox": {
-                        "top": "-48.995",
-                        "left": "-27.035",
-                        "bottom": "-49.190",
-                        "right": "-26.624"
-                    } 
+                        "top": "-26.624",
+                        "left": "-49.190",
+                        "bottom": "-27.035",
+                        "right": "-48.995"
+                    }
                 },
                 "bogota_colombia": {
                     "bbox": {
