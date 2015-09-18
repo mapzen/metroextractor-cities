@@ -2220,6 +2220,14 @@
                         "right": "25.381"
                     }
                 },
+                "lund_sweden": {
+                    "bbox": {
+                        "top": "55.740",
+                        "left": "13.140",
+                        "bottom": "55.678",
+                        "right": "13.263"
+                    }
+                },
                 "malmo_sweden": {
                     "bbox": {
                         "top": "55.680",
