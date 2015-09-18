@@ -2220,6 +2220,14 @@
                         "right": "25.381"
                     }
                 },
+                "lund_sweden": {
+                    "bbox": {
+                        "top": "55.740",
+                        "left": "13.140",
+                        "bottom": "55.678",
+                        "right": "13.263"
+                    }
+                },
                 "malmo_sweden": {
                     "bbox": {
                         "top": "55.680",
@@ -4066,6 +4074,14 @@
                         "left": "113.055",
                         "bottom": "-9.517",
                         "right": "117.188"
+                    }
+                },
+                "bandung_indonesia": {
+                    "bbox": {
+                        "top": "-6.773",
+                        "left": "107.474",
+                        "bottom": "-7.007",
+                        "right": "107.745"
                     }
                 },
                 "brisbane_australia": {
