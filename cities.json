@@ -1359,6 +1359,14 @@
                         "right": "-1.912"
                     }
                 },
+                "clermont-ferrand_france": {
+                    "bbox": {
+                        "top": "45.820",
+                        "left": "3.021",
+                        "bottom": "45.720",
+                        "right": "3.22"
+                    }
+                },
                 "copenhagen_denmark": {
                     "bbox": {
                         "top": "55.950",
