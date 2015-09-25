@@ -4400,6 +4400,14 @@
                         "right": "-76.701"
                     }
                 },
+                "mariana_brazil": {
+                    "bbox": {
+                        "top": "-20.351",
+                        "left": "-43.431",
+                        "bottom": "-20.403",
+                        "right": "-43.407"
+                    }
+                },
                 "martinique_french-caribbean": {
                     "bbox": {
                         "top": "14.879",
