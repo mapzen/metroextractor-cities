@@ -3922,6 +3922,14 @@
                         "right": "-77.302"
                     }
                 },
+                "surrey_british-columbia_canada": {
+                    "bbox": {
+                        "top": "49.233",
+                        "left": "-122.917",
+                        "bottom": "49.002",
+                        "right": "-122.686"
+                    }
+                },
                 "syracuse_new-york": {
                     "bbox": {
                         "top": "43.219",
