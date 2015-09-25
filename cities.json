@@ -1359,6 +1359,14 @@
                         "right": "-1.912"
                     }
                 },
+                "clermont-ferrand_france": {
+                    "bbox": {
+                        "top": "45.820",
+                        "left": "3.021",
+                        "bottom": "45.720",
+                        "right": "3.220"
+                    }
+                },
                 "copenhagen_denmark": {
                     "bbox": {
                         "top": "55.950",
@@ -3020,7 +3028,7 @@
                 },
                 "boston_massachusetts": {
                     "bbox": {
-                        "top": "42.399",
+                        "top": "42.420",
                         "left": "-71.191",
                         "bottom": "42.228",
                         "right": "-70.923"
@@ -3914,6 +3922,14 @@
                         "right": "-77.302"
                     }
                 },
+                "surrey_british-columbia_canada": {
+                    "bbox": {
+                        "top": "49.233",
+                        "left": "-122.917",
+                        "bottom": "49.002",
+                        "right": "-122.686"
+                    }
+                },
                 "syracuse_new-york": {
                     "bbox": {
                         "top": "43.219",
@@ -4390,6 +4406,14 @@
                         "left": "-77.294",
                         "bottom": "-12.358",
                         "right": "-76.701"
+                    }
+                },
+                "mariana_brazil": {
+                    "bbox": {
+                        "top": "-20.351",
+                        "left": "-43.431",
+                        "bottom": "-20.403",
+                        "right": "-43.407"
                     }
                 },
                 "martinique_french-caribbean": {
