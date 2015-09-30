@@ -6946,6 +6946,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "flensburg_germany"
+      },
+      "bbox": [
+        9.261,
+        54.697,
+        9.578,
+        54.841
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.261,
+              54.841
+            ],
+            [
+              9.578,
+              54.841
+            ],
+            [
+              9.578,
+              54.697
+            ],
+            [
+              9.261,
+              54.697
+            ],
+            [
+              9.261,
+              54.841
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "frankfurt_germany"
       },
       "bbox": [
