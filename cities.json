@@ -1455,6 +1455,14 @@
                         "right": "-2.835"
                     }
                 },
+                "flensburg_germany": {
+                    "bbox": {
+                        "top": "54.841",
+                        "left": "9.261",
+                        "bottom": "54.697",
+                        "right": "9.578"
+                    }
+                },
                 "frankfurt_germany": {
                     "bbox": {
                         "top": "50.447",
