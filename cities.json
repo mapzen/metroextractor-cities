@@ -3058,6 +3058,14 @@
                         "right": "-113.478"
                     }
                 },
+                "charleston_south-carolina": {
+                    "bbox": {
+                        "top": "32.976",
+                        "left": "-80.344",
+                        "bottom": "32.506",
+                        "right": "-79.675"
+                    }
+                },
                 "charlotte_north-carolina": {
                     "bbox": {
                         "top": "35.476",
