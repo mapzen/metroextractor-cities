@@ -1391,6 +1391,14 @@
                         "right": "7.105"
                     }
                 },
+                "cork_ireland": {
+                    "bbox": {
+                        "top": "51.935",
+                        "left": "-8.547",
+                        "bottom": "51.828",
+                        "right": "-8.385"
+                    }
+                },
                 "cuneo_italy": {
                     "bbox": {
                         "top": "44.530",
@@ -1485,6 +1493,14 @@
                         "left": "8.599",
                         "bottom": "50.732",
                         "right": "8.863"
+                    }
+                },
+                "galway_ireland": {
+                    "bbox": {
+                        "top": "53.306",
+                        "left": "-9.138",
+                        "bottom": "53.252",
+                        "right": "-8.934"
                     }
                 },
                 "geneva_switzerland": {
@@ -1589,6 +1605,14 @@
                         "left": "2.823",
                         "bottom": "50.469",
                         "right": "3.389"
+                    }
+                },
+                "limerick_ireland": {
+                    "bbox": {
+                        "top": "52.694",
+                        "left": "-8.680",
+                        "bottom": "52.613",
+                        "right": "-8.517"
                     }
                 },
                 "liverpool_england": {
@@ -1853,6 +1877,14 @@
                         "left": "8.672",
                         "bottom": "47.475",
                         "right": "8.797"
+                    }
+                },
+                "waterford_ireland": {
+                    "bbox": {
+                        "top": "52.280",
+                        "left": "-7.187",
+                        "bottom": "52.210",
+                        "right": "-7.033"
                     }
                 },
                 "basel_switzerland": {
