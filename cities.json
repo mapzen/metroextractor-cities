@@ -3172,10 +3172,10 @@
                 },
                 "dayton_ohio": {
                     "bbox": {
-                        "top": "40.0",
-                        "left": "-84.7",
-                        "bottom": "39.5",
-                        "right": "-83.7"
+                        "top": "40.000",
+                        "left": "-84.700",
+                        "bottom": "39.500",
+                        "right": "-83.700"
                     }
                 },
                 "dc-baltimore_maryland": {
