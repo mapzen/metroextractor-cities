@@ -1116,6 +1116,14 @@
                         "right": "122.025"
                     }
                 },
+                "taipei_city_taiwan": {
+                    "bbox": {
+                        "top": "24.965",
+                        "left": "121.457",
+                        "bottom": "25.145",
+                        "right": "121.622"
+                    }
+                },
                 "taoyuan_taiwan": {
                     "bbox": {
                         "top": "25.054",
