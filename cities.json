@@ -224,14 +224,6 @@
                         "right": "32.866"
                     }
                 },
-                "keelung_taiwan": {
-                    "bbox": {
-                        "top": "25.066",
-                        "left": "121.664",
-                        "bottom": "25.219",
-                        "right": "121.832"
-                    }
-                },
                 "khartoum_republic-of-sudan": {
                     "bbox": {
                         "top": "15.854",
@@ -547,6 +539,14 @@
                         "right": "99.358"
                     }
                 },
+                "chiayi_taiwan": {
+                    "bbox": {
+                        "top": "23.449",
+                        "left": "120.374",
+                        "bottom": "23.519",
+                        "right": "120.502"
+                    }
+                },
                 "chongqing_china": {
                     "bbox": {
                         "top": "32.217",
@@ -667,6 +667,14 @@
                         "right": "115.125"
                     }
                 },
+                "hsinchu_taiwan": {
+                    "bbox": {
+                        "top": "24.750",
+                        "left": "120.889",
+                        "bottom": "24.862",
+                        "right": "121.050"
+                    }
+                },
                 "hualien_taiwan": {
                     "bbox": {
                         "top": "24.190",
@@ -721,6 +729,14 @@
                         "left": "66.401",
                         "bottom": "23.958",
                         "right": "68.576"
+                    }
+                },
+                "keelung_taiwan": {
+                    "bbox": {
+                        "top": "25.066",
+                        "left": "121.664",
+                        "bottom": "25.219",
+                        "right": "121.832"
                     }
                 },
                 "kenting_taiwan": {
@@ -1102,10 +1118,10 @@
                 },
                 "taichung_taiwan": {
                     "bbox": {
-                        "top": "24.345",
-                        "left": "120.346",
-                        "bottom": "23.996",
-                        "right": "120.854"
+                        "top": "24.041",
+                        "left": "120.479",
+                        "bottom": "24.365",
+                        "right": "120.858"
                     }
                 },
                 "tainan_taiwan": {
@@ -1134,10 +1150,10 @@
                 },
                 "taoyuan_taiwan": {
                     "bbox": {
-                        "top": "25.054",
-                        "left": "121.245",
-                        "bottom": "24.946",
-                        "right": "121.379"
+                        "top": "24.832",
+                        "left": "121.078",
+                        "bottom": "25.126",
+                        "right": "121.412"
                     }
                 },
                 "tianjin_china": {
