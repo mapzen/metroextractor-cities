@@ -224,6 +224,14 @@
                         "right": "32.866"
                     }
                 },
+                "keelung_taiwan": {
+                    "bbox": {
+                        "top": "25.066",
+                        "left": "121.664",
+                        "bottom": "25.219",
+                        "right": "121.832"
+                    }
+                },
                 "khartoum_republic-of-sudan": {
                     "bbox": {
                         "top": "15.854",
@@ -1110,10 +1118,10 @@
                 },
                 "taipei_taiwan": {
                     "bbox": {
-                        "top": "25.386",
-                        "left": "120.995",
-                        "bottom": "24.779",
-                        "right": "122.025"
+                        "top": "24.926",
+                        "left": "121.346",
+                        "bottom": "25.209",
+                        "right": "121.676"
                     }
                 },
                 "taipei_city_taiwan": {
