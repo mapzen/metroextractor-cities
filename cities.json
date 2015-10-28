@@ -733,9 +733,9 @@
                 },
                 "keelung_taiwan": {
                     "bbox": {
-                        "top": "25.066",
+                        "top": "25.219",
                         "left": "121.664",
-                        "bottom": "25.219",
+                        "bottom": "25.066",
                         "right": "121.832"
                     }
                 },
@@ -1118,9 +1118,9 @@
                 },
                 "taichung_taiwan": {
                     "bbox": {
-                        "top": "24.041",
+                        "top": "24.365",
                         "left": "120.479",
-                        "bottom": "24.365",
+                        "bottom": "24.041",
                         "right": "120.858"
                     }
                 },
@@ -1134,25 +1134,25 @@
                 },
                 "taipei_taiwan": {
                     "bbox": {
-                        "top": "24.926",
+                        "top": "25.209",
                         "left": "121.346",
-                        "bottom": "25.209",
+                        "bottom": "24.926",
                         "right": "121.676"
                     }
                 },
                 "taipei_city_taiwan": {
                     "bbox": {
-                        "top": "24.965",
+                        "top": "25.145",
                         "left": "121.457",
-                        "bottom": "25.145",
+                        "bottom": "24.965",
                         "right": "121.622"
                     }
                 },
                 "taoyuan_taiwan": {
                     "bbox": {
-                        "top": "24.832",
+                        "top": "25.126",
                         "left": "121.078",
-                        "bottom": "25.126",
+                        "bottom": "24.832",
                         "right": "121.412"
                     }
                 },
