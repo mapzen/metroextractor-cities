@@ -3994,6 +3994,14 @@
                         "right": "-96.283"
                     }
                 },
+                "south-lake-tahoe_california": {
+                    "bbox": {
+                        "top": "39.450",
+                        "left": "-120.368",
+                        "bottom": "38.705",
+                        "right": "-119.654"
+                    }
+                },
                 "springfield_missouri": {
                     "bbox": {
                         "top": "37.271",
