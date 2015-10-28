@@ -1978,6 +1978,14 @@
                         "right": "25.800"
                     }
                 },
+                "bratislava_slovakia": {
+                    "bbox": {
+                        "top": "48.295",
+                        "left": "16.955",
+                        "bottom": "48.061",
+                        "right": "17.494"
+                    }
+                },
                 "chisinau_moldova": {
                     "bbox": {
                         "top": "47.079",
@@ -2202,20 +2210,12 @@
                         "right": "24.951"
                     }
                 },
-                "vienna-bratislava_austria": {
+                "vienna_austria": {
                     "bbox": {
-                        "top": "48.609",
-                        "left": "15.763",
-                        "bottom": "47.496",
-                        "right": "17.841"
-                    }
-                },
-                "bratislava_slovakia": {
-                    "bbox": {
-                        "top": "48.295",
-                        "left": "16.955",
-                        "bottom": "48.061",
-                        "right": "17.494"
+                        "top": "48.386",
+                        "left": "16.137",
+                        "bottom": "48.048",
+                        "right": "16.714"
                     }
                 },
                 "vinnytsia_ukraine": {
