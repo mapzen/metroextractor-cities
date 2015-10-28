@@ -3962,6 +3962,14 @@
                         "right": "-69.620"
                     }
                 },
+                "savannah_georgia": {
+                    "bbox": {
+                        "top": "32.250",
+                        "left": "-81.328",
+                        "bottom": "31.850",
+                        "right": "-80.830"
+                    }
+                },
                 "seattle_washington": {
                     "bbox": {
                         "top": "48.528",
