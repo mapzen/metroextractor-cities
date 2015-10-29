@@ -539,6 +539,14 @@
                         "right": "99.358"
                     }
                 },
+                "chiayi_taiwan": {
+                    "bbox": {
+                        "top": "23.519",
+                        "left": "120.374",
+                        "bottom": "23.449",
+                        "right": "120.502"
+                    }
+                },
                 "chongqing_china": {
                     "bbox": {
                         "top": "32.217",
@@ -659,6 +667,14 @@
                         "right": "115.125"
                     }
                 },
+                "hsinchu_taiwan": {
+                    "bbox": {
+                        "top": "24.862",
+                        "left": "120.889",
+                        "bottom": "24.750",
+                        "right": "121.050"
+                    }
+                },
                 "hualien_taiwan": {
                     "bbox": {
                         "top": "24.190",
@@ -713,6 +729,14 @@
                         "left": "66.401",
                         "bottom": "23.958",
                         "right": "68.576"
+                    }
+                },
+                "keelung_taiwan": {
+                    "bbox": {
+                        "top": "25.219",
+                        "left": "121.664",
+                        "bottom": "25.066",
+                        "right": "121.832"
                     }
                 },
                 "kenting_taiwan": {
@@ -1094,10 +1118,10 @@
                 },
                 "taichung_taiwan": {
                     "bbox": {
-                        "top": "24.345",
-                        "left": "120.346",
-                        "bottom": "23.996",
-                        "right": "120.854"
+                        "top": "24.365",
+                        "left": "120.479",
+                        "bottom": "24.041",
+                        "right": "120.858"
                     }
                 },
                 "tainan_taiwan": {
@@ -1110,18 +1134,26 @@
                 },
                 "taipei_taiwan": {
                     "bbox": {
-                        "top": "25.386",
-                        "left": "120.995",
-                        "bottom": "24.779",
-                        "right": "122.025"
+                        "top": "25.209",
+                        "left": "121.346",
+                        "bottom": "24.926",
+                        "right": "121.676"
+                    }
+                },
+                "taipei_city_taiwan": {
+                    "bbox": {
+                        "top": "25.145",
+                        "left": "121.457",
+                        "bottom": "24.965",
+                        "right": "121.622"
                     }
                 },
                 "taoyuan_taiwan": {
                     "bbox": {
-                        "top": "25.054",
-                        "left": "121.245",
-                        "bottom": "24.946",
-                        "right": "121.379"
+                        "top": "25.126",
+                        "left": "121.078",
+                        "bottom": "24.832",
+                        "right": "121.412"
                     }
                 },
                 "tianjin_china": {
@@ -1946,6 +1978,14 @@
                         "right": "25.800"
                     }
                 },
+                "bratislava_slovakia": {
+                    "bbox": {
+                        "top": "48.295",
+                        "left": "16.955",
+                        "bottom": "48.061",
+                        "right": "17.494"
+                    }
+                },
                 "chisinau_moldova": {
                     "bbox": {
                         "top": "47.079",
@@ -2170,20 +2210,12 @@
                         "right": "24.951"
                     }
                 },
-                "vienna-bratislava_austria": {
+                "vienna_austria": {
                     "bbox": {
-                        "top": "48.609",
-                        "left": "15.763",
-                        "bottom": "47.496",
-                        "right": "17.841"
-                    }
-                },
-                "bratislava_slovakia": {
-                    "bbox": {
-                        "top": "48.295",
-                        "left": "16.955",
-                        "bottom": "48.061",
-                        "right": "17.494"
+                        "top": "48.386",
+                        "left": "16.137",
+                        "bottom": "48.048",
+                        "right": "16.714"
                     }
                 },
                 "vinnytsia_ukraine": {
@@ -3170,6 +3202,14 @@
                         "right": "-96.113"
                     }
                 },
+                "dayton_ohio": {
+                    "bbox": {
+                        "top": "40.000",
+                        "left": "-84.700",
+                        "bottom": "39.500",
+                        "right": "-83.700"
+                    }
+                },
                 "dc-baltimore_maryland": {
                     "bbox": {
                         "top": "39.631",
@@ -3922,6 +3962,14 @@
                         "right": "-69.620"
                     }
                 },
+                "savannah_georgia": {
+                    "bbox": {
+                        "top": "32.250",
+                        "left": "-81.328",
+                        "bottom": "31.850",
+                        "right": "-80.830"
+                    }
+                },
                 "seattle_washington": {
                     "bbox": {
                         "top": "48.528",
@@ -3952,6 +4000,14 @@
                         "left": "-96.507",
                         "bottom": "42.367",
                         "right": "-96.283"
+                    }
+                },
+                "south-lake-tahoe_california": {
+                    "bbox": {
+                        "top": "39.450",
+                        "left": "-120.368",
+                        "bottom": "38.705",
+                        "right": "-119.654"
                     }
                 },
                 "springfield_missouri": {
