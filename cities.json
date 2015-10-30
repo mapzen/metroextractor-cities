@@ -2299,6 +2299,14 @@
                         "right": "5.559"
                     }
                 },
+                "bodø_norway": {
+                    "bbox": {
+                        "top": "67.356",
+                        "left": "14.232",
+                        "bottom": "67.247",
+                        "right": "14.672"
+                    }
+                },
                 "helsinki_finland": {
                     "bbox": {
                         "top": "60.680",
