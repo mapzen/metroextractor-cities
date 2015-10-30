@@ -376,6 +376,14 @@
                         "right": "10.493"
                     }
                 },
+                "victoria_seychelles": {
+                    "bbox": {
+                        "top": "-4.206",
+                        "left": "55.191",
+                        "bottom": "-4.823",
+                        "right": "56.000"
+                    }
+                },
                 "yamoussoukro_ivory-coast": {
                     "bbox": {
                         "top": "7.097",
@@ -1935,7 +1943,14 @@
                         "right": "6.349"
                     }
                 },
-
+                "utrecht_netherlands": {
+                    "bbox": {
+                        "top": "52.184",
+                        "left": "4.933",
+                        "bottom": "52.001",
+                        "right": "5.303"
+                    }
+                },
                 "zurich_switzerland": {
                     "bbox": {
                         "top": "47.533",
@@ -2290,6 +2305,14 @@
                         "left": "5.075",
                         "bottom": "60.241",
                         "right": "5.559"
+                    }
+                },
+                "bodø_norway": {
+                    "bbox": {
+                        "top": "67.356",
+                        "left": "14.232",
+                        "bottom": "67.247",
+                        "right": "14.672"
                     }
                 },
                 "helsinki_finland": {
@@ -3416,6 +3439,14 @@
                         "left": "-86.485",
                         "bottom": "39.454",
                         "right": "-85.746"
+                    }
+                },
+                "iowa-city_iowa": {
+                    "bbox": {
+                        "top": "41.696",
+                        "left": "-91.616",
+                        "bottom": "41.599",
+                        "right": "-91.463"
                     }
                 },
                 "iqaluit_canada": {
