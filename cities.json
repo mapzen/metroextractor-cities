@@ -3433,6 +3433,14 @@
                         "right": "-85.746"
                     }
                 },
+                "iowa-city_iowa": {
+                    "bbox": {
+                        "top": "41.696",
+                        "left": "-91.616",
+                        "bottom": "41.599",
+                        "right": "-91.463"
+                    }
+                },
                 "iqaluit_canada": {
                     "bbox": {
                         "top": "63.796",
