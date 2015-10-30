@@ -376,6 +376,14 @@
                         "right": "10.493"
                     }
                 },
+                "victoria_seychelles": {
+                    "bbox": {
+                        "top": "56.000",
+                        "left": "-4.823",
+                        "bottom": "55.191",
+                        "right": "-4.206"
+                    }
+                },
                 "yamoussoukro_ivory-coast": {
                     "bbox": {
                         "top": "7.097",
