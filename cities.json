@@ -1935,7 +1935,14 @@
                         "right": "6.349"
                     }
                 },
-
+                "utrecht_netherlands": {
+                    "bbox": {
+                        "top": "52.184",
+                        "left": "4.933",
+                        "bottom": "52.001",
+                        "right": "5.303"
+                    }
+                },
                 "zurich_switzerland": {
                     "bbox": {
                         "top": "47.533",
