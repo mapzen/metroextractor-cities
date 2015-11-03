@@ -2025,6 +2025,14 @@
                         "right": "28.750"
                     }
                 },
+                "debrecen_hungary": {
+                    "bbox": {
+                        "top": "47.652",
+                        "left": "21.4268",
+                        "bottom": "47.4095",
+                        "right": "21.8628"
+                    }
+                },
                 "donetsk_ukraine": {
                     "bbox": {
                         "top": "48.093",
