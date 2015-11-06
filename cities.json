@@ -1895,6 +1895,14 @@
                         "right": "1.779"
                     }
                 },
+                "tours_france": {
+                    "bbox": {
+                        "top": "47.476",
+                        "left": "0.452",
+                        "bottom": "47.308",
+                        "right": "0.784"
+                    }
+                },
                 "turin_italy": {
                     "bbox": {
                         "top": "45.174",
