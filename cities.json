@@ -3537,6 +3537,14 @@
                         "right": "-96.455"
                     }
                 },
+                "london_ontario_canada": {
+                    "bbox": {
+                        "top": "43.423",
+                        "left": "-81.874",
+                        "bottom": "42.456",
+                        "right": "-80.714"
+                    }
+                },
                 "los-angeles_california": {
                     "bbox": {
                         "top": "34.583",
