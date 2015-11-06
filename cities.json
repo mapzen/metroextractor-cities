@@ -1895,6 +1895,14 @@
                         "right": "1.779"
                     }
                 },
+                "tours_france": {
+                    "bbox": {
+                        "top": "47.476",
+                        "left": "0.452",
+                        "bottom": "47.308",
+                        "right": "0.784"
+                    }
+                },
                 "turin_italy": {
                     "bbox": {
                         "top": "45.174",
@@ -2023,6 +2031,14 @@
                         "left": "28.150",
                         "bottom": "43.757",
                         "right": "28.750"
+                    }
+                },
+                "debrecen_hungary": {
+                    "bbox": {
+                        "top": "47.652",
+                        "left": "21.426",
+                        "bottom": "47.409",
+                        "right": "21.862"
                     }
                 },
                 "donetsk_ukraine": {
@@ -3527,6 +3543,14 @@
                         "left": "-96.867",
                         "bottom": "40.660",
                         "right": "-96.455"
+                    }
+                },
+                "london_ontario_canada": {
+                    "bbox": {
+                        "top": "43.423",
+                        "left": "-81.874",
+                        "bottom": "42.456",
+                        "right": "-80.714"
                     }
                 },
                 "los-angeles_california": {
