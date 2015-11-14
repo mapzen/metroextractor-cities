@@ -4751,6 +4751,17 @@
                         "right": "-60.224"
                     }
                 },
+                "Tiruchirappalli_india":{
+                    "bbox":{
+                        "top": "10.9992",
+                        "left": "78.3380",
+                        "bottom": "79.0356",
+                        "right": "10.6107"
+                    }
+                },
+                        
+                    }
+                }
                 "valparaiso_chile": {
                     "bbox": {
                         "top": "-32.894",
