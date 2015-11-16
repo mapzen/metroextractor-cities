@@ -4758,6 +4758,14 @@
                         "bottom": "-33.178",
                         "right": "-71.232"
                     } 
+                },
+                "triuchirappalli_india":{
+                    "bbox":{
+                        "top":"10.9992",
+                        "left":"78.3380",
+                        "bottom":"10.6107",
+                        "right":"79.0356"
+                    }
                 }
             }
         }
