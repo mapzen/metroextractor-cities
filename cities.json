@@ -3065,6 +3065,14 @@
                         "right": "-75.418"
                     }
                 },
+                "asheville_north-carolina": {
+                    "bbox": {
+                        "top": "35.686",
+                        "left": "-82.737",
+                        "bottom": "35.478",
+                        "right": "-82.358"
+                    }
+                },
                 "atlanta_georgia": {
                     "bbox": {
                         "top": "34.618",
