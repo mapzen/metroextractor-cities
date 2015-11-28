@@ -4057,6 +4057,14 @@
                         "right": "-96.283"
                     }
                 },
+                "south-bend_indiana": {
+                    "bbox": {
+                        "top": "41.929",
+                        "left": "-86.545",
+                        "bottom": "41.461",
+                        "right": "-85.696"
+                    }
+                },
                 "south-lake-tahoe_california": {
                     "bbox": {
                         "top": "39.450",
