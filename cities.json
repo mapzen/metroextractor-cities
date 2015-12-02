@@ -619,6 +619,14 @@
                         "right": "130.644"
                     }
                 },
+                "galle_sri-lanka": {
+                    "bbox": {
+                        "top": "6.0941",
+                        "left": "80.1624",
+                        "bottom": "6.0035",
+                        "right": "80.2647"
+                    }
+                },
                 "guangzhou_china": {
                     "bbox": {
                         "top": "23.981",
@@ -713,6 +721,14 @@
                         "left": "126.127",
                         "bottom": "33.107",
                         "right": "126.987"
+                    }
+                },
+                "kandy_sri-lanka": {
+                    "bbox": {
+                        "top": "7.3390",
+                        "left": "80.5754",
+                        "bottom": "7.2255",
+                        "right": "80.6805"
                     }
                 },
                 "kaohsiung_taiwan": {
