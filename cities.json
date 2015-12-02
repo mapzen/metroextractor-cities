@@ -851,6 +851,14 @@
                         "right": "96.150"
                     }
                 },
+                "matara_sri-lanka": {
+                    "bbox": {
+                        "top": "5.9832",
+                        "left": "80.4967",
+                        "bottom": "80.5756",
+                        "right": "5.9238"
+                    }
+                },
                 "moscow_russia": {
                     "bbox": {
                         "top": "56.200",
