@@ -3065,6 +3065,14 @@
                         "right": "-75.418"
                     }
                 },
+                "asheville_north-carolina": {
+                    "bbox": {
+                        "top": "35.686",
+                        "left": "-82.737",
+                        "bottom": "35.478",
+                        "right": "-82.358"
+                    }
+                },
                 "atlanta_georgia": {
                     "bbox": {
                         "top": "34.618",
@@ -4055,6 +4063,14 @@
                         "left": "-96.507",
                         "bottom": "42.367",
                         "right": "-96.283"
+                    }
+                },
+                "south-bend_indiana": {
+                    "bbox": {
+                        "top": "41.929",
+                        "left": "-86.545",
+                        "bottom": "41.461",
+                        "right": "-85.696"
                     }
                 },
                 "south-lake-tahoe_california": {
