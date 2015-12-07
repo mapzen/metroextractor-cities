@@ -1196,6 +1196,14 @@
                         "right": "141.152"
                     }
                 },
+                "triuchirappalli_india":{
+                    "bbox":{
+                        "top":"10.999",
+                        "left":"78.338",
+                        "bottom":"10.611",
+                        "right":"79.036"
+                    }
+                },
                 "tyumen_russia": {
                     "bbox": {
                         "top": "57.280",
@@ -4790,14 +4798,6 @@
                         "bottom": "-33.178",
                         "right": "-71.232"
                     } 
-                },
-                "triuchirappalli_india":{
-                    "bbox":{
-                        "top":"10.9992",
-                        "left":"78.3380",
-                        "bottom":"10.6107",
-                        "right":"79.0356"
-                    }
                 }
             }
         }
