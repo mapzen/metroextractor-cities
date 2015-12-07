@@ -619,6 +619,14 @@
                         "right": "130.644"
                     }
                 },
+                "galle_sri-lanka": {
++                    "bbox": {
++                        "top": "6.094100",
++                        "left": "80.162400",
++                        "bottom": "6.003500",
++                        "right": "80.264700"
++                    }
++                },
                 "guangzhou_china": {
                     "bbox": {
                         "top": "23.981",
