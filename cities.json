@@ -2313,6 +2313,14 @@
                         "right": "17.363"
                     }
                 },
+                "wuppertal_germany": {
+                    "bbox": {
+                        "top": "51.318",
+                        "left": "7.014",
+                        "bottom": "51.166",
+                        "right": "7.313"
+                    }
+                },
                 "zagreb_croatia": {
                     "bbox": {
                         "top": "45.848",
