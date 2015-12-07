@@ -619,6 +619,14 @@
                         "right": "130.644"
                     }
                 },
+                "galle_sri-lanka": {
+                    "bbox": {
+                        "top": "6.094",
+                        "left": "80.162",
+                        "bottom": "6.003",
+                        "right": "80.264"
+                    }
+                },
                 "guangzhou_china": {
                     "bbox": {
                         "top": "23.981",
@@ -849,6 +857,14 @@
                         "left": "96.048",
                         "bottom": "21.871",
                         "right": "96.150"
+                    }
+                },
+                "matara_sri-lanka": {
+                    "bbox": {
+                        "top": "5.983",
+                        "left": "80.497",
+                        "right": "80.576",
+                        "bottom": "5.924"
                     }
                 },
                 "moscow_russia": {
@@ -1178,6 +1194,14 @@
                         "left": "138.779",
                         "bottom": "34.867",
                         "right": "141.152"
+                    }
+                },
+                "triuchirappalli_india":{
+                    "bbox":{
+                        "top":"10.999",
+                        "left":"78.338",
+                        "bottom":"10.611",
+                        "right":"79.036"
                     }
                 },
                 "tyumen_russia": {
