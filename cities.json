@@ -3193,6 +3193,22 @@
                         "right": "-79.630"
                     }
                 },
+                "bronx_new-york": {
+                    "bbox": {
+                        "top": "40.915",
+                        "left": "-73.933",
+                        "bottom": "40.786",
+                        "right": "-73.765"
+                    }                    
+                },
+                "brooklyn_new-york": {
+                    "bbox": {
+                        "top": "40.739",
+                        "left": "-74.057",
+                        "bottom": "40.551",
+                        "right": "-73.833"
+                    }
+                },               
                 "calgary_canada": {
                     "bbox": {
                         "top": "51.353",
@@ -4015,6 +4031,14 @@
                         "left": "-120.723",
                         "bottom": "35.233",
                         "right": "-120.618"
+                    }
+                },
+                "santa-ana_california": {
+                    "bbox": {
+                        "top": "33.784",
+                        "left": "-117.944",
+                        "bottom": "33.784",
+                        "right": "-117.831"
                     }
                 },
                 "santa-barbara_california": {
