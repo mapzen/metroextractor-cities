@@ -3601,6 +3601,14 @@
                         "right": "-96.455"
                     }
                 },
+                "little-rock_arkansas": {
+                    "bbox": {
+                        "top": "34.822",
+                        "left": "-92.521",
+                        "bottom": "34.626",
+                        "right": "-92.155"
+                    }
+                },                
                 "london_ontario_canada": {
                     "bbox": {
                         "top": "43.423",
@@ -4151,6 +4159,14 @@
                         "left": "-78.280",
                         "bottom": "40.572",
                         "right": "-77.302"
+                    }
+                },
+                "stockton_california": {
+                    "bbox": {
+                        "top": "38.058",
+                        "left": "-121.420",
+                        "bottom": "37.888",
+                        "right": "-121.184"
                     }
                 },
                 "surrey_british-columbia_canada": {
