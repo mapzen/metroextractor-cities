@@ -2145,6 +2145,14 @@
                         "right": "32.623"
                     }
                 },
+                "klaipeda_lithuania": {
+                    "bbox": {
+                        "top": "55.797",
+                        "left": "21.075",
+                        "bottom": "55.613",
+                        "right": "21.241"
+                    }
+                },                
                 "krakow_poland": {
                     "bbox": {
                         "top": "50.240",
@@ -2311,6 +2319,14 @@
                         "left": "16.652",
                         "bottom": "50.877",
                         "right": "17.363"
+                    }
+                },
+                "wuppertal_germany": {
+                    "bbox": {
+                        "top": "51.318",
+                        "left": "7.014",
+                        "bottom": "51.166",
+                        "right": "7.313"
                     }
                 },
                 "zagreb_croatia": {
@@ -3185,6 +3201,22 @@
                         "right": "-79.630"
                     }
                 },
+                "bronx_new-york": {
+                    "bbox": {
+                        "top": "40.915",
+                        "left": "-73.933",
+                        "bottom": "40.786",
+                        "right": "-73.765"
+                    }                    
+                },
+                "brooklyn_new-york": {
+                    "bbox": {
+                        "top": "40.739",
+                        "left": "-74.057",
+                        "bottom": "40.551",
+                        "right": "-73.833"
+                    }
+                },               
                 "calgary_canada": {
                     "bbox": {
                         "top": "51.353",
@@ -3577,6 +3609,14 @@
                         "right": "-96.455"
                     }
                 },
+                "little-rock_arkansas": {
+                    "bbox": {
+                        "top": "34.822",
+                        "left": "-92.521",
+                        "bottom": "34.626",
+                        "right": "-92.155"
+                    }
+                },                
                 "london_ontario_canada": {
                     "bbox": {
                         "top": "43.423",
@@ -4009,6 +4049,14 @@
                         "right": "-120.618"
                     }
                 },
+                "santa-ana_california": {
+                    "bbox": {
+                        "top": "33.784",
+                        "left": "-117.944",
+                        "bottom": "33.692",
+                        "right": "-117.831"
+                    }
+                },
                 "santa-barbara_california": {
                     "bbox": {
                         "top": "34.764",
@@ -4119,6 +4167,14 @@
                         "left": "-78.280",
                         "bottom": "40.572",
                         "right": "-77.302"
+                    }
+                },
+                "stockton_california": {
+                    "bbox": {
+                        "top": "38.058",
+                        "left": "-121.420",
+                        "bottom": "37.888",
+                        "right": "-121.184"
                     }
                 },
                 "surrey_british-columbia_canada": {
