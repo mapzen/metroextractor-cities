@@ -2145,6 +2145,14 @@
                         "right": "32.623"
                     }
                 },
+                "klaipeda_lithuania": {
+                    "bbox": {
+                        "top": "55.797",
+                        "left": "21.075",
+                        "bottom": "55.613",
+                        "right": "21.241"
+                    }
+                },                
                 "krakow_poland": {
                     "bbox": {
                         "top": "50.240",
