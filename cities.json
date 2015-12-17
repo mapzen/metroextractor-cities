@@ -1910,6 +1910,14 @@
                         "bottom": "48.371",
                         "right": "8.078"
                     }
+				},
+				"the-hague_netherlands": {
+					"bbox": {
+						"top": "52.136",
+						"left": "4.183",
+						"bottom": "52.006",
+						"right": "4.427"
+					}
                 },
                 "toulouse_france": {
                     "bbox": {
