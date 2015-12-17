@@ -1471,6 +1471,14 @@
                         "right": "7.718"
                     }
                 },
+                "dijon_france": {
+                    "bbox": {
+                        "top": "47.364",
+                        "left": "4.974",
+                        "bottom": "47.256",
+                        "right": "5.114"
+                    }
+                },                
                 "derby_england": {
                     "bbox": {
                         "top": "52.968",
@@ -1910,6 +1918,14 @@
                         "bottom": "48.371",
                         "right": "8.078"
                     }
+				},
+				"the-hague_netherlands": {
+					"bbox": {
+						"top": "52.136",
+						"left": "4.183",
+						"bottom": "52.006",
+						"right": "4.427"
+					}
                 },
                 "toulouse_france": {
                     "bbox": {
@@ -2733,6 +2749,14 @@
                         "right": "22.991"
                     }
                 },
+                "tirana_albania": {
+                    "bbox": {
+                        "top": "41.364",
+                        "left": "19.755",
+                        "bottom": "41.290",
+                        "right": "19.885"
+                    }
+                },                
                 "trento_italy": {
                     "bbox": {
                         "top": "46.155",
@@ -4354,6 +4378,14 @@
                         "bottom": "-7.007",
                         "right": "107.745"
                     }
+                },
+                "bogor_indonesia": {
+                    "bbox": {
+                        "top": "-6.456",
+                        "left": "106.705",
+                        "bottom": "-6.683",
+                        "right": "106.886"
+                    }                                       
                 },
                 "brisbane_australia": {
                     "bbox": {
