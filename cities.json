@@ -4379,6 +4379,14 @@
                         "right": "107.745"
                     }
                 },
+                "bogor_indonesia": {
+                    "bbox": {
+                        "top": "-6.456",
+                        "left": "106.705",
+                        "bottom": "-6.683",
+                        "right": "106.886"
+                    }                                       
+                },
                 "brisbane_australia": {
                     "bbox": {
                         "top": "-27.000",
