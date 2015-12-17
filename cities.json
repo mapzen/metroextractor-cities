@@ -2733,6 +2733,14 @@
                         "right": "22.991"
                     }
                 },
+                "tirana_albania": {
+                    "bbox": {
+                        "top": "41.364",
+                        "left": "19.755",
+                        "bottom": "41.290",
+                        "right": "19.885"
+                    }
+                },                
                 "trento_italy": {
                     "bbox": {
                         "top": "46.155",
