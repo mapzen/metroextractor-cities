@@ -1471,6 +1471,14 @@
                         "right": "7.718"
                     }
                 },
+                "dijon_france": {
+                    "bbox": {
+                        "top": "47.364",
+                        "left": "4.974",
+                        "bottom": "47.256",
+                        "right": "5.114"
+                    }
+                },                
                 "derby_england": {
                     "bbox": {
                         "top": "52.968",
