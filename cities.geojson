@@ -1369,6 +1369,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "maiduguri_nigeria"
+      },
+      "bbox": [
+        12.679,
+        11.553,
+        13.526,
+        12.142
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.679,
+              12.142
+            ],
+            [
+              13.526,
+              12.142
+            ],
+            [
+              13.526,
+              11.553
+            ],
+            [
+              12.679,
+              11.553
+            ],
+            [
+              12.679,
+              12.142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "maputo_mozambique"
       },
       "bbox": [
@@ -19621,6 +19660,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "saskatoon_canada"
+      },
+      "bbox": [
+        -106.749,
+        52.073,
+        -106.549,
+        52.204
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.749,
+              52.204
+            ],
+            [
+              -106.549,
+              52.204
+            ],
+            [
+              -106.549,
+              52.073
+            ],
+            [
+              -106.749,
+              52.073
+            ],
+            [
+              -106.749,
+              52.204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "savannah_georgia"
       },
       "bbox": [
@@ -21290,6 +21368,45 @@
             [
               150.628,
               -33.637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "townsville_australia"
+      },
+      "bbox": [
+        146.696,
+        -19.344,
+        146.851,
+        -19.229
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.696,
+              -19.229
+            ],
+            [
+              146.851,
+              -19.229
+            ],
+            [
+              146.851,
+              -19.344
+            ],
+            [
+              146.696,
+              -19.344
+            ],
+            [
+              146.696,
+              -19.229
             ]
           ]
         ]
