@@ -288,6 +288,14 @@
                         "right": "28.479"
                     }
                 },
+                "maiduguri_nigeria": {
+                    "bbox": {
+                        "top": "12.142",
+                        "left": "12.679",
+                        "bottom": "11.553",
+                        "right": "13.526"
+                    }
+                },
                 "maputo_mozambique": {
                   "bbox": {
                         "top": "-25.810",
