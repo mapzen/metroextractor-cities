@@ -4121,6 +4121,14 @@
                         "right": "-69.620"
                     }
                 },
+                "saskatoon_canada": {
+                    "bbox": {
+                        "top": "52.204",
+                        "left": "-106.749",
+                        "bottom": "52.073",
+                        "right": "-106.549"
+                    }
+                },
                 "savannah_georgia": {
                     "bbox": {
                         "top": "32.250",
