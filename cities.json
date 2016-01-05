@@ -4483,6 +4483,14 @@
                         "right": "151.647"
                     }
                 },
+                "townsville_australia": {
+                    "bbox": {
+                        "top": "-19.229",
+                        "left": "146.696",
+                        "bottom": "-19.344",
+                        "right": "146.851"
+                    }
+                },
                 "wellington_new-zealand": {
                     "bbox": {
                         "top": "-40.659",
