@@ -4767,6 +4767,14 @@
                         "top": "5.883"
                     }
                 },
+                "piura_peru": {
+                    "bbox": {
+                        "left": "-80.725",
+                        "bottom": "-5.266",
+                        "right": "-80.522",
+                        "top": "-5.125"
+                    }
+                },
                 "porto-alegre_brazil": {
                     "bbox": {
                         "top": "-29.471",
