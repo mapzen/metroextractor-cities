@@ -4193,6 +4193,14 @@
                         "right": "-119.654"
                     }
                 },
+                "spokane_washington": {
+        			"bbox": {
+        				"top": "47.841",
+        				"left": "-117.801",
+        				"bottom": "47.504",
+        				"right": "-117.107"
+        			}
+                },
                 "springfield_missouri": {
                     "bbox": {
                         "top": "37.271",
