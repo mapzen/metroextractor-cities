@@ -4193,6 +4193,14 @@
                         "right": "-119.654"
                     }
                 },
+                "spokane_washington": {
+        			"bbox": {
+        				"top": "47.841",
+        				"left": "-117.801",
+        				"bottom": "47.504",
+        				"right": "-117.107"
+        			}
+                },
                 "springfield_missouri": {
                     "bbox": {
                         "top": "37.271",
@@ -4765,6 +4773,14 @@
                         "bottom": "5.868",
                         "right": "-55.174",
                         "top": "5.883"
+                    }
+                },
+                "piura_peru": {
+                    "bbox": {
+                        "left": "-80.725",
+                        "bottom": "-5.266",
+                        "right": "-80.522",
+                        "top": "-5.125"
                     }
                 },
                 "porto-alegre_brazil": {
