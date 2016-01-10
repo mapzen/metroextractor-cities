@@ -1423,6 +1423,14 @@
                         "right": "-2.189"
                     }
                 },
+                "chemnitz_germany": {
+                    "bbox": {
+                        "top": "50.904",
+                        "left": "12.732",
+                        "bottom": "50.743",
+                        "right": "13.053"
+                    }
+                },
                 "cheshire_england": {
                     "bbox": {
                         "top": "53.396",
