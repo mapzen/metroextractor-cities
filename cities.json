@@ -4687,6 +4687,14 @@
                         "left":"-71.855"
                     }
                 },
+                "florianopolis_brazil": { 
+                    "bbox": {
+                        "top": "-27.286",
+                        "left": "-48.738",
+                        "bottom": "-27.902",
+                        "right": "-48.293"
+                    }
+                },
                 "fortaleza_brazil": {
                     "bbox": {
                         "top": "-3.688",
