@@ -643,6 +643,14 @@
                         "right": "114.972"
                     }
                 },
+                "hue_vietnam": {
+                    "bbox": {
+                        "top": "16.592",
+                        "left": "107.456",
+                        "bottom": "16.3669",
+                        "right": "107.743"
+                    }
+                },
                 "hanoi_vietnam": {
                     "bbox": {
                         "top": "21.098",
