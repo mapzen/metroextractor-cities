@@ -2047,6 +2047,14 @@
                         "right": "-7.033"
                     }
                 },
+                "wiesbaden_germany": {
+                    "bbox": {
+                        "top": "50.152",
+                        "left": "8.110",
+                        "bottom": "49.993",
+                        "right": "8.386"
+                    }
+                },
                 "basel_switzerland": {
                     "bbox": {
                         "top": "47.672",
