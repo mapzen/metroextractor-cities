@@ -1577,10 +1577,10 @@
                 },
                 "frankfurt_germany": {
                     "bbox": {
-                        "top": "50.447",
-                        "left": "7.811",
-                        "bottom": "49.632",
-                        "right": "9.442"
+                        "top": "50.227",
+                        "left": "8.471",
+                        "bottom": "50.014",
+                        "right": "8.800"
                     }
                 },
                 "frome_england": {
