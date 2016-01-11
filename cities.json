@@ -1591,6 +1591,14 @@
                         "right": "-2.289"
                     }
                 },
+                "fulda_germany": {
+                    "bbox": {
+                        "top": "50.629",
+                        "left": "9.565",
+                        "bottom": "50.499",
+                        "right": "9.732"
+                    }
+                },
                 "marburg_germany": {
                     "bbox": {
                         "top": "50.884",
