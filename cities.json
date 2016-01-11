@@ -1551,6 +1551,14 @@
                         "right": "-2.835"
                     }
                 },
+                "erfurt_germany": {
+                    "bbox": {
+                        "top": "51.080",
+                        "left": "10.854",
+                        "bottom": "50.890",
+                        "right": "11.174"
+                    }
+                },
                 "flensburg_germany": {
                     "bbox": {
                         "top": "54.841",
