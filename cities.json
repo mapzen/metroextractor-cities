@@ -1599,6 +1599,14 @@
                         "right": "6.317"
                     }
                 },
+                "gera_germany": {
+                    "bbox": {
+                        "top": "50.977",
+                        "left": "11.998",
+                        "bottom": "50.799",
+                        "right": "12.170"
+                    }
+                },
                 "glasgow_scotland": {
                     "bbox": {
                         "top": "56.034",
