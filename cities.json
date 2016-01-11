@@ -1647,6 +1647,14 @@
                         "right": "10.678"
                     }
                 },
+                "jena_germany": {
+                    "bbox": {
+                        "top": "50.988",
+                        "left": "11.499",
+                        "bottom": "50.856",
+                        "right": "11.673"
+                    }
+                },
                 "karlsruhe_germany": {
                     "bbox": {
                         "top": "49.246",
