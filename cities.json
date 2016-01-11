@@ -1487,6 +1487,14 @@
                         "right": "7.718"
                     }
                 },
+                "darmstadt_germany": {
+                    "bbox": {
+                        "top": "49.954",
+                        "left": "8.559",
+                        "bottom": "49.795",
+                        "right": "8.750"
+                    }
+                },
                 "dijon_france": {
                     "bbox": {
                         "top": "47.364",
