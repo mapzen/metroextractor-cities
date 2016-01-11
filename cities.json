@@ -1854,13 +1854,21 @@
                         "bottom": "49.219",
                         "right": "11.339"
                     }
-                },               
+                },
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
                         "left": "1.851",
                         "bottom": "48.531",
                         "right": "2.911"
+                    }
+                },
+                "plauen_germany": {
+                    "bbox": {
+                        "top": "50.574",
+                        "left": "12.059",
+                        "bottom": "50.430",
+                        "right": "12.226"
                     }
                 },
                 "poitiers_france": {
@@ -1870,7 +1878,7 @@
                         "bottom": "46.522",
                         "right": "0.504"
                     }
-                },             
+                },
                 "odense_denmark": {
                     "bbox": {
                         "top" : "55.691",
