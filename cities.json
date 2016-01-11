@@ -1775,6 +1775,14 @@
                         "right": "5.517"
                     }
                 },
+                "mainz_germany": {
+                    "bbox": {
+                        "top": "50.035",
+                        "left": "8.110",
+                        "bottom": "49.895",
+                        "right": "8.343"
+                    }
+                },
                 "manchester_england": {
                     "bbox": {
                         "top": "53.672",
