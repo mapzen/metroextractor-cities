@@ -1615,6 +1615,14 @@
                         "right": "12.170"
                     }
                 },
+                "gießen_germany": {
+                    "bbox": {
+                        "top": "50.635",
+                        "left": "8.555",
+                        "bottom": "50.526",
+                        "right": "8.764"
+                    }
+                },
                 "glasgow_scotland": {
                     "bbox": {
                         "top": "56.034",
