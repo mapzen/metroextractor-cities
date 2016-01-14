@@ -2685,6 +2685,14 @@
                         "right": "9.470"
                     }
                 },
+                "murcia_spain": {
+                    "bbox": {
+                        "top": "38.0210",
+                        "left": "-1.2080",
+                        "bottom": "37.9591",
+                        "right": "-1.0732"
+                    }
+                },
                 "naples_italy": {
                     "bbox": {
                         "top": "40.916",
