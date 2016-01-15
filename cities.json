@@ -587,6 +587,14 @@
                         "right": "80.385"
                     }
                 },
+                "da-nang_vietnam": {
+                	"bbox": {
+                	"top": "16.186",
+                        "left": "108.057",
+                        "bottom": "15.948",
+                        "right": "108.413"	
+                	}
+                },
                 "davao-city_philippines": {
                     "bbox": {
                         "top": "7.392",
