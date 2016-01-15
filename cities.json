@@ -1423,6 +1423,14 @@
                         "right": "-2.189"
                     }
                 },
+                "chemnitz_germany": {
+                    "bbox": {
+                        "top": "50.904",
+                        "left": "12.732",
+                        "bottom": "50.743",
+                        "right": "13.053"
+                    }
+                },
                 "cheshire_england": {
                     "bbox": {
                         "top": "53.396",
@@ -1543,6 +1551,14 @@
                         "right": "-2.835"
                     }
                 },
+                "erfurt_germany": {
+                    "bbox": {
+                        "top": "51.080",
+                        "left": "10.854",
+                        "bottom": "50.890",
+                        "right": "11.174"
+                    }
+                },
                 "flensburg_germany": {
                     "bbox": {
                         "top": "54.841",
@@ -1591,6 +1607,14 @@
                         "right": "6.317"
                     }
                 },
+                "gera_germany": {
+                    "bbox": {
+                        "top": "50.977",
+                        "left": "11.998",
+                        "bottom": "50.799",
+                        "right": "12.170"
+                    }
+                },
                 "glasgow_scotland": {
                     "bbox": {
                         "top": "56.034",
@@ -1629,6 +1653,14 @@
                         "left": "9.376",
                         "bottom": "53.159",
                         "right": "10.678"
+                    }
+                },
+                "jena_germany": {
+                    "bbox": {
+                        "top": "50.988",
+                        "left": "11.499",
+                        "bottom": "50.856",
+                        "right": "11.673"
                     }
                 },
                 "karlsruhe_germany": {
@@ -1822,13 +1854,21 @@
                         "bottom": "49.219",
                         "right": "11.339"
                     }
-                },               
+                },
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
                         "left": "1.851",
                         "bottom": "48.531",
                         "right": "2.911"
+                    }
+                },
+                "plauen_germany": {
+                    "bbox": {
+                        "top": "50.574",
+                        "left": "12.059",
+                        "bottom": "50.430",
+                        "right": "12.226"
                     }
                 },
                 "poitiers_france": {
@@ -1838,7 +1878,7 @@
                         "bottom": "46.522",
                         "right": "0.504"
                     }
-                },             
+                },
                 "odense_denmark": {
                     "bbox": {
                         "top" : "55.691",
@@ -2013,6 +2053,14 @@
                         "left": "8.275",
                         "bottom": "47.225",
                         "right": "8.800"
+                    }
+                },
+                "zwickau_germany": {
+                    "bbox": {
+                        "top": "50.813",
+                        "left": "12.408",
+                        "bottom": "50.641",
+                        "right": "12.567"
                     }
                 }
             }
