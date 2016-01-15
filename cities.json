@@ -2089,6 +2089,14 @@
                         "right": "21.862"
                     }
                 },
+                "dnipropetrovsk_ukraine": {
+                    "bbox":{
+                        "top": "48.5634",
+                        "left": "35.1795",
+                        "bottom": "48.3599",
+                        "right": "34.7511"
+                    }	
+                },
                 "donetsk_ukraine": {
                     "bbox": {
                         "top": "48.093",
