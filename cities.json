@@ -587,6 +587,14 @@
                         "right": "80.385"
                     }
                 },
+                "da-nang_vietnam": {
+                	"bbox": {
+                	"top": "16.186",
+                        "left": "108.057",
+                        "bottom": "15.948",
+                        "right": "108.413"	
+                	}
+                },
                 "davao-city_philippines": {
                     "bbox": {
                         "top": "7.392",
@@ -641,6 +649,14 @@
                         "left": "112.181",
                         "bottom": "22.533",
                         "right": "114.972"
+                    }
+                },
+                "hue_vietnam": {
+                    "bbox": {
+                        "top": "16.592",
+                        "left": "107.456",
+                        "bottom": "16.366",
+                        "right": "107.743"
                     }
                 },
                 "hanoi_vietnam": {
@@ -785,6 +801,14 @@
                         "left": "76.170",
                         "bottom": "9.785",
                         "right": "76.389"
+                    }
+                },
+                "koh-rong_cambodia": {
+                    "bbox": {
+                        "top": "10.796",
+                        "left": "103.161",
+                        "bottom": "10.495",
+                        "right": "103.396"
                     }
                 },
                 "koh-samui_thailand": {
@@ -1011,6 +1035,15 @@
                         "right": "98.489"
                     }
                 },
+                "phu-quoc_vietnam": {
+                    "bbox": {
+                        "top": "10.491",
+                        "left": "103.741",
+                        "bottom": "9.772",
+                        "right": "104.180"
+                    }
+                },
+                
                 "phnom-penh_cambodia": {
                     "bbox": {
                         "top": "11.737",
@@ -1423,6 +1456,14 @@
                         "right": "-2.189"
                     }
                 },
+                "chemnitz_germany": {
+                    "bbox": {
+                        "top": "50.904",
+                        "left": "12.732",
+                        "bottom": "50.743",
+                        "right": "13.053"
+                    }
+                },
                 "cheshire_england": {
                     "bbox": {
                         "top": "53.396",
@@ -1543,6 +1584,14 @@
                         "right": "-2.835"
                     }
                 },
+                "erfurt_germany": {
+                    "bbox": {
+                        "top": "51.080",
+                        "left": "10.854",
+                        "bottom": "50.890",
+                        "right": "11.174"
+                    }
+                },
                 "flensburg_germany": {
                     "bbox": {
                         "top": "54.841",
@@ -1591,6 +1640,14 @@
                         "right": "6.317"
                     }
                 },
+                "gera_germany": {
+                    "bbox": {
+                        "top": "50.977",
+                        "left": "11.998",
+                        "bottom": "50.799",
+                        "right": "12.170"
+                    }
+                },
                 "glasgow_scotland": {
                     "bbox": {
                         "top": "56.034",
@@ -1629,6 +1686,14 @@
                         "left": "9.376",
                         "bottom": "53.159",
                         "right": "10.678"
+                    }
+                },
+                "jena_germany": {
+                    "bbox": {
+                        "top": "50.988",
+                        "left": "11.499",
+                        "bottom": "50.856",
+                        "right": "11.673"
                     }
                 },
                 "karlsruhe_germany": {
@@ -1822,13 +1887,21 @@
                         "bottom": "49.219",
                         "right": "11.339"
                     }
-                },               
+                },
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
                         "left": "1.851",
                         "bottom": "48.531",
                         "right": "2.911"
+                    }
+                },
+                "plauen_germany": {
+                    "bbox": {
+                        "top": "50.574",
+                        "left": "12.059",
+                        "bottom": "50.430",
+                        "right": "12.226"
                     }
                 },
                 "poitiers_france": {
@@ -1838,7 +1911,7 @@
                         "bottom": "46.522",
                         "right": "0.504"
                     }
-                },             
+                },
                 "odense_denmark": {
                     "bbox": {
                         "top" : "55.691",
@@ -2014,6 +2087,14 @@
                         "bottom": "47.225",
                         "right": "8.800"
                     }
+                },
+                "zwickau_germany": {
+                    "bbox": {
+                        "top": "50.813",
+                        "left": "12.408",
+                        "bottom": "50.641",
+                        "right": "12.567"
+                    }
                 }
             }
         },
@@ -2088,6 +2169,14 @@
                         "bottom": "47.409",
                         "right": "21.862"
                     }
+                },
+                "dnipropetrovsk_ukraine": {
+                    "bbox":{
+                        "top": "48.595",
+                        "left": "34.747",
+                        "bottom": "48.335",
+                        "right": "35.274"
+                    }	
                 },
                 "donetsk_ukraine": {
                     "bbox": {
@@ -2683,6 +2772,14 @@
                         "left": "8.860",
                         "bottom": "45.246",
                         "right": "9.470"
+                    }
+                },
+                "murcia_spain": {
+                    "bbox": {
+                        "top": "38.021",
+                        "left": "-1.208",
+                        "bottom": "37.959",
+                        "right": "-1.073"
                     }
                 },
                 "naples_italy": {
@@ -4685,6 +4782,14 @@
                         "right":"-70.047",
                         "bottom":"-13.582",
                         "left":"-71.855"
+                    }
+                },
+                "florianopolis_brazil": { 
+                    "bbox": {
+                        "top": "-27.286",
+                        "left": "-48.738",
+                        "bottom": "-27.902",
+                        "right": "-48.293"
                     }
                 },
                 "fortaleza_brazil": {
