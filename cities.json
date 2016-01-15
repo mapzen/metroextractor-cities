@@ -1027,6 +1027,15 @@
                         "right": "98.489"
                     }
                 },
+                "phu-quoc_vietnam": {
+                    "bbox": {
+                        "top": "10.491",
+                        "left": "103.741",
+                        "bottom": "9.772",
+                        "right": "104.180"
+                    }
+                },
+                
                 "phnom-penh_cambodia": {
                     "bbox": {
                         "top": "11.737",
