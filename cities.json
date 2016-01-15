@@ -1688,6 +1688,14 @@
                         "right": "10.678"
                     }
                 },
+                "hof_germany": {
+                    "bbox": {
+                        "top": "50.355",
+                        "left": "11.806",
+                        "bottom": "50.267",
+                        "right": "11.972"
+                    }
+                },
                 "jena_germany": {
                     "bbox": {
                         "top": "50.988",
