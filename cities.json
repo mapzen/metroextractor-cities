@@ -1352,6 +1352,14 @@
                         "right": "4.927"
                     }
                 },
+                "bamberg_germany": {
+                    "bbox": {
+                        "top": "49.928",
+                        "left": "10.826",
+                        "bottom": "49.842",
+                        "right": "10.961"
+                    }
+                },
                 "basel_switzerland": {
                     "bbox": {
                         "top": "47.596",
