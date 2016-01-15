@@ -803,6 +803,14 @@
                         "right": "76.389"
                     }
                 },
+                "koh-rong_cambodia": {
+                    "bbox": {
+                        "top": "10.796",
+                        "left": "103.161",
+                        "bottom": "10.495",
+                        "right": "103.396"
+                    }
+                },
                 "koh-samui_thailand": {
                     "bbox": {
                         "top": "9.604",
