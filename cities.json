@@ -2064,6 +2064,14 @@
                         "right": "-7.033"
                     }
                 },
+                "würzburg_germany": {
+                    "bbox": {
+                        "top": "49.845",
+                        "left": "9.870",
+                        "bottom": "49.709",
+                        "right": "10.015"
+                    }
+                },
                 "basel_switzerland": {
                     "bbox": {
                         "top": "47.672",
