@@ -1890,10 +1890,10 @@
                 }, 
                 "nuremberg_germany": {
                     "bbox": {
-                        "top": "49.757",
-                        "left": "10.697",
-                        "bottom": "49.219",
-                        "right": "11.339"
+                        "top": "49.541",
+                        "left": "10.987",
+                        "bottom": "49.330",
+                        "right": "11.283"
                     }
                 },
                 "paris_france": {
