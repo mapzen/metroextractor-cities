@@ -1344,6 +1344,14 @@
                         "right": "4.520"
                     }
                 },
+                "augsburg_germany": {
+                    "bbox": {
+                        "top": "48.458",
+                        "left": "10.763",
+                        "bottom": "48.257",
+                        "right": "12.192"
+                    }
+                },
                 "avignon_france": {
                     "bbox": {
                         "top": "43.996",
