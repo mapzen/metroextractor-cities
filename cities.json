@@ -2112,6 +2112,14 @@
                         "right": "6.349"
                     }
                 },
+                "ulm_germany": {
+                    "bbox": {
+                        "top": "48.468",
+                        "left": "9.841",
+                        "bottom": "48.306",
+                        "right": "10.043"
+                    }
+                },
                 "utrecht_netherlands": {
                     "bbox": {
                         "top": "52.184",
