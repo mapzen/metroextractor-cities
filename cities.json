@@ -1728,6 +1728,14 @@
                         "right": "8.816"
                     }
                 },
+                "konstanz_germany": {
+                    "bbox": {
+                        "top": "47.762",
+                        "left": "9.084",
+                        "bottom": "47.653",
+                        "right": "9.218"
+                    }
+                },
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
