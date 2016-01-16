@@ -1728,6 +1728,14 @@
                         "right": "11.972"
                     }
                 },
+                "heilbronn_germany": {
+                    "bbox": {
+                        "top": "49.210",
+                        "left": "9.043",
+                        "bottom": "49.092",
+                        "right": "9.302"
+                    }
+                },
                 "ingolstadt_germany": {
                     "bbox": {
                         "top": "48.822",
