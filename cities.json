@@ -1535,7 +1535,15 @@
                         "bottom": "47.256",
                         "right": "5.114"
                     }
-                },                
+                },
+                "deggendorf_germany": {
+                    "bbox": {
+                        "top": "48.908",
+                        "left": "12.873",
+                        "bottom": "48.786",
+                        "right": "13.074"
+                    }
+                },
                 "derby_england": {
                     "bbox": {
                         "top": "52.968",
