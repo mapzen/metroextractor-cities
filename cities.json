@@ -1952,6 +1952,14 @@
                         "right": "2.911"
                     }
                 },
+                "passau_germany": {
+                    "bbox": {
+                        "top": "48.613",
+                        "left": "13.301",
+                        "bottom": "48.540",
+                        "right": "13.514"
+                    }
+                },
                 "plauen_germany": {
                     "bbox": {
                         "top": "50.574",
