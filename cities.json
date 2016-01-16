@@ -2008,6 +2008,14 @@
                         "right": "-0.901"
                     }
                 },
+                "regensburg_germany": {
+                    "bbox": {
+                        "top": "49.076",
+                        "left": "12.028",
+                        "bottom": "48.966",
+                        "right": "12.192"
+                    }
+                },
                 "rennes_france": {
                     "bbox": {
                         "top": "48.301",
