@@ -1720,6 +1720,14 @@
                         "right": "11.972"
                     }
                 },
+                "ingolstadt_germany": {
+                    "bbox": {
+                        "top": "48.822",
+                        "left": "11.254",
+                        "bottom": "48.683",
+                        "right": "11.504"
+                    }
+                },
                 "jena_germany": {
                     "bbox": {
                         "top": "50.988",
