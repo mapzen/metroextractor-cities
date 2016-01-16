@@ -1488,6 +1488,14 @@
                         "right": "3.220"
                     }
                 },
+                "coburg_germany": {
+                    "bbox": {
+                        "top": "50.299",
+                        "left": "10.886",
+                        "bottom": "50.221",
+                        "right": "11.063"
+                    }
+                },
                 "copenhagen_denmark": {
                     "bbox": {
                         "top": "55.950",
