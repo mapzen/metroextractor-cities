@@ -2072,6 +2072,14 @@
                         "right": "8.078"
                     }
                 },
+                "stuttgart_germany": {
+                    "bbox": {
+                        "top": "48.866",
+                        "left": "9.037",
+                        "bottom": "48.691",
+                        "right": "9.316"
+                    }
+                },
                 "the-hague_netherlands": {
                     "bbox": {
                         "top": "52.136",
