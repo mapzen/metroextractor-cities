@@ -2096,22 +2096,6 @@
                         "right": "10.015"
                     }
                 },
-                "basel_switzerland": {
-                    "bbox": {
-                        "top": "47.672",
-                        "left": "7.462",
-                        "bottom": "47.436",
-                        "right": "7.866"
-                    }
-                },
-                "geneva_switzerland": {
-                    "bbox": {
-                        "top": "46.436",
-                        "left": "5.892",
-                        "bottom": "46.096",
-                        "right": "6.349"
-                    }
-                },
                 "ulm_germany": {
                     "bbox": {
                         "top": "48.468",
