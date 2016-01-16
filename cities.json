@@ -1640,6 +1640,14 @@
                         "right": "9.442"
                     }
                 },
+                "freiburg_germany": {
+                    "bbox": {
+                        "top": "48.071",
+                        "left": "7.661",
+                        "bottom": "47.902",
+                        "right": "7.931"
+                    }
+                },
                 "frome_england": {
                     "bbox": {
                         "top": "51.250",
