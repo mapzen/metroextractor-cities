@@ -3618,6 +3618,14 @@
                         "right": "-76.709"
                     }
                 },
+                "hellertown_pennsylvania": {
+                    "bbox": {
+                        "top": "40.598",
+                        "left": "-75.368",
+                        "bottom": "40.560",
+                        "right": "-75.318"
+                    }
+                },
                 "honolulu_hawaii": {
                     "bbox": {
                         "top": "21.781",
