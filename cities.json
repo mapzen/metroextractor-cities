@@ -2064,6 +2064,14 @@
                         "right": "4.504"
                     }
                 },
+                "sheffield_england": {
+                    "bbox": {
+                        "top": "53.503",
+                        "left": "-1.801",
+                        "bottom": "53.305",
+                        "right": "-1.325"
+                    }
+                },                
                 "slough_england": {
                     "bbox": {
                         "top": "51.544",
