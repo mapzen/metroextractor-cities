@@ -3064,6 +3064,14 @@
                         "bottom": "40.304"
                     }
                 },
+                "beirut_lebanon": {
+                    "bbox": {
+                        "top": "33.924",
+                        "left": "35.463",
+                        "bottom": "33.792",
+                        "right": "35.583"
+                    }
+                },
                 "bursa_turkey": {
                     "bbox": {
                         "top": "40.310",
