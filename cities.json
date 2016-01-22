@@ -1544,6 +1544,14 @@
                         "right": "7.718"
                     }
                 },
+                "darmstadt_germany": {
+                    "bbox": {
+                        "top": "49.954",
+                        "left": "8.559",
+                        "bottom": "49.795",
+                        "right": "8.750"
+                    }
+                },
                 "dijon_france": {
                     "bbox": {
                         "top": "47.364",
@@ -1567,7 +1575,7 @@
                         "bottom": "52.861",
                         "right": "-1.383"
                     }
-                }, 
+                },
                 "derry_ireland": {
                     "bbox": {
                         "top": "55.043",
@@ -1582,7 +1590,7 @@
                         "left": "13.586",
                         "bottom": "50.978",
                         "right": "13.972"
-                    }  
+                    }
                 },
                 "dublin_ireland": {
                     "bbox": {
@@ -1634,10 +1642,10 @@
                 },
                 "frankfurt_germany": {
                     "bbox": {
-                        "top": "50.447",
-                        "left": "7.811",
-                        "bottom": "49.632",
-                        "right": "9.442"
+                        "top": "50.227",
+                        "left": "8.471",
+                        "bottom": "50.014",
+                        "right": "8.800"
                     }
                 },
                 "freiburg_germany": {
@@ -1654,6 +1662,14 @@
                         "left": "-2.359",
                         "bottom": "51.214",
                         "right": "-2.289"
+                    }
+                },
+                "fulda_germany": {
+                    "bbox": {
+                        "top": "50.629",
+                        "left": "9.565",
+                        "bottom": "50.499",
+                        "right": "9.732"
                     }
                 },
                 "marburg_germany": {
@@ -1686,6 +1702,14 @@
                         "left": "11.998",
                         "bottom": "50.799",
                         "right": "12.170"
+                    }
+                },
+                "gießen_germany": {
+                    "bbox": {
+                        "top": "50.635",
+                        "left": "8.555",
+                        "bottom": "50.526",
+                        "right": "8.764"
                     }
                 },
                 "glasgow_scotland": {
@@ -1776,6 +1800,14 @@
                         "right": "9.218"
                     }
                 },
+                "kassel_germany": {
+                    "bbox": {
+                        "top": "51.369",
+                        "left": "9.349",
+                        "bottom": "51.260",
+                        "right": "9.570"
+                    }
+                },
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
@@ -1854,6 +1886,14 @@
                         "left": "4.136",
                         "bottom": "45.305",
                         "right": "5.517"
+                    }
+                },
+                "mainz_germany": {
+                    "bbox": {
+                        "top": "50.035",
+                        "left": "8.110",
+                        "bottom": "49.895",
+                        "right": "8.343"
                     }
                 },
                 "manchester_england": {
@@ -2169,11 +2209,27 @@
                     }
                 },
                 "würzburg_germany": {
-                    "bbox": {
+                    "bbox": {                
                         "top": "49.845",
                         "left": "9.870",
                         "bottom": "49.709",
                         "right": "10.015"
+                    }
+                },
+                "wiesbaden_germany": {
+                    "bbox": {
+                        "top": "50.152",
+                        "left": "8.110",
+                        "bottom": "49.993",
+                        "right": "8.386"
+                    }
+                },
+                "basel_switzerland": {
+                    "bbox": {
+                        "top": "47.672",
+                        "left": "7.462",
+                        "bottom": "47.436",
+                        "right": "7.866"
                     }
                 },
                 "ulm_germany": {
