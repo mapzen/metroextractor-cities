@@ -1344,12 +1344,28 @@
                         "right": "4.520"
                     }
                 },
+                "augsburg_germany": {
+                    "bbox": {
+                        "top": "48.458",
+                        "left": "10.763",
+                        "bottom": "48.257",
+                        "right": "12.192"
+                    }
+                },
                 "avignon_france": {
                     "bbox": {
                         "top": "43.996",
                         "left": "4.738",
                         "bottom": "43.886",
                         "right": "4.927"
+                    }
+                },
+                "bamberg_germany": {
+                    "bbox": {
+                        "top": "49.928",
+                        "left": "10.826",
+                        "bottom": "49.842",
+                        "right": "10.961"
                     }
                 },
                 "basel_switzerland": {
@@ -1480,6 +1496,14 @@
                         "right": "3.220"
                     }
                 },
+                "coburg_germany": {
+                    "bbox": {
+                        "top": "50.299",
+                        "left": "10.886",
+                        "bottom": "50.221",
+                        "right": "11.063"
+                    }
+                },
                 "copenhagen_denmark": {
                     "bbox": {
                         "top": "55.950",
@@ -1527,7 +1551,15 @@
                         "bottom": "47.256",
                         "right": "5.114"
                     }
-                },                
+                },
+                "deggendorf_germany": {
+                    "bbox": {
+                        "top": "48.908",
+                        "left": "12.873",
+                        "bottom": "48.786",
+                        "right": "13.074"
+                    }
+                },
                 "derby_england": {
                     "bbox": {
                         "top": "52.968",
@@ -1606,6 +1638,14 @@
                         "left": "7.811",
                         "bottom": "49.632",
                         "right": "9.442"
+                    }
+                },
+                "freiburg_germany": {
+                    "bbox": {
+                        "top": "48.071",
+                        "left": "7.661",
+                        "bottom": "47.902",
+                        "right": "7.931"
                     }
                 },
                 "frome_england": {
@@ -1688,6 +1728,30 @@
                         "right": "10.678"
                     }
                 },
+                "hof_germany": {
+                    "bbox": {
+                        "top": "50.355",
+                        "left": "11.806",
+                        "bottom": "50.267",
+                        "right": "11.972"
+                    }
+                },
+                "heilbronn_germany": {
+                    "bbox": {
+                        "top": "49.210",
+                        "left": "9.043",
+                        "bottom": "49.092",
+                        "right": "9.302"
+                    }
+                },
+                "ingolstadt_germany": {
+                    "bbox": {
+                        "top": "48.822",
+                        "left": "11.254",
+                        "bottom": "48.683",
+                        "right": "11.504"
+                    }
+                },
                 "jena_germany": {
                     "bbox": {
                         "top": "50.988",
@@ -1702,6 +1766,14 @@
                         "left": "7.893",
                         "bottom": "48.730",
                         "right": "8.816"
+                    }
+                },
+                "konstanz_germany": {
+                    "bbox": {
+                        "top": "47.762",
+                        "left": "9.084",
+                        "bottom": "47.653",
+                        "right": "9.218"
                     }
                 },
                 "lausanne_switzerland": {
@@ -1834,10 +1906,10 @@
                 },
                 "munich_germany": {
                     "bbox": {
-                        "top": "48.523",
-                        "left": "10.799",
-                        "bottom": "47.717",
-                        "right": "12.178"
+                        "top": "48.248",
+                        "left": "11.359",
+                        "bottom": "48.061",
+                        "right": "11.723"
                     }
                 },
                 "nancy_france": {
@@ -1882,10 +1954,10 @@
                 }, 
                 "nuremberg_germany": {
                     "bbox": {
-                        "top": "49.757",
-                        "left": "10.697",
-                        "bottom": "49.219",
-                        "right": "11.339"
+                        "top": "49.541",
+                        "left": "10.987",
+                        "bottom": "49.330",
+                        "right": "11.283"
                     }
                 },
                 "paris_france": {
@@ -1894,6 +1966,14 @@
                         "left": "1.851",
                         "bottom": "48.531",
                         "right": "2.911"
+                    }
+                },
+                "passau_germany": {
+                    "bbox": {
+                        "top": "48.613",
+                        "left": "13.301",
+                        "bottom": "48.540",
+                        "right": "13.514"
                     }
                 },
                 "plauen_germany": {
@@ -1952,6 +2032,14 @@
                         "right": "-0.901"
                     }
                 },
+                "regensburg_germany": {
+                    "bbox": {
+                        "top": "49.076",
+                        "left": "12.028",
+                        "bottom": "48.966",
+                        "right": "12.192"
+                    }
+                },
                 "rennes_france": {
                     "bbox": {
                         "top": "48.301",
@@ -1999,14 +2087,22 @@
                         "bottom": "48.371",
                         "right": "8.078"
                     }
-				},
-				"the-hague_netherlands": {
-					"bbox": {
-						"top": "52.136",
-						"left": "4.183",
-						"bottom": "52.006",
-						"right": "4.427"
-					}
+                },
+                "stuttgart_germany": {
+                    "bbox": {
+                        "top": "48.866",
+                        "left": "9.037",
+                        "bottom": "48.691",
+                        "right": "9.316"
+                    }
+                },
+                "the-hague_netherlands": {
+                    "bbox": {
+                        "top": "52.136",
+                        "left": "4.183",
+                        "bottom": "52.006",
+                        "right": "4.427"
+                    }
                 },
                 "toulouse_france": {
                     "bbox": {
@@ -2056,20 +2152,20 @@
                         "right": "-7.033"
                     }
                 },
-                "basel_switzerland": {
+                "würzburg_germany": {
                     "bbox": {
-                        "top": "47.672",
-                        "left": "7.462",
-                        "bottom": "47.436",
-                        "right": "7.866"
+                        "top": "49.845",
+                        "left": "9.870",
+                        "bottom": "49.709",
+                        "right": "10.015"
                     }
                 },
-                "geneva_switzerland": {
+                "ulm_germany": {
                     "bbox": {
-                        "top": "46.436",
-                        "left": "5.892",
-                        "bottom": "46.096",
-                        "right": "6.349"
+                        "top": "48.468",
+                        "left": "9.841",
+                        "bottom": "48.306",
+                        "right": "10.043"
                     }
                 },
                 "utrecht_netherlands": {
