@@ -1999,15 +1999,7 @@
                         "bottom": "49.330",
                         "right": "11.283"
                     }
-                },
-                "oristano_italy": {
-                    "bbox": {
-                        "top": "40.428",
-                        "left": "8.363",
-                        "bottom": "39.622",
-                        "right": "9.186"
-                    }
-                },                
+                },            
                 "paris_france": {
                     "bbox": {
                         "top": "49.178",
@@ -2958,6 +2950,14 @@
                         "bottom": "40.792"
                     }
                 },
+                "oristano_italy": {
+                    "bbox": {
+                        "top": "40.428",
+                        "left": "8.363",
+                        "bottom": "39.622",
+                        "right": "9.186"
+                    }
+                },                 
                 "palermo_italy": {
                     "bbox": {
                         "top": "38.295",
