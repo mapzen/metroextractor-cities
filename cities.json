@@ -3530,6 +3530,14 @@
                         "right": "-113.478"
                     }
                 },
+                "cape-canaveral_florida": {
+                    "bbox": {
+                        "top": "28.509",
+                        "left": "-80.944",
+                        "bottom": "28.107",
+                        "right": "-80.213"
+                    }
+                },
                 "charleston_south-carolina": {
                     "bbox": {
                         "top": "32.976",
