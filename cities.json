@@ -1817,6 +1817,14 @@
                         "right": "9.570"
                     }
                 },
+                "krasnodar_russia": {
+                    "bbox": {
+                        "top": "45.203",
+                        "left": "38.847",
+                        "bottom": "44.968",
+                        "right": "39.226"
+                    }
+                },                
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
