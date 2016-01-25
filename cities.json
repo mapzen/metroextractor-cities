@@ -499,6 +499,15 @@
                         "right": "74.762"
                     }
                 },
+                
+                "boracay-philippines": {
+                    "bbox": {
+                        "top": "12.002",
+                        "left": "121.895",
+                        "right": "121.964",
+                        "bottom": "11.937"
+                    }
+                },
                 "busan_south-korea": {
                     "bbox": {
                         "top": "35.474",
@@ -835,6 +844,14 @@
                         "right": "116.175"
                     }
                 },
+                "krasnodar_russia": {
+                    "bbox": {
+                        "top": "45.203",
+                        "left": "38.847",
+                        "bottom": "44.968",
+                        "right": "39.226"
+                    }
+                },                
                 "kuala-lumpur_malaysia": {
                     "bbox": {
                         "top": "3.407",
@@ -1349,7 +1366,7 @@
                         "top": "48.458",
                         "left": "10.763",
                         "bottom": "48.257",
-                        "right": "12.192"
+                        "right": "10.960"
                     }
                 },
                 "avignon_france": {
@@ -1807,7 +1824,7 @@
                         "bottom": "51.260",
                         "right": "9.570"
                     }
-                },
+                },             
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
@@ -2433,7 +2450,7 @@
                         "bottom": "49.850",
                         "right": "20.275"
                     }
-                },
+                },                 
                 "krasnokutsk_ukraine": {
                     "bbox": {
                         "top": "50.085",
@@ -3528,6 +3545,14 @@
                         "left": "-114.612",
                         "bottom": "50.710",
                         "right": "-113.478"
+                    }
+                },
+                "cape-canaveral_florida": {
+                    "bbox": {
+                        "top": "28.509",
+                        "left": "-80.944",
+                        "bottom": "28.107",
+                        "right": "-80.213"
                     }
                 },
                 "charleston_south-carolina": {
