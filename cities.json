@@ -844,6 +844,14 @@
                         "right": "116.175"
                     }
                 },
+                "krasnodar_russia": {
+                    "bbox": {
+                        "top": "45.203",
+                        "left": "38.847",
+                        "bottom": "44.968",
+                        "right": "39.226"
+                    }
+                },                
                 "kuala-lumpur_malaysia": {
                     "bbox": {
                         "top": "3.407",
@@ -1816,15 +1824,7 @@
                         "bottom": "51.260",
                         "right": "9.570"
                     }
-                },
-                "krasnodar_russia": {
-                    "bbox": {
-                        "top": "45.203",
-                        "left": "38.847",
-                        "bottom": "44.968",
-                        "right": "39.226"
-                    }
-                },                
+                },             
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
@@ -2450,7 +2450,7 @@
                         "bottom": "49.850",
                         "right": "20.275"
                     }
-                },
+                },                 
                 "krasnokutsk_ukraine": {
                     "bbox": {
                         "top": "50.085",
