@@ -499,6 +499,15 @@
                         "right": "74.762"
                     }
                 },
+                
+                "boracay-philippines": {
+                    "bbox": {
+                        "top": "12.002",
+                        "left": "121.895",
+                        "right": "121.964",
+                        "bottom": "11.937"
+                    }
+                },
                 "busan_south-korea": {
                     "bbox": {
                         "top": "35.474",
