@@ -2499,6 +2499,14 @@
                         "right": "14.760"
                     }
                 },
+                "lodz_poland": {
+                    "bbox": {
+                        "top": "51.869",
+                        "left": "19.252",
+                        "bottom": "51.676",
+                        "right": "19.708"
+                    }
+                },                
                 "lviv_ukraine": {
                     "bbox": {
                         "top": "50.148",
