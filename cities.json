@@ -3321,6 +3321,14 @@
                         "right": "44.495"
                     }
                 },
+                "mashhad_iran": {
+                    "bbox": {
+                        "top": "36.398",
+                        "left": "59.451",
+                        "bottom": "36.213",
+                        "right": "59.692"
+                    }
+                },                
                 "mecca_saudi-arabia": {
                     "bbox": {
                         "top": "21.590",
