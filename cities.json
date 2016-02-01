@@ -1198,6 +1198,14 @@
                         "right": "118.082"
                     }
                 },
+                "shenzhen_china": {
+                    "bbox": {
+                        "top": "22.808",
+                        "left": "113.755",
+                        "bottom": "22.422",
+                        "right": "114.681"
+                    }
+                },                
                 "shijiazhuang_china": {
                     "bbox": {
                         "top": "38.010",
