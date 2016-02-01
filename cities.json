@@ -176,6 +176,14 @@
                         "right": "31.109" 
                     }
                 },
+                "ekurhuleni_south-africa": {
+                    "bbox": {
+                        "top": "-25.903",
+                        "left": "28.066",
+                        "bottom": "-26.466",
+                        "right": "28.527"
+                    }
+                },
                 "gaborone_botswana": {
                     "bbox": {
                         "top": "-24.488",
