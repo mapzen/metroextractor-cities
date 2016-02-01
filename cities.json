@@ -184,6 +184,14 @@
                         "right": "26.054"
                     }
                 },
+                "giza_egypt": {
+                    "bbox": {
+                        "top": "30.043",
+                        "left": "31.169",
+                        "bottom": "29.946",
+                        "right": "31.283"
+                    }
+                },                
                 "harare_zimbabwe": {
                     "bbox": {
                         "top": "-17.508",
