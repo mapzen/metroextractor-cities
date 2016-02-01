@@ -2307,6 +2307,14 @@
                 "right": "38.890"
             },
             "cities": {
+                "belgrade_serbia": {
+                    "bbox": {
+                        "top": "44.908",
+                        "left": "20.191",
+                        "bottom": "44.637",
+                        "right": "20.706"
+                    }
+                },
                 "brno_czech-republic": {
                     "bbox": {
                         "top": "49.357",
