@@ -208,6 +208,14 @@
                         "right": "31.377"
                     }
                 },
+                "ibadan_nigeria": {
+                    "bbox": {
+                        "top": "7.476",
+                        "left": "3.839",
+                        "bottom": "7.302",
+                        "right": "4.025"
+                    }
+                },                
                 "johannesburg_south-africa": {
                     "bbox": {
                         "top": "-25.834",
