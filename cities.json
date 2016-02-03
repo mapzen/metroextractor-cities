@@ -652,6 +652,14 @@
                         "right": "90.838"
                     }
                 },
+                "dongguan_china": {
+                    "bbox": {
+                        "top": "23.175",
+                        "left": "113.554",
+                        "bottom": "22.921",
+                        "right": "113.958"
+                    }
+                },                 
                 "dushanbe_tajikistan": {
                     "bbox": {
                         "top": "38.829",
