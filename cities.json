@@ -176,6 +176,14 @@
                         "right": "31.109" 
                     }
                 },
+                "ekurhuleni_south-africa": {
+                    "bbox": {
+                        "top": "-25.903",
+                        "left": "28.066",
+                        "bottom": "-26.466",
+                        "right": "28.527"
+                    }
+                },
                 "gaborone_botswana": {
                     "bbox": {
                         "top": "-24.488",
@@ -184,6 +192,14 @@
                         "right": "26.054"
                     }
                 },
+                "giza_egypt": {
+                    "bbox": {
+                        "top": "30.043",
+                        "left": "31.169",
+                        "bottom": "29.946",
+                        "right": "31.283"
+                    }
+                },                
                 "harare_zimbabwe": {
                     "bbox": {
                         "top": "-17.508",
@@ -192,6 +208,14 @@
                         "right": "31.377"
                     }
                 },
+                "ibadan_nigeria": {
+                    "bbox": {
+                        "top": "7.476",
+                        "left": "3.839",
+                        "bottom": "7.302",
+                        "right": "4.025"
+                    }
+                },                
                 "johannesburg_south-africa": {
                     "bbox": {
                         "top": "-25.834",
@@ -628,6 +652,14 @@
                         "right": "90.838"
                     }
                 },
+                "dongguan_china": {
+                    "bbox": {
+                        "top": "23.175",
+                        "left": "113.554",
+                        "bottom": "22.921",
+                        "right": "113.958"
+                    }
+                },                 
                 "dushanbe_tajikistan": {
                     "bbox": {
                         "top": "38.829",
@@ -956,6 +988,14 @@
                         "right": "116.246"
                     }
                 },
+                "nanjing_china": {
+                    "bbox": {
+                        "top": "32.611",
+                        "left": "118.357",
+                        "bottom": "31.230",
+                        "right": "119.237"
+                    }
+                },                
                 "nara_japan": {
                     "bbox": {
                         "top": "34.831",
@@ -980,6 +1020,14 @@
                         "right": "77.733"
                     }
                 },
+                "ningbo_china": {
+                    "bbox": {
+                        "top": "30.369",
+                        "left": "120.917",
+                        "bottom": "29.036",
+                        "right": "122.257"
+                    }
+                },                 
                 "nizhniy-novgorod_russia": {
                     "bbox": {
                         "top": "56.400",
@@ -1174,6 +1222,22 @@
                         "right": "118.082"
                     }
                 },
+                "shenyang_china": {
+                    "bbox": {
+                        "top": "41.924",
+                        "left": "123.241",
+                        "bottom": "41.685",
+                        "right": "123.604"
+                    }
+                },                 
+                "shenzhen_china": {
+                    "bbox": {
+                        "top": "22.808",
+                        "left": "113.755",
+                        "bottom": "22.422",
+                        "right": "114.681"
+                    }
+                },                
                 "shijiazhuang_china": {
                     "bbox": {
                         "top": "38.010",
@@ -2283,6 +2347,14 @@
                 "right": "38.890"
             },
             "cities": {
+                "belgrade_serbia": {
+                    "bbox": {
+                        "top": "44.908",
+                        "left": "20.191",
+                        "bottom": "44.637",
+                        "right": "20.706"
+                    }
+                },
                 "brno_czech-republic": {
                     "bbox": {
                         "top": "49.357",
@@ -2475,6 +2547,14 @@
                         "right": "14.760"
                     }
                 },
+                "lodz_poland": {
+                    "bbox": {
+                        "top": "51.869",
+                        "left": "19.252",
+                        "bottom": "51.676",
+                        "right": "19.708"
+                    }
+                },                
                 "lviv_ukraine": {
                     "bbox": {
                         "top": "50.148",
@@ -3289,6 +3369,14 @@
                         "right": "44.495"
                     }
                 },
+                "mashhad_iran": {
+                    "bbox": {
+                        "top": "36.398",
+                        "left": "59.451",
+                        "bottom": "36.213",
+                        "right": "59.692"
+                    }
+                },                
                 "mecca_saudi-arabia": {
                     "bbox": {
                         "top": "21.590",
