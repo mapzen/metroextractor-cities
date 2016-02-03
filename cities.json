@@ -988,6 +988,14 @@
                         "right": "116.246"
                     }
                 },
+                "nanjing_china": {
+                    "bbox": {
+                        "top": "32.611",
+                        "left": "118.357",
+                        "bottom": "31.230",
+                        "right": "119.237"
+                    }
+                },                
                 "nara_japan": {
                     "bbox": {
                         "top": "34.831",
