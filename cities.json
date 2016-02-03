@@ -1020,6 +1020,14 @@
                         "right": "77.733"
                     }
                 },
+                "ningbo_china": {
+                    "bbox": {
+                        "top": "30.369",
+                        "left": "120.917",
+                        "bottom": "29.036",
+                        "right": "122.257"
+                    }
+                },                 
                 "nizhniy-novgorod_russia": {
                     "bbox": {
                         "top": "56.400",
