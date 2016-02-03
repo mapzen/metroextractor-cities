@@ -1214,6 +1214,14 @@
                         "right": "118.082"
                     }
                 },
+                "shenyang_china": {
+                    "bbox": {
+                        "top": "41.924",
+                        "left": "123.241",
+                        "bottom": "41.685",
+                        "right": "123.604"
+                    }
+                },                 
                 "shenzhen_china": {
                     "bbox": {
                         "top": "22.808",
