@@ -3103,6 +3103,14 @@
                         "right": "-3.737"
                     }
                 },
+                "santiago-de-compostela_spain": {
+                    "bbox": {
+                        "top": "42.935",
+                        "left": "-8.614",
+                        "bottom": "42.829",
+                        "right": "-8.473"
+                    }
+                },                
                 "seville_spain": {
                     "bbox": {
                         "top": "37.460",
