@@ -3803,6 +3803,14 @@
                         "right": "-87.237"
                     }
                 },
+                "exatepec-de-morelos_mexico": {
+                    "bbox": {
+                        "top": "19.659",
+                        "left": "-99.101",
+                        "bottom": "19.484",
+                        "right": "-98.974"
+                    }
+                },                
                 "fort-collins_colorado": {
                     "bbox": {
                         "top": "40.618",
