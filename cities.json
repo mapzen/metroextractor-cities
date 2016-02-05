@@ -5041,6 +5041,14 @@
                         "right": "-61.845"
                     }
                 },
+                "cali_colombia": {
+                    "bbox": {
+                        "top": "3.608",
+                        "left": "-76.580",
+                        "bottom": "3.306",
+                        "right": "-76.453"
+                    }
+                },
                 "cordoba_argentina": {
                     "bbox": {
                         "top": "-31.256",
