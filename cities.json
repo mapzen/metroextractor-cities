@@ -1849,6 +1849,14 @@
                         "right": "10.678"
                     }
                 },
+                "hanover_germany": {
+                    "bbox": {
+                        "top": "52.454",
+                        "left": "9.604",
+                        "bottom": "52.305",
+                        "right": "9.919"
+                    }
+                },
                 "hof_germany": {
                     "bbox": {
                         "top": "50.355",
