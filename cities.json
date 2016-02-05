@@ -4675,6 +4675,14 @@
                         "right": "-87.280"
                     }
                 },
+                "tijuana_mexico": {
+                    "bbox": {
+                        "top": "32.553",
+                        "left": "-117.125",
+                        "bottom": "32.442",
+                        "right": "-116.862"
+                    }
+                },
                 "toronto_canada": {
                     "bbox": {
                         "top": "44.182",
