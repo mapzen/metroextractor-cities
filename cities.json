@@ -1489,6 +1489,14 @@
                         "right": "7.561"
                     }
                 },
+                "bielefeld_germany": {
+                    "bbox": {
+                        "top": "52.114",
+                        "left": "8.377",
+                        "bottom": "51.915",
+                        "right": "8.663"
+                    }
+                },
                 "birmingham_england": {
                     "bbox": {
                         "top": "52.794",
