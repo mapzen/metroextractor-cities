@@ -1513,6 +1513,14 @@
                         "right": "7.276"
                     }
                 },
+                "bonn_germany": {
+                    "bbox": {
+                        "top": "50.833",
+                        "left": "6.904",
+                        "bottom": "50.654",
+                        "right": "7.331"
+                    }
+                },
                 "bordeaux_france": {
                     "bbox": {
                         "top": "45.065",
