@@ -1665,6 +1665,14 @@
                         "right": "-7.271"
                     }
                 },
+                "dortmund_germany": {
+                    "bbox": {
+                        "top": "51.627",
+                        "left": "7.294",
+                        "bottom": "51.378",
+                        "right": "7.646"
+                    }
+                },
                 "dresden_germany": {
                     "bbox": {
                         "top": "51.180",
