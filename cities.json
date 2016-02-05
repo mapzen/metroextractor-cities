@@ -1721,6 +1721,14 @@
                         "right": "11.174"
                     }
                 },
+                "essen_germany": {
+                    "bbox": {
+                        "top": "51.534",
+                        "left": "6.894",
+                        "bottom": "51.347",
+                        "right": "7.138"
+                    }
+                },
                 "flensburg_germany": {
                     "bbox": {
                         "top": "54.841",
