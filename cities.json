@@ -4459,6 +4459,14 @@
                         "right": "-116.588"
                     }
                 },
+                "san-diego_california": {
+                    "bbox": {
+                        "top": "32.910",
+                        "left": "-117.288",
+                        "bottom": "32.558",
+                        "right": "-116.918"
+                    }
+                },
                 "san-francisco_california": {
                     "bbox": {
                         "top": "37.955",
