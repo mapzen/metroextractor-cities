@@ -5249,6 +5249,14 @@
                         "right": "-59.800"
                     }
                 },
+                "maraciabo_venezuela": {
+                    "bbox": {
+                        "top": "10.746",
+                        "left": "-71.743",
+                        "bottom": "10.507",
+                        "right": "-71.586"
+                    }
+                },
                 "mariana_brazil": {
                     "bbox": {
                         "top": "-20.351",
