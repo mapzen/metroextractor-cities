@@ -5185,6 +5185,14 @@
                         "right": "-76.701"
                     }
                 },
+                "manaus_brazil": {
+                    "bbox": {
+                        "top": "-2.898",
+                        "left": "-60.161",
+                        "bottom": "-3.222",
+                        "right": "-59.800"
+                    }
+                },
                 "mariana_brazil": {
                     "bbox": {
                         "top": "-20.351",
