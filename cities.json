@@ -1489,12 +1489,36 @@
                         "right": "7.561"
                     }
                 },
+                "bielefeld_germany": {
+                    "bbox": {
+                        "top": "52.114",
+                        "left": "8.377",
+                        "bottom": "51.915",
+                        "right": "8.663"
+                    }
+                },
                 "birmingham_england": {
                     "bbox": {
                         "top": "52.794",
                         "left": "-2.536",
                         "bottom": "52.214",
                         "right": "-1.267"
+                    }
+                },
+                "bochum_germany": {
+                    "bbox": {
+                        "top": "51.506",
+                        "left": "7.168",
+                        "bottom": "51.448",
+                        "right": "7.276"
+                    }
+                },
+                "bonn_germany": {
+                    "bbox": {
+                        "top": "50.833",
+                        "left": "6.904",
+                        "bottom": "50.654",
+                        "right": "7.331"
                     }
                 },
                 "bordeaux_france": {
@@ -1665,6 +1689,14 @@
                         "right": "-7.271"
                     }
                 },
+                "dortmund_germany": {
+                    "bbox": {
+                        "top": "51.627",
+                        "left": "7.294",
+                        "bottom": "51.378",
+                        "right": "7.646"
+                    }
+                },
                 "dresden_germany": {
                     "bbox": {
                         "top": "51.180",
@@ -1711,6 +1743,14 @@
                         "left": "10.854",
                         "bottom": "50.890",
                         "right": "11.174"
+                    }
+                },
+                "essen_germany": {
+                    "bbox": {
+                        "top": "51.534",
+                        "left": "6.894",
+                        "bottom": "51.347",
+                        "right": "7.138"
                     }
                 },
                 "flensburg_germany": {
@@ -1831,6 +1871,14 @@
                         "left": "9.376",
                         "bottom": "53.159",
                         "right": "10.678"
+                    }
+                },
+                "hanover_germany": {
+                    "bbox": {
+                        "top": "52.454",
+                        "left": "9.604",
+                        "bottom": "52.305",
+                        "right": "9.919"
                     }
                 },
                 "hof_germany": {
@@ -2023,6 +2071,14 @@
                         "left": "3.381",
                         "bottom": "43.241",
                         "right": "4.488"
+                    }
+                },
+                "münster_germany": {
+                    "bbox": {
+                        "top": "52.060",
+                        "left": "7.473",
+                        "bottom": "51.840",
+                        "right": "7.774"
                     }
                 },
                 "munich_germany": {
@@ -3103,6 +3159,14 @@
                         "right": "-3.737"
                     }
                 },
+                "santiago-de-compostela_spain": {
+                    "bbox": {
+                        "top": "42.935",
+                        "left": "-8.614",
+                        "bottom": "42.829",
+                        "right": "-8.473"
+                    }
+                },                
                 "seville_spain": {
                     "bbox": {
                         "top": "37.460",
@@ -3795,6 +3859,14 @@
                         "right": "-87.237"
                     }
                 },
+                "exatepec-de-morelos_mexico": {
+                    "bbox": {
+                        "top": "19.659",
+                        "left": "-99.101",
+                        "bottom": "19.484",
+                        "right": "-98.974"
+                    }
+                },                
                 "fort-collins_colorado": {
                     "bbox": {
                         "top": "40.618",
@@ -3971,6 +4043,14 @@
                         "right": "-133.030"
                     }
                 },
+                "juaréz_mexico": {
+                    "bbox": {
+                        "top": "31.784",
+                        "left": "-106.592",
+                        "bottom": "31.524",
+                        "right": "-106.294"
+                    }
+                },
                 "kamloops_canada": {
                     "bbox": {
                         "top": "50.870",
@@ -4017,6 +4097,14 @@
                         "left": "-115.581",
                         "bottom": "35.757",
                         "right": "-114.211"
+                    }
+                },
+                "leon_mexico": {
+                    "bbox": {
+                        "top": "21.193",
+                        "left": "-101.746",
+                        "bottom": "21.056",
+                        "right": "-101.598"
                     }
                 },
                 "lexington_kentucky": {
@@ -4435,6 +4523,14 @@
                         "right": "-116.588"
                     }
                 },
+                "san-diego_california": {
+                    "bbox": {
+                        "top": "32.910",
+                        "left": "-117.288",
+                        "bottom": "32.558",
+                        "right": "-116.918"
+                    }
+                },
                 "san-francisco_california": {
                     "bbox": {
                         "top": "37.955",
@@ -4649,6 +4745,14 @@
                         "left": "-87.508",
                         "bottom": "39.367",
                         "right": "-87.280"
+                    }
+                },
+                "tijuana_mexico": {
+                    "bbox": {
+                        "top": "32.553",
+                        "left": "-117.125",
+                        "bottom": "32.442",
+                        "right": "-116.862"
                     }
                 },
                 "toronto_canada": {
@@ -4993,6 +5097,14 @@
                         "right": "-61.845"
                     }
                 },
+                "cali_colombia": {
+                    "bbox": {
+                        "top": "3.608",
+                        "left": "-76.580",
+                        "bottom": "3.306",
+                        "right": "-76.453"
+                    }
+                },
                 "cordoba_argentina": {
                     "bbox": {
                         "top": "-31.256",
@@ -5127,6 +5239,22 @@
                         "left": "-77.294",
                         "bottom": "-12.358",
                         "right": "-76.701"
+                    }
+                },
+                "manaus_brazil": {
+                    "bbox": {
+                        "top": "-2.898",
+                        "left": "-60.161",
+                        "bottom": "-3.222",
+                        "right": "-59.800"
+                    }
+                },
+                "maraciabo_venezuela": {
+                    "bbox": {
+                        "top": "10.746",
+                        "left": "-71.743",
+                        "bottom": "10.507",
+                        "right": "-71.586"
                     }
                 },
                 "mariana_brazil": {
