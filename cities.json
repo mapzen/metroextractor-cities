@@ -4043,6 +4043,14 @@
                         "right": "-114.211"
                     }
                 },
+                "leon_mexico": {
+                    "bbox": {
+                        "top": "21.193",
+                        "left": "-101.746",
+                        "bottom": "21.056",
+                        "right": "-101.598"
+                    }
+                },
                 "lexington_kentucky": {
                     "bbox": {
                         "top": "38.255",
