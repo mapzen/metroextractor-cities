@@ -1497,6 +1497,14 @@
                         "right": "-1.267"
                     }
                 },
+                "bochum_germany": {
+                    "bbox": {
+                        "top": "51.506",
+                        "left": "7.168",
+                        "bottom": "51.448",
+                        "right": "7.276"
+                    }
+                },
                 "bordeaux_france": {
                     "bbox": {
                         "top": "45.065",
