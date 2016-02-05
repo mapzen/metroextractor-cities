@@ -3987,6 +3987,14 @@
                         "right": "-133.030"
                     }
                 },
+                "juaréz_mexico": {
+                    "bbox": {
+                        "top": "31.784",
+                        "left": "-106.592",
+                        "bottom": "31.524",
+                        "right": "-106.294"
+                    }
+                },
                 "kamloops_canada": {
                     "bbox": {
                         "top": "50.870",
