@@ -2073,6 +2073,14 @@
                         "right": "4.488"
                     }
                 },
+                "münster_germany": {
+                    "bbox": {
+                        "top": "52.060",
+                        "left": "7.473",
+                        "bottom": "51.840",
+                        "right": "7.774"
+                    }
+                },
                 "munich_germany": {
                     "bbox": {
                         "top": "48.248",
