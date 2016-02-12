@@ -14,7 +14,7 @@ namespace :test do
     json['regions'].each_value do |region|
       region['cities'].each_key do |city|
         if names_seen.include?(city)
-          abort "Failure! City with name #{city.inspect} appears twice.".color(:red)
+          abort "Failure! City with name #{city.inspect} already appear in cities.json, did you mean to edit the existing city's properties?".color(:red)
         else
           names_seen.add(city)
         end
