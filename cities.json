@@ -2308,7 +2308,7 @@
                 "turin_italy": {
                     "bbox": {
                         "top": "45.174",
-                        "left": "7.521",
+                        "left": "7.504",
                         "bottom": "44.943",
                         "right": "7.887"
                     }
@@ -3197,14 +3197,6 @@
                         "left": "11.022",
                         "bottom": "45.977",
                         "right": "11.196"
-                    }
-                },
-                "turin_italy": {
-                    "bbox": {
-                        "top": "45.156",
-                        "left": "7.504",
-                        "bottom": "44.980",
-                        "right": "7.775"
                     }
                 },
                 "valencia_spain": {
