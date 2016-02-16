@@ -128,12 +128,20 @@
                         "right": "-7.456"
                     }
                 },
+                "chinhoyi_zimbabwe": {
+                    "bbox": {
+                        "top": "33.652",
+                        "left": "-7.737",
+                        "bottom": "33.487",
+                        "right": "-7.456"
+                    }
+                },
                 "conakry_guinea": {
                     "bbox": {
-                        "top": "9.810", 
-                        "left": "-13.860",
-                        "bottom": "9.418",
-                        "right": "-13.458" 
+                        "top": "-17.343", 
+                        "left": "30.156",
+                        "bottom": "-17.344",
+                        "right": "30.222" 
                     }
                 },
                 "constantine_algeria": {
@@ -1793,6 +1801,14 @@
                         "right": "9.732"
                     }
                 },
+                "maastricht_netherlands": {
+                    "bbox": {
+                        "top": "50.914",
+                        "left": "5.631",
+                        "bottom": "50.789",
+                        "right": "5.773"
+                    }
+                },
                 "marburg_germany": {
                     "bbox": {
                         "top": "50.884",
@@ -2308,7 +2324,7 @@
                 "turin_italy": {
                     "bbox": {
                         "top": "45.174",
-                        "left": "7.521",
+                        "left": "7.504",
                         "bottom": "44.943",
                         "right": "7.887"
                     }
@@ -3199,14 +3215,6 @@
                         "right": "11.196"
                     }
                 },
-                "turin_italy": {
-                    "bbox": {
-                        "top": "45.156",
-                        "left": "7.504",
-                        "bottom": "44.980",
-                        "right": "7.775"
-                    }
-                },
                 "valencia_spain": {
                     "bbox": {
                         "top": "39.504",
@@ -3433,6 +3441,14 @@
                         "right": "44.495"
                     }
                 },
+                "manama_bahrain": {
+                    "bbox": {
+                        "top": "26.292",
+                        "left": "50.386",
+                        "bottom": "25.542",
+                        "right": "50.828"
+                    }
+                }, 
                 "mashhad_iran": {
                     "bbox": {
                         "top": "36.398",
@@ -3827,6 +3843,14 @@
                         "right": "-82.375"
                     }
                 },
+                "dolores_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.522",
+                        "left": "-89.417",
+                        "bottom": "16.508",
+                        "right": "-89.402"
+                    }
+                },
                 "duluth_minnesota": {
                     "bbox": {
                         "top": "47.095",
@@ -3865,6 +3889,14 @@
                         "left": "-99.101",
                         "bottom": "19.484",
                         "right": "-98.974"
+                    }
+                },
+                "flores_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.919",
+                        "left": "-89.887",
+                        "bottom": "16.905",
+                        "right": "-89.872"
                     }
                 },                
                 "fort-collins_colorado": {
@@ -4091,6 +4123,22 @@
                         "right": "-86.750"
                     }
                 },
+                "la_libertad_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.805",
+                        "left": "-90.184",
+                        "bottom": "16.787",
+                        "right": "-90.165"
+                    }
+                },
+                "las_cruces_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.657",
+                        "left": "-90.307",
+                        "bottom": "16.643",
+                        "right": "-90.293"
+                    }
+                },
                 "las-vegas_nevada": {
                     "bbox": {
                         "top": "36.615",
@@ -4185,6 +4233,14 @@
                         "left": "-98.494",
                         "bottom": "25.864",
                         "right": "-97.218"
+                    }
+                },
+                "melchor_de_mencos_petén_guatemala": {
+                    "bbox": {
+                        "top": "17.076",
+                        "left": "-89.160",
+                        "bottom": "17.062",
+                        "right": "-89.145"
                     }
                 },
                 "memphis_tennessee": {
@@ -4363,6 +4419,14 @@
                         "right": "-79.249"
                     }
                 },
+                "poptún_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.334",
+                        "left": "-89.430",
+                        "bottom": "16.320",
+                        "right": "-89.415"
+                    }
+                },
                 "port-au-prince_haiti": {
                     "bbox": {
                         "top": "18.683",
@@ -4411,7 +4475,7 @@
                         "right": "-78.577"
                     }
                 },                
-              "redlands_california": {
+                "redlands_california": {
                     "bbox": {
                         "top": "34.138",
                         "left": "-117.325",
@@ -4507,12 +4571,28 @@
                         "bottom": "40.700"
                     }
                 },
+                "san_andrés_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.974",
+                        "left": "-89.924",
+                        "bottom": "16.960",
+                        "right": "-89.909"
+                    }
+                },
                 "san-antonio_texas": {
                     "bbox": {
                         "top": "29.951",
                         "left": "-98.951",
                         "bottom": "29.109",
                         "right": "-97.880"
+                    }
+                },
+                "san_benito_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.925",
+                        "left": "-89.920",
+                        "bottom": "16.907",
+                        "right": "-89.901"
                     }
                 },
                 "san-diego-tijuana_mexico": {
@@ -4547,6 +4627,14 @@
                         "right": "-121.025"
                     }
                 },
+                "san_francisco_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.799",
+                        "left": "-89.940",
+                        "bottom": "16.784",
+                        "right": "-89.926"
+                    }
+                },
                 "san-jose_california": {
                     "bbox": {
                     "top": "37.469",
@@ -4555,12 +4643,28 @@
                     "right": "-121.589"
                     }
                 },
+                "san_josé_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.990",
+                        "left": "-89.907",
+                        "bottom": "16.976",
+                        "right": "-89.893"
+                    }
+                },
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
                         "left": "-66.301",
                         "right": "-65.817",
                         "bottom": "18.186"
+                    }
+                },
+                "san_luis_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.194",
+                        "left": "-89.444",
+                        "bottom": "16.179",
+                        "right": "-89.430"
                     }
                 },
                 "san-luis-obispo_california": {
@@ -4577,6 +4681,14 @@
                         "left": "-117.944",
                         "bottom": "33.692",
                         "right": "-117.831"
+                    }
+                },
+                "santa_ana_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.806",
+                        "left": "-89.827",
+                        "bottom": "16.788",
+                        "right": "-89.808"
                     }
                 },
                 "santa-barbara_california": {
@@ -4633,6 +4745,14 @@
                         "left": "-81.328",
                         "bottom": "31.850",
                         "right": "-80.830"
+                    }
+                },
+                "sayaxche_petén_guatemala": {
+                    "bbox": {
+                        "top": "16.527",
+                        "left": "-90.189",
+                        "bottom": "16.509",
+                        "right": "-90.170"
                     }
                 },
                 "seattle_washington": {
