@@ -9,4 +9,5 @@ task :test do
   Rake::Task['test:json'].invoke
   Rake::Task['test:whitespace'].invoke
   Rake::Task['test:geojson'].invoke
+  Rake::Task['test:duplicates'].invoke
 end
