@@ -128,12 +128,20 @@
                         "right": "-7.456"
                     }
                 },
+                "chinhoyi_zimbabwe": {
+                    "bbox": {
+                        "top": "33.652",
+                        "left": "-7.737",
+                        "bottom": "33.487",
+                        "right": "-7.456"
+                    }
+                },
                 "conakry_guinea": {
                     "bbox": {
-                        "top": "9.810", 
-                        "left": "-13.860",
-                        "bottom": "9.418",
-                        "right": "-13.458" 
+                        "top": "-17.343", 
+                        "left": "30.156",
+                        "bottom": "-17.344",
+                        "right": "30.222" 
                     }
                 },
                 "constantine_algeria": {
