@@ -3441,6 +3441,14 @@
                         "right": "44.495"
                     }
                 },
+                "manama_bahrain": {
+                    "bbox": {
+                        "top": "26.292",
+                        "left": "50.386",
+                        "bottom": "25.542",
+                        "right": "50.828"
+                    }
+                }, 
                 "mashhad_iran": {
                     "bbox": {
                         "top": "36.398",
