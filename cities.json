@@ -1793,6 +1793,14 @@
                         "right": "9.732"
                     }
                 },
+                "maastricht_netherlands": {
+                    "bbox": {
+                        "top": "50.914",
+                        "left": "5.631",
+                        "bottom": "50.789",
+                        "right": "5.773"
+                    }
+                },
                 "marburg_germany": {
                     "bbox": {
                         "top": "50.884",
