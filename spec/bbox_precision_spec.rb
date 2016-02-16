@@ -11,7 +11,7 @@ namespace :test do
 
     def decimal_precision?(input, area, limit)
       places = input.to_s.split('.')[1].size.to_i
-      fail if places != limit
+      raise if places != limit
     rescue
       abort "Failure! Bounding box value for area \"#{area}\" is not denoted with 3 decimal places of precision : \"#{input}\".".color(:red)
     end
