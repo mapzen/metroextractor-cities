@@ -19387,6 +19387,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "jacksonville_florida"
+      },
+      "bbox": [
+        -82.049,
+        30.103,
+        -81.391,
+        30.586
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.049,
+              30.586
+            ],
+            [
+              -81.391,
+              30.586
+            ],
+            [
+              -81.391,
+              30.103
+            ],
+            [
+              -82.049,
+              30.103
+            ],
+            [
+              -82.049,
+              30.586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "juneau_alaska"
       },
       "bbox": [
