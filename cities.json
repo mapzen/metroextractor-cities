@@ -4069,10 +4069,10 @@
                 },
                 "jacksonville_florida": {
                     "bbox": {
-                        "top": "30.586232",
-                        "left": "-82.049502",
-                        "bottom": "30.103748",
-                        "right": "-81.391412"
+                        "top": "30.586",
+                        "left": "-82.049",
+                        "bottom": "30.103",
+                        "right": "-81.391"
                     }
                 },
                 "juneau_alaska": {
