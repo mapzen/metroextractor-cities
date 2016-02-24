@@ -3749,10 +3749,10 @@
                 },
                 "chattanooga_tennessee": {
                     "bbox": {
-                        "top": "35.268",
-                        "left": "-85.592",
-                        "bottom": "34.904",
-                        "right": "-84.992"
+                        "top": "35.844",
+                        "left": "-86.385",
+                        "bottom": "34.252",
+                        "right": "-82.979"
                     }
                 },
                 "chicago_illinois": {
