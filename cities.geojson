@@ -26602,6 +26602,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "valdivia_chile"
+      },
+      "bbox": [
+        -73.501,
+        -39.982,
+        -73.072,
+        -39.688
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.501,
+              -39.688
+            ],
+            [
+              -73.072,
+              -39.688
+            ],
+            [
+              -73.072,
+              -39.982
+            ],
+            [
+              -73.501,
+              -39.982
+            ],
+            [
+              -73.501,
+              -39.688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "valparaiso_chile"
       },
       "bbox": [
