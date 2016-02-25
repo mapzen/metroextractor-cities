@@ -5577,6 +5577,14 @@
                         "right": "-60.224"
                     }
                 },
+                "valdivia_chile": {
+                    "bbox": {
+                        "top": "-39.688",
+                        "left": "-73.072",
+                        "bottom": "-39.982",
+                        "right": "-73.501"
+                    }
+                },
                 "valparaiso_chile": {
                     "bbox": {
                         "top": "-32.894",
