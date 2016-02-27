@@ -4939,6 +4939,14 @@
                         "right":"-81.507"
                     }
                 },
+                "waterloo-region_canada":{
+                    "bbox":{
+                        "top":"43.694",
+                        "left":"-80.872",
+                        "bottom":"43.263",
+                        "right":"-80.186"
+                    }
+                },
                 "whitehorse_canada":{
                     "bbox":{
                         "top":"60.798",
