@@ -4019,6 +4019,7 @@
                         "right": "-76.709"
                     }
                 },
+<<<<<<< HEAD
                 "harrisonburg_virginia": {
                     "bbox": {
                         "top": "38.498",
@@ -4027,6 +4028,16 @@
                         "right": "-78.812"
                     }
                 },
+=======
+		"hartford_connecticut": {
+                    "bbox": {
+                        "top": "41.818",
+                        "left": "-72.711",
+                        "bottom": "41.710",
+                        "right": "-72.565"
+		    }
+		},
+>>>>>>> eecfdc5fb8bdddadcd66386071cd9983458ed6b2
                 "hellertown_pennsylvania": {
                     "bbox": {
                         "top": "40.598",
