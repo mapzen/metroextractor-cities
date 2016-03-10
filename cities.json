@@ -4011,6 +4011,14 @@
                         "right": "-76.709"
                     }
                 },
+                "harrisonburg_virginia": {
+                    "bbox": {
+                        "top": "38.498",
+                        "left": "-78.947",
+                        "bottom": "38.376",
+                        "right": "-78.812"
+                    }
+                },
                 "hellertown_pennsylvania": {
                     "bbox": {
                         "top": "40.598",
