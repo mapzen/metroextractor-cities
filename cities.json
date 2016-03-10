@@ -392,6 +392,14 @@
                         "right": "-1.397" 
                     }
                 },
+                "saint-louis_senegal": {
+                    "bbox": {
+                        "top": "16.085",
+                        "left": "-16.556",
+                        "bottom": "15.952",
+                        "right": "-16.393" 
+                    }
+                },
                 "tamale_ghana": {
                     "bbox": {
                         "top": "9.483",
