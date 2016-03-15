@@ -392,6 +392,14 @@
                         "right": "-1.397" 
                     }
                 },
+                "saint-louis_senegal": {
+                    "bbox": {
+                        "top": "16.085",
+                        "left": "-16.556",
+                        "bottom": "15.952",
+                        "right": "-16.393" 
+                    }
+                },
                 "tamale_ghana": {
                     "bbox": {
                         "top": "9.483",
@@ -564,6 +572,14 @@
                         "bottom": "9.388"
                     }
                 },
+                "chandigarh_india": {
+                    "bbox": {
+                        "top": "30.808",
+                        "left": "76.612",
+                        "bottom": "30.613",
+                        "right": "76.905"
+                    }
+                },                
                 "chelyabinsk_russia": {
                     "bbox": {
                         "top": "55.438",
@@ -780,6 +796,14 @@
                         "right": "78.727"
                     }
                 },
+                "indore_india": {
+                    "bbox": {
+                        "top": "22.807",
+                        "left": "75.761",
+                        "bottom": "22.617",
+                        "right": "75.969"
+                    }
+                },                
                 "islamabad_pakistan": {
                     "bbox": {
                         "top": "34.347",
@@ -788,6 +812,14 @@
                         "right": "73.822"
                     }
                 },
+                "jaipur_india": {
+                    "bbox": {
+                        "top": "27.043",
+                        "left": "75.669",
+                        "bottom": "26.756",
+                        "right": "75.921"
+                    }
+                },                
                 "jeju_south-korea": {
                     "bbox": {
                         "top": "33.578",
@@ -1270,6 +1302,14 @@
                         "right": "40.178"
                     }
                 },
+                "surat_india": {
+                    "bbox": {
+                        "top": "21.307",
+                        "left": "72.695",
+                        "bottom": "21.075",
+                        "right": "73.010"
+                    }
+                },                
                 "taichung_taiwan": {
                     "bbox": {
                         "top": "24.365",
@@ -1801,6 +1841,14 @@
                         "right": "9.732"
                     }
                 },
+                "gelnhausen_germany": {
+                    "bbox": {
+                        "top": "50.249",
+                        "left": "9.112",
+                        "bottom": "50.162",
+                        "right": "9.272"
+                    }
+                },                
                 "maastricht_netherlands": {
                     "bbox": {
                         "top": "50.914",
@@ -4011,6 +4059,22 @@
                         "right": "-76.709"
                     }
                 },
+                "harrisonburg_virginia": {
+                    "bbox": {
+                        "top": "38.498",
+                        "left": "-78.947",
+                        "bottom": "38.376",
+                        "right": "-78.812"
+                    }
+                },
+		"hartford_connecticut": {
+                    "bbox": {
+                        "top": "41.818",
+                        "left": "-72.711",
+                        "bottom": "41.710",
+                        "right": "-72.565"
+		    }
+		},
                 "hellertown_pennsylvania": {
                     "bbox": {
                         "top": "40.598",
@@ -4939,6 +5003,14 @@
                         "right":"-81.507"
                     }
                 },
+                "waterloo-region_canada":{
+                    "bbox":{
+                        "top":"43.694",
+                        "left":"-80.872",
+                        "bottom":"43.263",
+                        "right":"-80.186"
+                    }
+                },
                 "whitehorse_canada":{
                     "bbox":{
                         "top":"60.798",
@@ -5537,6 +5609,14 @@
                         "right": "-65.189"
                     }
                 },
+                "talca_chile": {
+                    "bbox": {
+                        "top": "-35.334",
+                        "left": "-71.830",
+                        "bottom": "-35.572",
+                        "right": "-71.488"
+                    }
+                },                
                 "tarija_bolivia": {
                     "bbox": {
                         "top": "-21.454",
