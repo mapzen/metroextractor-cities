@@ -812,6 +812,14 @@
                         "right": "73.822"
                     }
                 },
+                "jaipur_india": {
+                    "bbox": {
+                        "top": "27.043",
+                        "left": "75.669",
+                        "bottom": "26.756",
+                        "right": "75.921"
+                    }
+                },                
                 "jeju_south-korea": {
                     "bbox": {
                         "top": "33.578",
