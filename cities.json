@@ -572,6 +572,14 @@
                         "bottom": "9.388"
                     }
                 },
+                "chandigarh_india": {
+                    "bbox": {
+                        "top": "30.808",
+                        "left": "76.612",
+                        "bottom": "30.613",
+                        "right": "76.905"
+                    }
+                },                
                 "chelyabinsk_russia": {
                     "bbox": {
                         "top": "55.438",
