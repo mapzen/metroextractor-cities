@@ -1809,6 +1809,14 @@
                         "right": "9.732"
                     }
                 },
+                "gelnhausen_germany": {
+                    "bbox": {
+                        "top": "50.249",
+                        "left": "9.112",
+                        "bottom": "50.162",
+                        "right": "9.272"
+                    }
+                },                
                 "maastricht_netherlands": {
                     "bbox": {
                         "top": "50.914",
