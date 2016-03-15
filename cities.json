@@ -5569,6 +5569,14 @@
                         "right": "-65.189"
                     }
                 },
+                "talca_chile": {
+                    "bbox": {
+                        "top": "-35.334",
+                        "left": "-71.830",
+                        "bottom": "-35.572",
+                        "right": "-71.488"
+                    }
+                },                
                 "tarija_bolivia": {
                     "bbox": {
                         "top": "-21.454",
