@@ -1294,6 +1294,14 @@
                         "right": "40.178"
                     }
                 },
+                "surat_india": {
+                    "bbox": {
+                        "top": "21.307",
+                        "left": "72.695",
+                        "bottom": "21.075",
+                        "right": "73.010"
+                    }
+                },                
                 "taichung_taiwan": {
                     "bbox": {
                         "top": "24.365",
