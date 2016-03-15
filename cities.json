@@ -788,6 +788,14 @@
                         "right": "78.727"
                     }
                 },
+                "indore_india": {
+                    "bbox": {
+                        "top": "22.807",
+                        "left": "75.761",
+                        "bottom": "22.617",
+                        "right": "75.969"
+                    }
+                },                
                 "islamabad_pakistan": {
                     "bbox": {
                         "top": "34.347",
