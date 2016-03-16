@@ -1238,6 +1238,15 @@
                         "right": "127.525"
                     }
                 },
+                
+                  "kep_cambodia": {
+                    "bbox": {
+                        "top": "10.509",
+                        "left": "104.266",
+                        "bottom": "10.460",
+                        "right": "104.334"
+                    }
+                },
                 "siem-reap_cambodia": {
                     "bbox": {
                         "top": "13.735",
