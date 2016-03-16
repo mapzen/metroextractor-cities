@@ -5665,6 +5665,14 @@
                         "left": "-73.501"
                     }
                 },
+                  "Sihanoukville_Cambodia": {
+                    "bbox": {
+                        "top": "10.670",
+                        "left": "103.451",
+                        "bottom": "10.584",
+                        "right": "103.556"
+                    }
+                }, 
                 "valparaiso_chile": {
                     "bbox": {
                         "top": "-32.894",
