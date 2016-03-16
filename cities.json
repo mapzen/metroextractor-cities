@@ -764,6 +764,16 @@
                         "right": "106.949" 
                     }
                 },
+                
+                "Hoi-an_vietnam": {
+                    "bbox": {
+                        "top": "15.921",
+                        "left": "108.277",
+                        "bottom": "15.856",
+                        "right": "108.407"
+                    }
+                },
+                
                 "hong-kong_china": {
                     "bbox": {
                         "top": "23.488",
