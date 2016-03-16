@@ -1238,6 +1238,15 @@
                         "right": "127.525"
                     }
                 },
+                
+                  "otres-beach_cambodia": {
+                    "bbox": {
+                        "top": "10.583",
+                        "left": "103.538",
+                        "bottom": "10.539",
+                        "right": "103.567"
+                    }
+                },
                 "siem-reap_cambodia": {
                     "bbox": {
                         "top": "13.735",
