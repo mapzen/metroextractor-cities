@@ -1238,6 +1238,15 @@
                         "right": "127.525"
                     }
                 },
+                
+                  "kampot_cambodia": {
+                    "bbox": {
+                        "top": "10.634",
+                        "left": "104.157",
+                        "bottom": "10.593",
+                        "right": "104.201"
+                    }
+                },
                 "siem-reap_cambodia": {
                     "bbox": {
                         "top": "13.735",
