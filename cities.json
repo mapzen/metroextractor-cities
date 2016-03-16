@@ -5665,6 +5665,15 @@
                         "left": "-73.501"
                     }
                 },
+                
+                "Otres-Beach_Cambodia": {
+                    "bbox": {
+                        "top": "10.583",
+                        "right": "103.538",
+                        "bottom": "10.539",
+                        "left": "103.567"
+                    }
+                },
                 "valparaiso_chile": {
                     "bbox": {
                         "top": "-32.894",
