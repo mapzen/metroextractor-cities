@@ -1764,14 +1764,6 @@
                         "right": "8.750"
                     }
                 },
-                "dijon_france": {
-                    "bbox": {
-                        "top": "47.364",
-                        "left": "4.974",
-                        "bottom": "47.256",
-                        "right": "5.114"
-                    }
-                },
                 "deggendorf_germany": {
                     "bbox": {
                         "top": "48.908",
@@ -1796,6 +1788,22 @@
                         "right": "-7.271"
                     }
                 },
+                "dessau-rosslau_germany": {
+                    "bbox": {
+                        "top": "51.883",
+                        "left": "12.128",
+                        "bottom": "51.782",
+                        "right": "12.364"
+                    }
+                },                
+                "dijon_france": {
+                    "bbox": {
+                        "top": "47.364",
+                        "left": "4.974",
+                        "bottom": "47.256",
+                        "right": "5.114"
+                    }
+                },                
                 "dortmund_germany": {
                     "bbox": {
                         "top": "51.627",
