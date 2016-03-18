@@ -5604,6 +5604,14 @@
                         "right": "-78.100"
                     }
                 },
+                "rancagua_chile": {
+                    "bbox": {
+                        "top": "-34.052",
+                        "left": "-70.870",
+                        "right": "-70.494",
+                        "bottom": "-34.268"
+                    }
+                },                
                 "recife_brazil": {
                     "bbox": {
                         "top": "-7.931",
