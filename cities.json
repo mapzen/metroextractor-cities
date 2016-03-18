@@ -876,6 +876,14 @@
                         "right": "120.838"
                     }
                 },
+                "kep_cambodia": {
+                    "bbox": {
+                        "top": "10.509",
+                        "left": "104.266",
+                        "bottom": "10.460",
+                        "right": "104.334"
+                    }
+                },                       
                 "kobe_japan": {
                     "bbox": {
                         "top": "35.001",
@@ -1253,12 +1261,17 @@
                         "right": "127.525"
                     }
                 },
+<<<<<<< HEAD
                   "sihanoukville_cambodia": {
                     "bbox": {
                         "top": "10.670",
                         "left": "103.451",
                         "bottom": "10.584",
                         "right": "103.556"
+=======
+                
+
+>>>>>>> c924bb9f225db073a2388af459ce4d5ef6a036e6
                     }
                 },
                 "siem-reap_cambodia": {
