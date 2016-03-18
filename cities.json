@@ -1156,6 +1156,15 @@
                         "right": "56.675"
                     }
                 },
+                
+                "phi-phi_thailand": {
+                    "bbox": {
+                        "top": "7.794",
+                        "left": "98.739",
+                        "bottom": "7.663",
+                        "right": "98.813"
+                    }
+                },
                 "phuket_thailand": {
                     "bbox": {
                         "top": "8.207",
