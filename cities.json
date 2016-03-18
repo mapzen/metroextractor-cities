@@ -1092,6 +1092,14 @@
                         "right": "128.576"
                     }
                 },
+                  "otres-beach_cambodia": {
+                    "bbox": {
+                        "top": "10.583",
+                        "left": "103.538",
+                        "bottom": "10.539",
+                        "right": "103.567"
+                    }
+                },                
                 "osaka_japan": {
                     "bbox": {
                         "top": "34.800",
@@ -1162,8 +1170,7 @@
                         "top": "11.970",
                         "left": "79.788",
                         "bottom": "11.898",
-                        "right": "79.845"
-                        
+                        "right": "79.845"                      
                     }
                 },
                 "pune_india": {
@@ -1246,7 +1253,6 @@
                         "right": "103.556"
                     }
                 },
-                
                 "siem-reap_cambodia": {
                     "bbox": {
                         "top": "13.735",
