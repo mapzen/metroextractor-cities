@@ -1076,6 +1076,15 @@
                         "right": "77.733"
                     }
                 },
+                
+                "nha-trang_vietnam": {
+                    "bbox": {
+                        "top": "12.290",
+                        "left": "109.144",
+                        "bottom": "12.193",
+                        "right": "109.218"
+                    }
+                },
                 "ningbo_china": {
                     "bbox": {
                         "top": "30.369",
