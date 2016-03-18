@@ -764,6 +764,16 @@
                         "right": "106.949" 
                     }
                 },
+                
+                "Hoi-an_vietnam": {
+                    "bbox": {
+                        "top": "15.921",
+                        "left": "108.277",
+                        "bottom": "15.856",
+                        "right": "108.407"
+                    }
+                },
+                
                 "hong-kong_china": {
                     "bbox": {
                         "top": "23.488",
@@ -828,6 +838,14 @@
                         "right": "126.987"
                     }
                 },
+                "kampot_cambodia": {
+                    "bbox": {
+                        "top": "10.634",
+                        "left": "104.157",
+                        "bottom": "10.593",
+                        "right": "104.201"
+                    }
+                },                
                 "kaohsiung_taiwan": {
                     "bbox": {
                         "top": "22.823",
@@ -868,6 +886,14 @@
                         "right": "120.838"
                     }
                 },
+                "kep_cambodia": {
+                    "bbox": {
+                        "top": "10.509",
+                        "left": "104.266",
+                        "bottom": "10.460",
+                        "right": "104.334"
+                    }
+                },                       
                 "kobe_japan": {
                     "bbox": {
                         "top": "35.001",
@@ -1060,6 +1086,15 @@
                         "right": "77.733"
                     }
                 },
+                
+                "nha-trang_vietnam": {
+                    "bbox": {
+                        "top": "12.290",
+                        "left": "109.144",
+                        "bottom": "12.193",
+                        "right": "109.218"
+                    }
+                },
                 "ningbo_china": {
                     "bbox": {
                         "top": "30.369",
@@ -1092,6 +1127,14 @@
                         "right": "128.576"
                     }
                 },
+                  "otres-beach_cambodia": {
+                    "bbox": {
+                        "top": "10.583",
+                        "left": "103.538",
+                        "bottom": "10.539",
+                        "right": "103.567"
+                    }
+                },                
                 "osaka_japan": {
                     "bbox": {
                         "top": "34.800",
@@ -1132,6 +1175,15 @@
                         "right": "56.675"
                     }
                 },
+                
+                "phi-phi_thailand": {
+                    "bbox": {
+                        "top": "7.794",
+                        "left": "98.739",
+                        "bottom": "7.663",
+                        "right": "98.813"
+                    }
+                },
                 "phuket_thailand": {
                     "bbox": {
                         "top": "8.207",
@@ -1162,8 +1214,7 @@
                         "top": "11.970",
                         "left": "79.788",
                         "bottom": "11.898",
-                        "right": "79.845"
-                        
+                        "right": "79.845"                      
                     }
                 },
                 "pune_india": {
@@ -1236,6 +1287,14 @@
                         "left": "126.064",
                         "bottom": "37.019",
                         "right": "127.525"
+                    }
+                },
+                  "sihanoukville_cambodia": {
+                    "bbox": {
+                        "top": "10.670",
+                        "left": "103.451",
+                        "bottom": "10.584",
+                        "right": "103.556"
                     }
                 },
                 "siem-reap_cambodia": {
@@ -1705,14 +1764,6 @@
                         "right": "8.750"
                     }
                 },
-                "dijon_france": {
-                    "bbox": {
-                        "top": "47.364",
-                        "left": "4.974",
-                        "bottom": "47.256",
-                        "right": "5.114"
-                    }
-                },
                 "deggendorf_germany": {
                     "bbox": {
                         "top": "48.908",
@@ -1737,6 +1788,22 @@
                         "right": "-7.271"
                     }
                 },
+                "dessau-rosslau_germany": {
+                    "bbox": {
+                        "top": "51.883",
+                        "left": "12.128",
+                        "bottom": "51.782",
+                        "right": "12.364"
+                    }
+                },                
+                "dijon_france": {
+                    "bbox": {
+                        "top": "47.364",
+                        "left": "4.974",
+                        "bottom": "47.256",
+                        "right": "5.114"
+                    }
+                },                
                 "dortmund_germany": {
                     "bbox": {
                         "top": "51.627",
@@ -5537,6 +5604,14 @@
                         "right": "-78.100"
                     }
                 },
+                "rancagua_chile": {
+                    "bbox": {
+                        "top": "-34.052",
+                        "left": "-70.870",
+                        "right": "-70.494",
+                        "bottom": "-34.268"
+                    }
+                },                
                 "recife_brazil": {
                     "bbox": {
                         "top": "-7.931",
