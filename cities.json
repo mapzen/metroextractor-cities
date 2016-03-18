@@ -828,6 +828,14 @@
                         "right": "126.987"
                     }
                 },
+                "kampot_cambodia": {
+                    "bbox": {
+                        "top": "10.634",
+                        "left": "104.157",
+                        "bottom": "10.593",
+                        "right": "104.201"
+                    }
+                },                
                 "kaohsiung_taiwan": {
                     "bbox": {
                         "top": "22.823",
