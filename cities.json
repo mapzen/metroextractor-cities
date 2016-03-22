@@ -3838,6 +3838,14 @@
                         "right": "-80.213"
                     }
                 },
+                "champaign_illinois": {
+                    "bbox": {
+                        "top": "40.186",
+                        "left": "-88.403",
+                        "bottom": "39.944",
+                        "right": "-88.133"
+                    }
+                },
                 "charleston_south-carolina": {
                     "bbox": {
                         "top": "32.976",
