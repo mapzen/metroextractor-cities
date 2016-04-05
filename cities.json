@@ -949,7 +949,15 @@
                         "bottom": "44.968",
                         "right": "39.226"
                     }
-                },                
+                },   
+                "krasnojarsk_russia": {
+                    "bbox": {
+                        "top": "56.442",
+                        "left": "92.143",
+                        "bottom": "55.786",
+                        "right": "94.299"
+                    }
+                }, 
                 "kuala-lumpur_malaysia": {
                     "bbox": {
                         "top": "3.407",
