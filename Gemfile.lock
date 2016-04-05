@@ -25,6 +25,3 @@ DEPENDENCIES
   rainbow (= 2.0.0)
   rake
   rubocop (= 0.37.0)
-
-BUNDLED WITH
-   1.11.2

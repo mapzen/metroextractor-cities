@@ -4528,6 +4528,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "krasnojarsk_russia"
+      },
+      "bbox": [
+        92.143,
+        55.786,
+        94.299,
+        56.442
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.143,
+              56.442
+            ],
+            [
+              94.299,
+              56.442
+            ],
+            [
+              94.299,
+              55.786
+            ],
+            [
+              92.143,
+              55.786
+            ],
+            [
+              92.143,
+              56.442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "kuala-lumpur_malaysia"
       },
       "bbox": [
