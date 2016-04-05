@@ -5588,6 +5588,14 @@
                         "right": "-67.004"
                     }
                 },
+		"palmas_brazil": {
+                    "bbox": {
+                        "top": "-10.087",
+                        "bottom": "-10.464",
+                        "left": "-48.525",
+                        "right": "-48.144"
+                    }
+                },
                 "paramaribo_suriname": {
                     "bbox": {
                         "left": "-55.218",
