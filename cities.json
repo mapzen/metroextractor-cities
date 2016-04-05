@@ -3726,6 +3726,14 @@
                         "right": "-82.358"
                     }
                 },
+                "athens_georgia": {
+                    "bbox": {
+                        "top": "34.041",
+                        "left": "-83.538",
+                        "bottom": "33.847",
+                        "right": "-83.240"
+                    }
+                },
                 "atlanta_georgia": {
                     "bbox": {
                         "top": "34.618",
