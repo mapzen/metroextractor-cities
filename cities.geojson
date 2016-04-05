@@ -18295,6 +18295,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "champaign_illinois"
+      },
+      "bbox": [
+        -88.403,
+        39.944,
+        -88.133,
+        40.186
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.403,
+              40.186
+            ],
+            [
+              -88.133,
+              40.186
+            ],
+            [
+              -88.133,
+              39.944
+            ],
+            [
+              -88.403,
+              39.944
+            ],
+            [
+              -88.403,
+              40.186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "charleston_south-carolina"
       },
       "bbox": [
