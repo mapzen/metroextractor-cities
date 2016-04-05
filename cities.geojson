@@ -17710,6 +17710,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "athens_georgia"
+      },
+      "bbox": [
+        -83.538,
+        33.847,
+        -83.24,
+        34.041
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.538,
+              34.041
+            ],
+            [
+              -83.24,
+              34.041
+            ],
+            [
+              -83.24,
+              33.847
+            ],
+            [
+              -83.538,
+              33.847
+            ],
+            [
+              -83.538,
+              34.041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "atlanta_georgia"
       },
       "bbox": [
