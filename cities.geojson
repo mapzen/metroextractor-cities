@@ -26641,6 +26641,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "palmas_brazil"
+      },
+      "bbox": [
+        -48.525,
+        -10.464,
+        -48.144,
+        -10.087
+      ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.525,
+              -10.087
+            ],
+            [
+              -48.144,
+              -10.087
+            ],
+            [
+              -48.144,
+              -10.464
+            ],
+            [
+              -48.525,
+              -10.464
+            ],
+            [
+              -48.525,
+              -10.087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "paramaribo_suriname"
       },
       "bbox": [
