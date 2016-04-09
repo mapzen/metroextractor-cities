@@ -1054,6 +1054,14 @@
                         "right": "73.516"
                     }
                 },
+                "mysore_india": {
+                    "bbox": {
+                        "top": "12.387",
+                        "left": "76.547",
+                        "bottom": "12.250",
+                        "right": "76.712"
+                    }
+                },
                 "nadym_russia": {
                     "bbox": {
                         "top": "65.567",
@@ -2813,6 +2821,14 @@
                         "right": "30.935"
                     }
                 },
+                "oradea_romania": {
+                    "bbox": {
+                        "top": "47.145",
+                        "left": "21.839",
+                        "bottom": "47.008",
+                        "right": "22.038"
+                    }
+                },
                 "poznan_poland": {
                     "bbox": {
                         "top": "52.509",
@@ -4027,6 +4043,14 @@
                         "left": "-114.529",
                         "bottom": "52.941",
                         "right": "-112.430"
+                    }
+                },
+                "el-paso_texas": {
+                    "bbox": {
+                        "top": "32.003",
+                        "left": "-106.651",
+                        "bottom": "31.614",
+                        "right": "-106.202"
                     }
                 },
                 "eugene_oregon": {
@@ -5537,6 +5561,14 @@
                         "left": "-80.030",
                         "bottom": "-2.301",
                         "right": "-79.768"
+                    }
+                },
+                "iquique_chile": {
+                    "bbox": {
+                        "top": "-20.186",
+                        "left": "-70.186",
+                        "bottom": "-20.300",
+                        "right": "-70.113"
                     }
                 },
                 "la-paz_bolivia": {
