@@ -2813,6 +2813,14 @@
                         "right": "30.935"
                     }
                 },
+                "oradea_romania": {
+                    "bbox": {
+                        "top": "47.145",
+                        "left": "21.839",
+                        "bottom": "47.008",
+                        "right": "22.038"
+                    }
+                },
                 "poznan_poland": {
                     "bbox": {
                         "top": "52.509",
