@@ -4037,6 +4037,14 @@
                         "right": "-112.430"
                     }
                 },
+                "el-paso_texas": {
+                    "bbox": {
+                        "top": "32.003",
+                        "left": "-106.651",
+                        "bottom": "31.614",
+                        "right": "-106.202"
+                    }
+                },
                 "eugene_oregon": {
                     "bbox": {
                         "top": "44.142",
