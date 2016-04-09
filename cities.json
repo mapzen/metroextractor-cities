@@ -5539,6 +5539,14 @@
                         "right": "-79.768"
                     }
                 },
+                "iquique_chile": {
+                    "bbox": {
+                        "top": "-20.186",
+                        "left": "-70.186",
+                        "bottom": "-20.300",
+                        "right": "-70.113"
+                    }
+                },
                 "la-paz_bolivia": {
                     "bbox": {
                         "top": "-16.391",
