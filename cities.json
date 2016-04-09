@@ -1054,6 +1054,14 @@
                         "right": "73.516"
                     }
                 },
+                "mysore_india": {
+                    "bbox": {
+                        "top": "12.387",
+                        "left": "76.547",
+                        "bottom": "12.250",
+                        "right": "76.712"
+                    }
+                },
                 "nadym_russia": {
                     "bbox": {
                         "top": "65.567",
