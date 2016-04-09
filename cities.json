@@ -334,7 +334,7 @@
                         "left": "32.391",
                         "bottom": "-26.045",
                         "right": "32.706"
-                  }  
+                    }  
                 },
                 "mauritius": {
                   "bbox": {
@@ -342,7 +342,23 @@
                         "left": "57.261",
                         "bottom": "-20.547",
                         "right": "57.830"
-                  }  
+                    }  
+                },
+                "mekelle_ethiopia": {
+                  "bbox": {
+                        "top": "13.654",
+                        "left": "39.343",
+                        "bottom": "13.364",
+                        "right": "39.629"
+                    }
+                },
+                "mocuba_mozambique": {
+                  "bbox": {
+                        "top": "-16.167",
+                        "left": "35.824",
+                        "bottom": "-17.450",
+                        "right": "37.664"
+                    }
                 },
                 "mogadishu_somalia": {
                     "bbox": {
@@ -1135,7 +1151,7 @@
                         "right": "128.576"
                     }
                 },
-                  "otres-beach_cambodia": {
+                "otres-beach_cambodia": {
                     "bbox": {
                         "top": "10.583",
                         "left": "103.538",
@@ -1208,13 +1224,20 @@
                         "right": "104.180"
                     }
                 },
-                
                 "phnom-penh_cambodia": {
                     "bbox": {
                         "top": "11.737",
                         "left": "104.712",
                         "bottom": "11.422",
                         "right": "105.056"
+                    }
+                },
+                "pokhara_nepal": {
+                    "bbox": {
+                        "top": "28.466",
+                        "left": "83.749",
+                        "bottom": "28.077",
+                        "right": "84.143"
                     }
                 },
                 "pondicherry_india": {
