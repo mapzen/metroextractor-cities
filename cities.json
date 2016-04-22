@@ -4501,6 +4501,14 @@
                         "right": "-79.506"
                     }
                 },
+                "missoula_montana": {
+                    "bbox": {
+                        "top": "46.950",
+                        "left": "-114.127",
+                        "bottom": "46.802",
+                        "right": "-113.909"
+                    }
+                },
                 "mobile_alabama": {
                     "bbox": {
                         "top": "30.883",
