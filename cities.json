@@ -2845,6 +2845,14 @@
                         "right": "15.012"
                     }
                 },
+                "daugavpils_latvia": {
+                    "bbox": {
+                        "top": "55.822",
+                        "left": "26.250",
+                        "bottom": "55.570",
+                        "right": "26.658"
+                    }
+                },
                 "riga_latvia": {
                     "bbox": {
                         "top": "57.300",
