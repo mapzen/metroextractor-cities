@@ -3821,6 +3821,14 @@
                     "right": "-70.216"
                     }
                 },
+                "beaumont_texas": {
+                    "bbox": {
+                    	"top": "30.300",
+                    	"left": "-94.262",
+                    	"bottom": "29.841",
+                    	"right": "-93.704"
+                    }
+                },
                 "bernalillo-county_new-mexico": {
                     "bbox": {
                         "top": "35.220",
