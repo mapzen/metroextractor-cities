@@ -3733,6 +3733,14 @@
                 "right": "-52.000"
             },
             "cities": {
+		"abbotsford_canada":{
+		    "bbox":{
+			"top" : "49.356"
+			"left" : "-122.461"
+			"bottom" : "49.000"
+			"right" : "-122.073"
+		    }
+		},
                 "albany_new-york": {
                     "bbox": {
                         "top": "42.722",
@@ -3941,6 +3949,14 @@
                         "right": "-87.066"
                     }
                 },
+		"chilliwack_canada":{
+		    "bbox":{
+			"top" : "49.363"
+			"left" : "-122.125"
+			"bottom" : "49.000"
+			"right" : "-121.269"
+		    }
+		},
                 "cincinnati_ohio": {
                     "bbox": {
                         "top": "39.471",
@@ -5125,6 +5141,14 @@
                         "right": "-123.020"
                     }
                 },
+		"vancouver_metro_canada":{
+		    "bbox":{
+			"top" : "49.574"
+			"left" : "-123.432"
+			"bottom" : "49.000"
+			"right" : "-122.401"
+		    }
+		},
                 "victoria_canada": {
                     "bbox": {
                         "top": "48.871",
