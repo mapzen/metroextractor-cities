@@ -6,7 +6,7 @@
     	margin-top: -10px;
     }
     .feedback {
-      background-color: transparent;
+      background-color: transparent !important;
       margin-top: 30px;
     }
     .top h4, .top .fa-times {
