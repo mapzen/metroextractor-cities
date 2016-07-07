@@ -4473,8 +4473,8 @@
                 "new-haven_connecticut": {
                     "bbox": {
                         "top": "41.479",
-                        "left": "-73.010"
-                        "bottom": "41.241"
+                        "left": "-73.010",
+                        "bottom": "41.241",
                         "right": "-72.839"
                     }
                 },
