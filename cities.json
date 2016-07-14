@@ -5125,6 +5125,14 @@
                         "right": "-123.020"
                     }
                 },
+		"veracruz_veracruz_mexico": {
+		    "bbox": {
+			"top": "19.238",
+                        "left": "-96.253",
+                        "bottom": "19.065",
+                        "right": "-96.086"
+                    }
+		},
                 "victoria_canada": {
                     "bbox": {
                         "top": "48.871",
@@ -5181,6 +5189,14 @@
                         "right":"-96.885"
                     }
                 },
+		"xalapa_veracruz_mexico": {
+		    "bbox": {
+			"top": "19.604",
+                        "left": "-96.983",
+                        "bottom": "19.441",
+                        "right": "-96.833"
+                    }
+		},
                 "yellowknife_canada":{
                     "bbox":{
                         "top":"62.526",
