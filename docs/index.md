@@ -1,33 +1,3 @@
-<style>
-    .content.top {
-      background-color: rgb(230,234,210);
-      padding: 0px 10px;
-    	margin-bottom: 20px;
-    	margin-top: -10px;
-    }
-    .feedback {
-      background-color: transparent !important;
-      margin-top: 30px;
-    }
-    .top h4, .top .fa-times {
-      margin: 0;
-    }
-    .content p {
-      font-size:14px;
-      line-height: 1.6em;
-      margin: 15px 0;
-    }
-    .content .btn {
-      margin:0;
-    }
-    @media(min-width: 768px) and (max-width: 992px) {
-      .fa-comments { 
-        font-size: 80px;
-        margin-top: 40px;
-      }
-    }
-  </style>
-<div class="content top row"><img class="feedback col-sm-2 hidden-xs" src="https://mapzen.com/common/styleguide/images/feedback.svg"/><div class="col-sm-10 col-xs-12"><h4>Help us make Metro Extracts better!</h4><p>Hi, we are looking for people using metro extracts to fill out a quick survey about your experience. It will only take a minute, we promise!</p><a href="http://goo.gl/forms/N1zZLXyBGakCIL7g1" class="btn btn-mapzen-alt">Sure, let's do it!</a></div></div>
 Metro Extracts are chunks of OpenStreetMap data clipped to the rectangular region surrounding a particular city or region of interest. Data is available for locations around the world.
 
 To download the OSM data, go to the Metro Extracts download page at https://mapzen.com/data/metro-extracts/. The page has a map showing the available downloads, as well as a filter box and an alphabetical list of city names below it.
