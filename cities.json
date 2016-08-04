@@ -482,7 +482,6 @@
                         "right": "72.787"
                     }
                 },
-                
                 "almaty_kazakhstan": {
                     "bbox": {
                         "top": "43.549",
@@ -513,6 +512,14 @@
                         "left": "99.569",
                         "bottom": "12.661",
                         "right": "101.337"
+                    }
+                },
+                "barisal_bangladesh": {
+                    "bbox": {
+                        "top": "22.744",
+                        "left": "90.318",
+                        "bottom": "22.647",
+                        "right": "90.390"
                     }
                 },
                 "batticaloa_sri-lanka": {
@@ -3135,14 +3142,6 @@
                         "left": "1.898",
                         "bottom": "41.246",
                         "right": "2.312"
-                    }
-                },
-                "barisal_bangladesh": {
-                    "bbox": {
-                        "top": "22.744",
-                        "left": "90.318",
-                        "bottom": "22.647",
-                        "right": "90.390"
                     }
                 },
                 "bilbao_spain": {
