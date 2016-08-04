@@ -636,6 +636,14 @@
                         "right": "120.502"
                     }
                 },
+                "chittagong_bangladesh": {
+                    "bbox": {
+                        "top": "22.431",
+                        "left": "91.755",
+                        "bottom": "22.226",
+                        "right": "91.892"
+                    }
+                },
                 "chongqing_china": {
                     "bbox": {
                         "top": "32.217",
@@ -658,6 +666,14 @@
                         "left": "79.756",
                         "bottom": "6.737",
                         "right": "80.385"
+                    }
+                },
+                "cox's-bazar_bangladesh": {
+                    "bbox": {
+                        "top": "21.514",
+                        "left": "91.948",
+                        "bottom": "21.388",
+                        "right": "92.058"
                     }
                 },
                 "da-nang_vietnam": {
@@ -909,7 +925,15 @@
                         "bottom": "10.460",
                         "right": "104.334"
                     }
-                },                       
+                },
+                "khulna_bangladesh": {
+                    "bbox": {
+                        "top": "22.934",
+                        "left": "89.483",
+                        "bottom": "22.757",
+                        "right": "89.582"
+                    }
+                },
                 "kobe_japan": {
                     "bbox": {
                         "top": "35.001",
@@ -1280,6 +1304,14 @@
                         "right": "97.337"
                     }
                 },
+                "rajshahi_bangladesh": {
+                    "bbox": {
+                        "top": "24.411",
+                        "left": "88.545",
+                        "bottom": "24.349",
+                        "right": "88.667"
+                    }
+                },
                 "saint-petersburg_russia": {
                     "bbox": {
                         "top": "60.345",
@@ -1407,7 +1439,15 @@
                         "bottom": "21.075",
                         "right": "73.010"
                     }
-                },                
+                },
+                "sylhet_bangladesh": {
+                    "bbox": {
+                        "top": "24.938",
+                        "left": "91.813",
+                        "bottom": "24.862",
+                        "right": "91.911"
+                    }
+                },
                 "taichung_taiwan": {
                     "bbox": {
                         "top": "24.365",
@@ -3095,6 +3135,14 @@
                         "left": "1.898",
                         "bottom": "41.246",
                         "right": "2.312"
+                    }
+                },
+                "barisal_bangladesh": {
+                    "bbox": {
+                        "top": "22.647",
+                        "left": "90.318",
+                        "bottom": "22.647",
+                        "right": "90.390"
                     }
                 },
                 "bilbao_spain": {
