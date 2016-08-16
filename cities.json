@@ -4541,6 +4541,14 @@
                         "right": "-77.253"
                     }
                 },
+                "new-haven_connecticut": {
+                    "bbox": {
+                        "top": "41.479",
+                        "left": "-73.010",
+                        "bottom": "41.241",
+                        "right": "-72.839"
+                    }
+                },
                 "new-orleans_louisiana": {
                     "bbox": {
                         "top": "30.510",
