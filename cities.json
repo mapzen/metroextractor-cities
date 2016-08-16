@@ -3973,6 +3973,14 @@
                         "right": "-104.640"
                     }
                 },
+                "corpus-christi_texas": {
+                    "bbox":{
+                        "top": "27.967",
+                	"left": "-97.783",
+                	"bottom": "27.521",
+                	"right": "-97.093"
+                    }
+                },
                 "dallas_texas": {
                     "bbox": {
                         "top": "33.431",
