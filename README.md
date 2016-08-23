@@ -1,3 +1,6 @@
+## DEPRECATION NOTICE
+This repository is no longer in use. Please see [Mapzen Metro Extracts](https://mapzen.com/data/metro-extracts/)
+
 metroextractor-cities
 =====================
 ![Build Status](https://circleci.com/gh/mapzen/metroextractor-cities.svg?style=svg)
