@@ -1006,6 +1006,14 @@
                         "right": "112.611"
                     }
                 },
+				"male_maldives": {
+				    "bbox": {
+				        "top": "4.254",
+				        "left": "73.429",
+				        "bottom": "4.161",
+				        "right": "73.556"
+				    }
+				},
                 "manado_indonesia": {
                     "bbox": {
                         "top": "1.546",
