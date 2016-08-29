@@ -2869,6 +2869,14 @@
                         "right": "23.830"
                     }
                 },
+                "salzburg_austria": {
+                    "bbox": {
+                        "top": "47.887",
+                        "left": "12.832",
+                        "bottom": "47.729",
+                        "right": "13.151"
+                    }
+                },
                 "tallinn_estonia": {
                     "bbox": {
                         "top": "59.492",
