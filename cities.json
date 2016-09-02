@@ -1683,6 +1683,14 @@
                         "right": "9.259"
                     }
                 },
+                "brest_france": {
+                    "bbox": {
+                        "top": "48.471",
+                        "left": "-4.647",
+                        "bottom": "48.322",
+                        "right": "-4.316"
+                    }
+                },
                 "brighton_england": {
                     "bbox": {
                         "top": "50.883",
