@@ -5387,6 +5387,14 @@
                         "bottom": "-25.535"
                     }
                 },
+                  "barranquilla_colombia": {
+                    "bbox": {
+                        "top": "11.0433",
+                        "left": "10.8758",
+                        "right": "-74.8735",
+                        "bottom": "-74.7568"
+                    }
+                },
                 "belo-horizonte_brazil": {
                     "bbox": {
                         "top": "-19.776",
@@ -5417,6 +5425,14 @@
                         "left": "-48.501",
                         "bottom": "-16.317",
                         "right": "-47.378"
+                    }
+                },
+                "bucaramanga_colombia": {
+                    "bbox": {
+                        "top": "7.1660",
+                        "left": "7.0569",
+                        "right": "-73.0744",
+                        "bottom": "-73.1450"
                     }
                 },
                 "buenos-aires_argentina": {
@@ -5657,6 +5673,14 @@
                         "bottom": "5.868",
                         "right": "-55.174",
                         "top": "5.883"
+                    }
+                },
+                "pereira_colombia": {
+                    "bbox": {
+                        "left": "4.8555",
+                        "bottom": "4.7850",
+                        "right": "-75.6539",
+                        "top": "-75.7648"
                     }
                 },
                 "piura_peru": {
