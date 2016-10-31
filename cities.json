@@ -216,6 +216,15 @@
                         "right": "31.377"
                     }
                 },
+		    
+		     "hepburn_Canada": {
+                    "bbox": {
+                        "top": "52.530",
+                        "left": "-106.741",
+                        "bottom": "52.517",
+                        "right": "-106.720"
+                    }
+                },
                 "ibadan_nigeria": {
                     "bbox": {
                         "top": "7.476",
